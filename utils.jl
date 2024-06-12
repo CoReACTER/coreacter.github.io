@@ -21,7 +21,7 @@ end
 function publication_title_case(string::String)
   uncapitalized = [
     "a", "and", "as", "at", "but", "by", "down", "for", "from", "if", "in", "into", "like", "near", "nor", "of", "off",
-    "on", "once", "onto", "or", "over", "past", "so", "than", "that", "to", "upon", "when", "with", "yet"
+    "on", "once", "onto", "or", "over", "past", "so", "than", "that", "the", "to", "upon", "when", "with", "yet"
   ]
 
   punctuation = [
@@ -70,7 +70,7 @@ end
 function format_title(title::String)
 
   formatted = publication_title_case(title)
-  return string("**", formatted, "**")
+  return string("<b>", formatted, "</b>")
 
 end
 
@@ -100,7 +100,7 @@ function format_publication(
 
   publication_components = String[]
 
-  push!(publication_components, string("_", publication_title_case(pub.journal), "_"))
+  push!(publication_components, string("<i>", publication_title_case(pub.journal), "</i>"))
 
   if length(pub.volume) > 0
     if length(pub.number) > 0
@@ -119,7 +119,7 @@ function format_publication(
   end
 
   if length(access.doi) > 0
-    doi_string = string("[(DOI:", access.doi, ")](https://doi.org/", access.doi, ").")
+    doi_string = string("(<a href=https://doi.org/", access.doi, "> DOI: ", access.doi, "</a>).")
     push!(publication_components, doi_string)
   end
 
@@ -129,12 +129,8 @@ end
 
 
 function process_bib(file_name="_files/publications.bib")
-  # TODO: actual string formatting
-  # Separate sections for "in progress" vs. "in review" vs. 
-  # Aiming for:
-  # <Number>) <Title>
-  # <Authors>.
-  # <Journal>, <volume>(<number>), <pages>, <year>. (DOI: <DOI>)
+  # TODO:
+  # - Separate by year?
 
   entries = import_bibtex(file_name)
 
@@ -146,7 +142,7 @@ function process_bib(file_name="_files/publications.bib")
   forthcoming_strings = String[]
   preprint_strings = String[]
   peerrev_strings = String[]
-  
+
   for entry in entries.vals
     title = entry.title
 
@@ -160,13 +156,13 @@ function process_bib(file_name="_files/publications.bib")
     title_string = format_title(title)
 
     if length(access.url) > 0
-      title_string = string("[", title_string, "](", access.url, ")")
+      title_string = string("<a href=", access.url, ">", title_string, "</a>")
     end
 
     author_string = format_authors(authors)
     publication_string = format_publication(access, date, pub)
 
-    this_string = string(title_string, ".\n", author_string, ".\n", publication_string, ".\n")
+    this_string = string(title_string, ".\n\t\t", author_string, ".\n\t\t", publication_string, ".\t\t\n")
 
     if lowercase(pub.journal) in forthcoming_cues
       push!(forthcoming_strings, this_string)
@@ -179,9 +175,48 @@ function process_bib(file_name="_files/publications.bib")
   end
 
   return Dict(
-    "forthcoming" => forthcoming_strings,
-    "preprints" => preprint_strings,
-    "peerreviewed" => peerrev_strings
+    "Forthcoming" => forthcoming_strings,
+    "Preprints" => preprint_strings,
+    "Peer-Reviewed" => peerrev_strings
   )
+
+end
+
+function hfun_bib()
+
+  processed = process_bib()
+
+  final_parts = String[]
+
+  # Numbering 
+  index = 0
+  for group in processed
+    index += length(group[2])
+  end
+
+  for (key, values) in processed
+    section_title = string(
+      "<div class=\"bibsection\">\n\t<div class=\"bibsectiontitle\"><h2>",
+      key,
+      "</h2></div>\n"
+    )
+
+    push!(final_parts, section_title)
+
+    for entry in values
+      valstring = string(
+        "\t\t<div class=\"bibentry\"> ", index, ") ", entry, "\n\t\t</div>\n"
+      )
+      push!(final_parts, valstring)
+      index -= 1
+    end
+
+    push!(final_parts, "</div>")
+
+  end
+
+  overall_bib = join(final_parts, "\n")
+
+  return overall_bib
 
 end
