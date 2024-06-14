@@ -2,7 +2,6 @@ using BibInternal
 using Bibliography
 using YAML
 using OrderedCollections
-using Dates
 
 # Built-ins
 function hfun_bar(vname)
@@ -293,14 +292,28 @@ end
 
 # For parsing and formatting news
 function hfun_news()
-  news_data = YAML.load_file("_data/news.yml")
 
-  df = DateFormat("y-m-d");
+  months_names = Dict(
+    1 => "Jan",
+    2 => "Feb",
+    3 => "Mar",
+    4 => "Apr",
+    5 => "May",
+    6 => "Jun",
+    7 => "Jul",
+    8 => "Aug",
+    9 => "Sep",
+    10 => "Oct",
+    11 => "Nov",
+    12 => "Dec"
+  )
+
+  news_data = YAML.load_file("_data/news.yml")
 
   # Probably going to want to reformat this at some point and have it be a table with images
   # For now, this lazy approach with div will work
   final_parts = [
-    """<table class="peopletab" style="border:0;">
+    """<table class="newstab" style="border:0;">
 <colgroup>
 <col width="20%" />
 <col width="80%" />
@@ -310,14 +323,23 @@ function hfun_news()
 """
   ]
 
-  for entry in sort(collect(news_data), by=x->Date(x[2]["date"]))
+  for entry in sort(collect(news_data), by=x->x[2]["date"])
+    date = entry[2]["date"]
+    this_date_string = string(
+      months_names[Dates.month(date)],
+      " ",
+      Dates.day(date),
+      ", ",
+      Dates.year(date)
+    )
+    
     push!(
       final_parts,
       string(
         "\t<tr>\n\t\t<td>\n\t\t\t",
-        entry["date"],
+        this_date_string,
         "\n\t\t</td>\n\t\t<td>\n\t\t\t<p>",
-        entry["text"],
+        entry[2]["text"],
         "</p>\n\t\t</td>\n\t</tr>"
       )
     )
@@ -330,4 +352,9 @@ function hfun_news()
 
   return join(final_parts, "\n")
   
+end
+
+# For providing previews of blog posts
+function hfun_blog_post_table()
+  # TODO
 end

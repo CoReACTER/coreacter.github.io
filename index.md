@@ -23,3 +23,4 @@ We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee)
 
 # News
 
+{{news}}
