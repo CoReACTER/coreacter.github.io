@@ -1,0 +1,15 @@
+ewcss:
+  display_name: Evan Walter Clark Spotte-Smith
+  pronouns: they/them
+  email: ewcspottesmith@cmu.edu
+  role: reacter
+  position: Assistant Professor of Chemical Engineering, CMU
+  image: ewcss.png
+
+sblau:
+  display_name: Samuel M. Blau
+  pronouns: he/him
+  email: smblau@lbl.gov
+  role: collaborator
+  position: Research Scientist, LBNL
+  image: sam_blau.png

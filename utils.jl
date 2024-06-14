@@ -1,6 +1,10 @@
 using BibInternal
 using Bibliography
+using YAML
+using OrderedCollections
+using Dates
 
+# Built-ins
 function hfun_bar(vname)
   val = Meta.parse(vname[1])
   return round(sqrt(val), digits=2)
@@ -18,6 +22,7 @@ function lx_baz(com, _)
   return uppercase(brace_content)
 end
 
+# For parsing and formatting *.bib files
 function publication_title_case(string::String)
   uncapitalized = [
     "a", "and", "as", "at", "but", "by", "down", "for", "from", "if", "in", "into", "like", "near", "nor", "of", "off",
@@ -220,3 +225,70 @@ function hfun_bib()
   return overall_bib
 
 end
+
+# For parsing and formatting people
+function hfun_peopletable(params::Vector{String})
+
+  #TODO: add bios, fun facts, etc. to people.yml and this function
+
+  people_data = YAML.load_file("_data/people.yml"; dicttype=OrderedDict{String,Any})
+
+  role = params[1]
+  title = params[2]
+
+  final_parts = [string(
+    "<div class=\"peopletabtitle\"><h2>",
+    title,
+    "</div></h2>"
+  )]
+
+  # Table initialization
+
+  
+  push!(
+    final_parts,
+    """<table class="peopletab" style="border:0;">
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  )
+
+  for values in people_data.vals
+    if values["role"] == role
+      push!(
+        final_parts,
+        string(
+          "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"author_avatar\"><img src=\"/_files/images/",
+          values["image"],
+          "\" class=\"author_avatar\" alt=\"",
+          values["display_name"],
+          "\"></div>\n\t\t</td>\n\t\t<td>\n\t\t\t<p><strong>",
+          values["display_name"],
+          "</strong> (",
+          values["pronouns"],
+          ")<br>\n\t\t\tCurrent Position: ",
+          values["position"],
+          "<br>\n\t\t\tE-mail: <a href=\"mailto:",
+          values["email"],
+          "\">",
+          values["email"],
+          "</a></p>\n\t\t</td>\n\t</tr>"
+        )
+      )
+    end
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")
+
+end
+
+# 
