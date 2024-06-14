@@ -291,4 +291,43 @@ function hfun_peopletable(params::Vector{String})
 
 end
 
-# 
+# For parsing and formatting news
+function hfun_news()
+  news_data = YAML.load_file("_data/news.yml")
+
+  df = DateFormat("y-m-d");
+
+  # Probably going to want to reformat this at some point and have it be a table with images
+  # For now, this lazy approach with div will work
+  final_parts = [
+    """<table class="peopletab" style="border:0;">
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  ]
+
+  for entry in sort(collect(news_data), by=x->Date(x[2]["date"]))
+    push!(
+      final_parts,
+      string(
+        "\t<tr>\n\t\t<td>\n\t\t\t",
+        entry["date"],
+        "\n\t\t</td>\n\t\t<td>\n\t\t\t<p>",
+        entry["text"],
+        "</p>\n\t\t</td>\n\t</tr>"
+      )
+    )
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")
+  
+end
