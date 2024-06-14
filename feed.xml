@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  CoReACTER  ]]>
+    </title>
+    <link> https://coreacter.github.io </link>
+    <description>
+      <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
+    </description>
+    <atom:link
+      href="https://coreacter.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER  ]]>
+  </title>
+  <link> https://coreacter.github.io/index.html </link>
+  <guid> https://coreacter.github.io/index.html </guid>
+  <description>
+    <![CDATA[  The CoReACTER home page. We&#39;re a research organization operating in the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> of Carnegie Mellon University &#40;CMU&#41;.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Blog  ]]>
+  </title>
+  <link> https://coreacter.github.io/blog/index.html </link>
+  <guid> https://coreacter.github.io/blog/index.html </guid>
+  <description>
+    <![CDATA[  The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. All posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Code blocks  ]]>
+  </title>
+  <link> https://coreacter.github.io/research/index.html </link>
+  <guid> https://coreacter.github.io/research/index.html </guid>
+  <description>
+    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" alt="" />  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
