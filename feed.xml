@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Test Blog Post  ]]>
+  </title>
+  <link> https://coreacter.github.io/posts/20240614_test_post/index.html </link>
+  <guid> https://coreacter.github.io/posts/20240614_test_post/index.html </guid>
+  <description>
+    <![CDATA[  Test blog post.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  CoReACTER  ]]>
   </title>
   <link> https://coreacter.github.io/index.html </link>
