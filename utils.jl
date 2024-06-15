@@ -362,7 +362,7 @@ function hfun_blog_post_table()
   global months_names
 
   base_dir = "posts"
-  blog_post_files = filter(f -> endswith(f, ".md"), readdir(base_dir))
+  blog_post_files = sort(filter(f -> endswith(f, ".md"), readdir(base_dir)))
 
   people_data = YAML.load_file("_data/people.yml"; dicttype=OrderedDict{String,Any})
 
