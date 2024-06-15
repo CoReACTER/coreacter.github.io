@@ -290,23 +290,25 @@ function hfun_peopletable(params::Vector{String})
 
 end
 
+global const months_names = Dict(
+  1 => "Jan",
+  2 => "Feb",
+  3 => "Mar",
+  4 => "Apr",
+  5 => "May",
+  6 => "Jun",
+  7 => "Jul",
+  8 => "Aug",
+  9 => "Sep",
+  10 => "Oct",
+  11 => "Nov",
+  12 => "Dec"
+)
+
 # For parsing and formatting news
 function hfun_news()
 
-  months_names = Dict(
-    1 => "Jan",
-    2 => "Feb",
-    3 => "Mar",
-    4 => "Apr",
-    5 => "May",
-    6 => "Jun",
-    7 => "Jul",
-    8 => "Aug",
-    9 => "Sep",
-    10 => "Oct",
-    11 => "Nov",
-    12 => "Dec"
-  )
+  global months_names
 
   news_data = YAML.load_file("_data/news.yml")
 
@@ -356,5 +358,122 @@ end
 
 # For providing previews of blog posts
 function hfun_blog_post_table()
-  # TODO
+
+  global months_names
+
+  base_dir = "posts"
+  blog_post_files = filter(f -> endswith(f, ".md"), readdir(base_dir))
+
+  people_data = YAML.load_file("_data/people.yml"; dicttype=OrderedDict{String,Any})
+
+  title_pattern = r"\s*blog_post_title = \"(.*)\"\n"
+  date_pattern = r"\s*blog_post_date = Date\(([\d]+), ([\d]+), ([\d]+)\)"
+  author_pattern = r"\s*blog_post_author = \[((?:\"(?:[A-Za-z0-9]+)\",?\s*)+)\]\n"
+  preview_pattern = r"\s*blog_post_preview = \"(.*)\"\n"
+  image_pattern = r"\s*blog_post_image = \"(.*)\"\n"
+  alt_pattern = r"\s*blog_post_image_alt = \"(.*)\"\n"
+
+  final_parts = [
+    """<table class="blogtab" style="border:0;">
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  ]
+
+  for post in blog_post_files
+    file = open(string(base_dir, "/", post), "r")
+
+    contents = read(file, String)
+
+    title_match = match(title_pattern, contents)
+    author_match = match(author_pattern, contents)
+    date_match = match(date_pattern, contents)
+    preview_match = match(preview_pattern, contents)
+    image_match = match(image_pattern, contents)
+    alt_match = match(alt_pattern, contents)
+
+    if title_match !== nothing && author_match !== nothing && preview_match !== nothing && date_match !== nothing
+      this_string = string(
+          "\t<tr>\n\t\t<td>\n",
+        )
+
+      # No alt text, no image; we're trying to be accessible here
+      # Should we have a place-holder image?
+      if image_match !== nothing && alt_match !== nothing
+        this_string = string(
+          this_string,
+          "\t\t\t<div class=\"blog_preview_image\"><img src=\"",
+          image_match.captures[1],
+          "\" class=\"blog_preview_image\" alt=\"",
+          alt_match.captures[1],
+          "\"></div>\n\t\t</td>\n\t\t",
+        )
+      else
+        this_string = string(
+          this_string,
+          "\t\t</td>\n\t\t"
+        )
+      end
+
+      authors = [replace(x, "\"" => "") for x in split(author_match.captures[1], r",\s+")]
+
+      author_parts = String[]
+
+      for author in authors
+        if author in keys(people_data)
+          this_author_string = string(
+            people_data[author]["display_name"],
+            " (",
+            people_data[author]["pronouns"],
+            ")"
+          )
+          push!(author_parts, this_author_string)
+        else
+          push!(author_parts, "Unknown Author")
+        end
+      end
+
+      author_string = join(author_parts, ", ")
+
+      # Whether there's an image or no, now we put in the title and preview
+      
+      this_date_string = string(
+        months_names[parse(Int, date_match.captures[2])],
+        " ",
+        date_match.captures[3],
+        ", ",
+        date_match.captures[1]
+      )
+      
+      this_string = string(
+        this_string,
+        "<td>\n\t\t\t<h3><a href=\"/posts/",
+        split(post, ".")[1],
+        "\">",
+        title_match.captures[1],
+        "</a></h3><br>\n\t\t\t<p>",
+        author_string,
+        "<br>\n\t\t\tPosted on: ",
+        this_date_string,
+        "<br>\n\t\t",
+        preview_match.captures[1],
+        "\n\t\t\t</p>\n\t\t</td>\n\t</tr>",
+      )
+    end
+
+    push!(final_parts, this_string)
+
+    close(file)
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")
 end

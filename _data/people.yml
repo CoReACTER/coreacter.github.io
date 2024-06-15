@@ -1,3 +1,11 @@
+coreacter:
+  display_name: The CoReACTER
+  pronouns: it/its
+  email: coreacter@coreacter.org
+  role: organization
+  position: N/A
+  image: logo.png
+
 ewcss:
   display_name: Evan Walter Clark Spotte-Smith
   pronouns: they/them
