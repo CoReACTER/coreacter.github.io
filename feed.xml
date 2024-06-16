@@ -42,6 +42,25 @@
 
 <item>
   <title>
+    <![CDATA[  CoReACTER Publications  ]]>
+  </title>
+  <link> https://coreacter.github.io/publications/index.html </link>
+  <guid> https://coreacter.github.io/publications/index.html </guid>
+  <description>
+    <![CDATA[  Scholarly works published by the CoReACTER. This page is updated regularly with any papers published by the CoReACTER as an organization. Note that not all papers with ReACTERs as authors will be included here. For a complete list of publications by Prof. Spotte-Smith, you can check out <a href="https://espottesmith.github.io/publications">their website</a>.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  CoReACTER  ]]>
   </title>
   <link> https://coreacter.github.io/index.html </link>
