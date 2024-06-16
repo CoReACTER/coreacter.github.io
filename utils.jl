@@ -261,7 +261,7 @@ function hfun_peopletable(params::Vector{String})
       push!(
         final_parts,
         string(
-          "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"author_avatar\"><img src=\"_files/images/",
+          "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"author_avatar\"><img src=\"/_files/images/",
           values["image"],
           "\" class=\"author_avatar\" alt=\"",
           values["display_name"],
@@ -406,7 +406,7 @@ function hfun_blog_post_table()
       if image_match !== nothing && alt_match !== nothing
         this_string = string(
           this_string,
-          "\t\t\t<div class=\"blog_preview_image\"><img src=\"_files/images/",
+          "\t\t\t<div class=\"blog_preview_image\"><img src=\"/_files/images/",
           image_match.captures[1],
           "\" class=\"blog_preview_image\" alt=\"",
           alt_match.captures[1],
