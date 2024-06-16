@@ -132,7 +132,7 @@ function format_publication(
 end
 
 
-function process_bib(file_name="_files/publications.bib")
+function process_bib(file_name="_files/bib/publications.bib")
   # TODO:
   # - Separate by year?
 
@@ -261,7 +261,7 @@ function hfun_peopletable(params::Vector{String})
       push!(
         final_parts,
         string(
-          "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"author_avatar\"><img src=\"/_files/images/",
+          "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"author_avatar\"><img src=\"_files/images/",
           values["image"],
           "\" class=\"author_avatar\" alt=\"",
           values["display_name"],
@@ -362,7 +362,7 @@ function hfun_blog_post_table()
   global months_names
 
   base_dir = "posts"
-  blog_post_files = sort(filter(f -> endswith(f, ".md"), readdir(base_dir)))
+  blog_post_files = sort(filter(f -> endswith(f, ".md"), readdir(base_dir)), rev=true)
 
   people_data = YAML.load_file("_data/people.yml"; dicttype=OrderedDict{String,Any})
 
@@ -406,7 +406,7 @@ function hfun_blog_post_table()
       if image_match !== nothing && alt_match !== nothing
         this_string = string(
           this_string,
-          "\t\t\t<div class=\"blog_preview_image\"><img src=\"",
+          "\t\t\t<div class=\"blog_preview_image\"><img src=\"_files/images/",
           image_match.captures[1],
           "\" class=\"blog_preview_image\" alt=\"",
           alt_match.captures[1],
