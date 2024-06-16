@@ -23,6 +23,44 @@
 
 <item>
   <title>
+    <![CDATA[  CoReACTER Software  ]]>
+  </title>
+  <link> https://coreacter.github.io/software/index.html </link>
+  <guid> https://coreacter.github.io/software/index.html </guid>
+  <description>
+    <![CDATA[  Software developed and/or maintained by the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Data  ]]>
+  </title>
+  <link> https://coreacter.github.io/data/index.html </link>
+  <guid> https://coreacter.github.io/data/index.html </guid>
+  <description>
+    <![CDATA[  Datasets and databases developed and/or maintained by the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  CoReACTER Publications  ]]>
   </title>
   <link> https://coreacter.github.io/publications/index.html </link>
@@ -67,6 +105,44 @@
   <guid> https://coreacter.github.io/blog/index.html </guid>
   <description>
     <![CDATA[  The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. All posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Resources  ]]>
+  </title>
+  <link> https://coreacter.github.io/resources/index.html </link>
+  <guid> https://coreacter.github.io/resources/index.html </guid>
+  <description>
+    <![CDATA[  This page contains resources that are mainly designed for members of the CoReACTER community &#40;ReACTERs and collaborators&#41;. Some resources may also be helpful to others at CMU or to members of the broader chemical or scientific community.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Philosophy  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/principles/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/principles/index.html </guid>
+  <description>
+    <![CDATA[  A description of the core principles guiding the work of the CoReACTER, and a brief overview of our broader philosophies. Note that our ideas and methods are evolving, and so this document should be considered a snapshot, rather than a static ideology.  ]]>
   </description>  
     
   <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  

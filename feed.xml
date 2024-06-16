@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Research  ]]>
+  </title>
+  <link> https://coreacter.github.io/research/index.html </link>
+  <guid> https://coreacter.github.io/research/index.html </guid>
+  <description>
+    <![CDATA[  A description of the research that happens in and around the CoReACTER. We focus primarily on computational and data chemistry, supplemented and supported by &#40;mostly high-throughput&#41; experiments. We work on method development, but our efforts are generally focused on applications related to sustainability. Currently, we are thinking about battery energy storage, electrocatalysis, and plastic waste management.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Test Blog Post  ]]>
   </title>
   <link> https://coreacter.github.io/posts/20240614_test_post/index.html </link>
@@ -32,6 +51,63 @@
   </description>  
     
   <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Software  ]]>
+  </title>
+  <link> https://coreacter.github.io/software/index.html </link>
+  <guid> https://coreacter.github.io/software/index.html </guid>
+  <description>
+    <![CDATA[  Software developed and/or maintained by the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Data  ]]>
+  </title>
+  <link> https://coreacter.github.io/data/index.html </link>
+  <guid> https://coreacter.github.io/data/index.html </guid>
+  <description>
+    <![CDATA[  Datasets and databases developed and/or maintained by the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Open Science and the CoReACTER  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/openscience/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/openscience/index.html </guid>
+  <description>
+    <![CDATA[  The open science philosophy of the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -99,15 +175,91 @@
 
 <item>
   <title>
-    <![CDATA[  Code blocks  ]]>
+    <![CDATA[  Decision-Making in the CoReACTER  ]]>
   </title>
-  <link> https://coreacter.github.io/research/index.html </link>
-  <guid> https://coreacter.github.io/research/index.html </guid>
+  <link> https://coreacter.github.io/philosophy/decisionmaking/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/decisionmaking/index.html </guid>
   <description>
-    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" alt="" />  ]]>
+    <![CDATA[  General practices and guidelines for decision-making in the CoReACTER.  ]]>
   </description>  
     
-  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Resources  ]]>
+  </title>
+  <link> https://coreacter.github.io/resources/index.html </link>
+  <guid> https://coreacter.github.io/resources/index.html </guid>
+  <description>
+    <![CDATA[  This page contains resources that are mainly designed for members of the CoReACTER community &#40;ReACTERs and collaborators&#41;. Some resources may also be helpful to others at CMU or to members of the broader chemical or scientific community.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Philosophy  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/guidelines/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/guidelines/index.html </guid>
+  <description>
+    <![CDATA[  General guidelines for members of the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Practices of Accountability  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/accountability/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/accountability/index.html </guid>
+  <description>
+    <![CDATA[  Practices of accountability employed in the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Philosophy  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/principles/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/principles/index.html </guid>
+  <description>
+    <![CDATA[  A description of the core principles guiding the work of the CoReACTER, and a brief overview of our broader philosophies. Note that our ideas and methods are evolving, and so this document should be considered a snapshot, rather than a static ideology.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>

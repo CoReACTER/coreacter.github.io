@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  CoReACTER  ]]>
+    </title>
+    <link> https://coreacter.github.io </link>
+    <description>
+      <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
+    </description>
+    <atom:link
+      href="https://coreacter.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Data  ]]>
+  </title>
+  <link> https://coreacter.github.io/data/index.html </link>
+  <guid> https://coreacter.github.io/data/index.html </guid>
+  <description>
+    <![CDATA[  Datasets and databases developed and/or maintained by the CoReACTER.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Research  ]]>
+  </title>
+  <link> https://coreacter.github.io/research/index.html </link>
+  <guid> https://coreacter.github.io/research/index.html </guid>
+  <description>
+    <![CDATA[  A description of the research that happens in and around the CoReACTER. We focus primarily on computational and data chemistry, supplemented and supported by &#40;mostly high-throughput&#41; experiments. We work on method development, but our efforts are generally focused on applications related to sustainability. Currently, we are thinking about battery energy storage, electrocatalysis, and plastic waste management.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  CoReACTER Publications  ]]>
   </title>
   <link> https://coreacter.github.io/publications/index.html </link>
