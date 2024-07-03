@@ -21,3 +21,11 @@ sblau:
   role: collaborator
   position: Career Research Scientist, LBNL
   image: sam_blau.png
+
+rkurchin:
+  display_name: Rachel C. Kurchin
+  pronouns: she/her
+  email: rkurchin@cmu.edu
+  role: collaborator
+  position: Assistant Research Professor, CMU
+  image: rkurchin.png
