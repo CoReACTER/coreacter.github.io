@@ -8,5 +8,8 @@ rss_pubdate = Date(2024, 6, 13)
 tags = ["philosophy", "open science"]
 +++
 
+{{philosophy_nav}}
+
 # Open Science
 
+This page is a work in progress; come back soon for more details!

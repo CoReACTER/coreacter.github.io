@@ -8,5 +8,8 @@ rss_pubdate = Date(2024, 6, 13)
 tags = ["philosophy", "decision-making"]
 +++
 
+{{philosophy_nav}}
+
 # Decision-Making
 
+This page is a work in progress; come back soon for more details!

@@ -3,24 +3,6 @@ using Bibliography
 using YAML
 using OrderedCollections
 
-# Built-ins
-function hfun_bar(vname)
-  val = Meta.parse(vname[1])
-  return round(sqrt(val), digits=2)
-end
-
-function hfun_m1fill(vname)
-  var = vname[1]
-  return pagevar("index", var)
-end
-
-function lx_baz(com, _)
-  # keep this first line
-  brace_content = Franklin.content(com.braces[1]) # input string
-  # do whatever you want here
-  return uppercase(brace_content)
-end
-
 # For parsing and formatting *.bib files
 function publication_title_case(string::String)
   uncapitalized = [
@@ -476,4 +458,19 @@ function hfun_blog_post_table()
   )
 
   return join(final_parts, "\n")
+end
+
+function hfun_philosophy_nav()
+  nav_string = """<nav class="philosophy_nav">
+  <ul>
+    <li><a href="/philosophy/principles/">CoReACTER Principles</a></li>
+    <li><a href="/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li><a href="/philosophy/openscience/">Open Science</a></li>
+    <li><a href="/philosophy/accountability/">Practices of accountability</a></li>
+    <li><a href="/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  """
+
+  return nav_string
 end

@@ -8,9 +8,9 @@ rss_pubdate = Date(2024, 6, 13)
 tags = ["philosophy", "guidelines"]
 +++
 
+{{philosophy_nav}}
+
 # Guidelines for ReACTERS
-
-
 
 1. *Communicate.* The saying goes that "silence is golden", but in our experience, open communication is a lot nicer and helps a research organization run well. If you're having a problem (technical, personal, or otherwise), ask for help! If you see someone else struggling, ask them what's wrong or offer your support. Chat with your fellow ReACTERs to coordinate equipment usage and compute time, to brainstorm new ideas, and to work through conflicts. If you're in doubt as to whether communication is needed, err on the side of over-communication.
 
