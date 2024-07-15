@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  CoReACTER Philosophy: Principles  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/principles/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/principles/index.html </guid>
+  <description>
+    <![CDATA[  A description of the core principles guiding the work of the CoReACTER, and a brief overview of our broader philosophies. Note that our ideas and methods are evolving, and so this document should be considered a snapshot, rather than a static ideology.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Research  ]]>
   </title>
   <link> https://coreacter.github.io/research/index.html </link>
@@ -238,25 +257,6 @@
   <guid> https://coreacter.github.io/philosophy/accountability/index.html </guid>
   <description>
     <![CDATA[  Practices of accountability employed in the CoReACTER.  ]]>
-  </description>  
-    
-  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  CoReACTER Philosophy  ]]>
-  </title>
-  <link> https://coreacter.github.io/philosophy/principles/index.html </link>
-  <guid> https://coreacter.github.io/philosophy/principles/index.html </guid>
-  <description>
-    <![CDATA[  A description of the core principles guiding the work of the CoReACTER, and a brief overview of our broader philosophies. Note that our ideas and methods are evolving, and so this document should be considered a snapshot, rather than a static ideology.  ]]>
   </description>  
     
   <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
