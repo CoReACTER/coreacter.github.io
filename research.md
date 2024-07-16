@@ -39,7 +39,10 @@ Electrochemistry is well poised to help us reduce greenhouse gas emissions and m
 
 Unfortunately, electrochemical reactions are in general less well understood than thermochemical organic reactions, and as a result, progress towards next-generation energy-dense batteries and efficient electrosyntheses is slow. We believe that CRNs informed by first-principles simulations can change this and drive electrification forwards. We use CRNs to identify reaction mechanisms and understand what is going on in complex environments, such as the solid electrolyte interphase (SEI) in metal-ion batteries. By comparing the outcomes of different simulations, we can also leverage CRNs as an electrochemical design tool.
 
-We are also interested in extreme multi-scale modeling of electrochemical phenomena. Typically, electrochemical modeling is either conducted 
+To get an even deeper understanding of complex electrochemical phenomena, we also turn towards multi-scale modeling. Generally, this involves using first-principles thermochemistry and kinetics to inform mesoscale (*e.g.* kinetic Monte Carlo) and continuum-scale models that can access experimentally relevant time scales and connect with key device-level observables.
 
 ## Managing the Plastic Waste Crisis
 
+Currently, humans produce about 200 million tons of plastic waste every year. That plastic takes up space in landfills, damages fragile ecosystems, and harms human and non-human health. We're interested in making plastics more sustainable. We are working to design catalysts that can convert common polymers like polyethylene and polypropylene into valuable chemicals, providing an economically viable route to eliminate waste from landfills. We're also interested in designing new polymers that can easily be chemically or biochemically decomposed!
+
+To tackle these challenges, we're most interested in leveraging HTE and ML. We may supplement our experimental studies with mechanistic studies using quantum chemical and dynamical simulations.
