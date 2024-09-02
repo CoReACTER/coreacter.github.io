@@ -9,3 +9,5 @@ tags = ["index", "group", "resources"]
 +++
 
 # Resources
+
+This page contains resources that are mainly designed for members of the CoReACTER community (ReACTERs and collaborators). Some resources may also be helpful to others at CMU or to members of the broader chemical or scientific community.

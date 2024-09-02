@@ -188,3 +188,16 @@ td {
 table tbody tr td {
   border: 1px solid lightgray;
 }
+
+
+/* Custom fonts */
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
