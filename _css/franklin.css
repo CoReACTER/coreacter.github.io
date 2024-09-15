@@ -17,6 +17,7 @@
 html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: var(--normal);
+  text-align: justify;
   color: var(--text-color);
 }
 
@@ -87,9 +88,10 @@ html {
 }
 
 /* On wide screens, fix content width to a max value. */
+/* TODO: not sure I'm into this, in general */
 @media (min-width: 940px) {
   .franklin-content {
-    width: 705px;
+    width: 800 px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -160,9 +162,9 @@ h6 {
 
 .franklin-content th,
 td {
-  font-size: var(--small);
+  font-size: var(--normal);
   padding: 10px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 .franklin-content blockquote {
@@ -289,7 +291,7 @@ code {
   background-color: var(--block-background);
   padding: 0.1em 0.2em;
   border-radius: 2px;
-  font-size: var(--small);
+  font-size: var(--normal);
 }
 
 /* .franklin-content code { */

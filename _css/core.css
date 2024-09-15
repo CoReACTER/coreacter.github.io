@@ -3,7 +3,7 @@
 ================================================================== */
 
 nav {
-  width: 64%;
+  width: 100%;
   display: inline-block;
 }
 
@@ -82,7 +82,7 @@ header li a:hover {
 /* wide display: enforce maximum width of header to match content */
 @media (min-width: 940px) {
   header {
-    width: 705px;
+    width: 800 px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -170,9 +170,9 @@ table {
   margin-bottom: 1.5em;
 }
 
-tr:first-of-type {
-  background: #eae9f4;
-}
+/* tr:first-of-type { */
+/*   background: #eae9f4; */
+/* } */
 
 tr:first-of-type > th {
   text-align: center;
@@ -182,13 +182,12 @@ tr,
 th,
 td {
   padding: 10px;
-  border: 1px solid lightgray;
+  /* border: 1px solid lightgray; */
 }
 
-table tbody tr td {
-  border: 1px solid lightgray;
-}
-
+/* table tbody tr td { */
+/*   border: 1px solid lightgray; */
+/* } */
 
 /* Custom fonts */
 
@@ -198,6 +197,6 @@ table tbody tr td {
 .montserrat {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 300;
   font-style: normal;
 }

@@ -220,7 +220,7 @@ function hfun_peopletable(params::Vector{String})
   final_parts = [string(
     "<div class=\"peopletabtitle\"><h2>",
     title,
-    "</div></h2>"
+    "</h2></div>"
   )]
 
   # Table initialization
@@ -228,7 +228,7 @@ function hfun_peopletable(params::Vector{String})
   
   push!(
     final_parts,
-    """<table class="peopletab" style="border:0;">
+    """<table class="peopletab">
 <colgroup>
 <col width="20%" />
 <col width="80%" />
@@ -320,9 +320,9 @@ function hfun_news()
     push!(
       final_parts,
       string(
-        "\t<tr>\n\t\t<td>\n\t\t\t",
+        "\t<tr>\n\t\t<td>\n\t\t\t<b>",
         this_date_string,
-        "\n\t\t</td>\n\t\t<td>\n\t\t\t<p>",
+        "</b>\n\t\t</td>\n\t\t<td>\n\t\t\t<p>",
         entry[2]["text"],
         "</p>\n\t\t</td>\n\t</tr>"
       )
