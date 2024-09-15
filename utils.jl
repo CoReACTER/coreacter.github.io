@@ -419,7 +419,7 @@ function hfun_blog_post_table()
         end
       end
 
-      author_string = join(author_parts, ", ")
+      author_string = "<b>" * join(author_parts, ", ") * "</b>"
 
       # Whether there's an image or no, now we put in the title and preview
       
@@ -430,6 +430,16 @@ function hfun_blog_post_table()
         ", ",
         date_match.captures[1]
       )
+      
+      # Maximum length of a blog post summary
+      blog_capture_limit = 250
+
+      preview_capture = preview_match.captures[1]
+      if length(preview_capture) > blog_capture_limit
+        preview_string = preview_capture[1:blog_capture_limit - 3] * "..."
+      else
+        preview_string = preview_capture
+      end
       
       this_string = string(
         this_string,
@@ -442,7 +452,7 @@ function hfun_blog_post_table()
         "<br>\n\t\t\tPosted on: ",
         this_date_string,
         "<br>\n\t\t",
-        preview_match.captures[1],
+        preview_string,
         "\n\t\t\t</p>\n\t\t</td>\n\t</tr>",
       )
     end
