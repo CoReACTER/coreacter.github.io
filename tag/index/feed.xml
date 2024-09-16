@@ -118,25 +118,6 @@
 
 <item>
   <title>
-    <![CDATA[  CoReACTER Blog  ]]>
-  </title>
-  <link> https://coreacter.github.io/blog/index.html </link>
-  <guid> https://coreacter.github.io/blog/index.html </guid>
-  <description>
-    <![CDATA[  The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. All posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs.  ]]>
-  </description>  
-    
-  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  CoReACTER Resources  ]]>
   </title>
   <link> https://coreacter.github.io/resources/index.html </link>
