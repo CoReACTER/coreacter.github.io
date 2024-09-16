@@ -358,8 +358,8 @@ function hfun_blog_post_table()
   final_parts = [
     """<table class="blogtab" style="border:0;">
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="30%" />
+<col width="70%" />
 </colgroup>
 <thead></thead>
 <tbody>
@@ -443,11 +443,11 @@ function hfun_blog_post_table()
       
       this_string = string(
         this_string,
-        "<td>\n\t\t\t<h3><a href=\"/posts/",
+        "<td>\n\t\t\t<h2><a href=\"/posts/",
         split(post, ".")[1],
         "\">",
         title_match.captures[1],
-        "</a></h3><br>\n\t\t\t<p>",
+        "</a></h2><br>\n\t\t\t<p>",
         author_string,
         "<br>\n\t\t\tPosted on: ",
         this_date_string,
@@ -473,11 +473,11 @@ end
 function hfun_philosophy_nav()
   nav_string = """<nav class="philosophy_nav">
   <ul>
-    <li><a href="/philosophy/principles/">CoReACTER Principles</a></li>
-    <li><a href="/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
-    <li><a href="/philosophy/openscience/">Open Science</a></li>
-    <li><a href="/philosophy/accountability/">Practices of accountability</a></li>
-    <li><a href="/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+    <li class="philosophy_nav"><a href="/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="/philosophy/accountability/">Practices of accountability</a></li>
+    <li class="philosophy_nav"><a href="/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
 </nav>
   """
