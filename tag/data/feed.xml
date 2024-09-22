@@ -9,7 +9,7 @@
 
   <channel>
     <title>
-      <![CDATA[  CoReACTER  ]]>
+      <![CDATA[  The CoReACTER  ]]>
     </title>
     <link> https://coreacter.github.io </link>
     <description>
@@ -30,6 +30,12 @@
   <description>
     <![CDATA[  Datasets and databases developed and/or maintained by the CoReACTER.  ]]>
   </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="datasets">Datasets</h1>
+ ]]>
+  </content:encoded>
     
   <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
   

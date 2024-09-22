@@ -9,7 +9,7 @@
 
   <channel>
     <title>
-      <![CDATA[  CoReACTER  ]]>
+      <![CDATA[  The CoReACTER  ]]>
     </title>
     <link> https://coreacter.github.io </link>
     <description>
@@ -30,6 +30,22 @@
   <description>
     <![CDATA[  Practices of accountability employed in the CoReACTER.  ]]>
   </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="accountability">Accountability</h1>
+<p>This page is a work in progress; come back soon for more details&#33;</p>
+ ]]>
+  </content:encoded>
     
   <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
   

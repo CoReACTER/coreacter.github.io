@@ -9,7 +9,7 @@
 
   <channel>
     <title>
-      <![CDATA[  CoReACTER  ]]>
+      <![CDATA[  The CoReACTER  ]]>
     </title>
     <link> https://coreacter.github.io </link>
     <description>
@@ -30,6 +30,44 @@
   <description>
     <![CDATA[  General practices and guidelines for decision-making in the CoReACTER.  ]]>
   </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="decision-making">Decision-Making</h1>
+<p>As an anti-oppressive research organization, the CoReACTER is dedicated to community-centered, collective, and equitable decision-making. Here, we outline procedures that help us to live up to our ideals and aspirations while making the best decisions possible.</p>
+<ol>
+<li><p><em>Decisions are made democratically.</em> No one ReACTER has a greater ability to direct CoReACTER business than any other; in general, each individual is given an equitable &#40;if not always equal&#41; opportunity to voice their opinions and to vote help decide on appropriate courses of action.<sup id="fnref:1">[1]</sup></p>
+</li>
+<li><p><em>Involve as many stakeholders as possible.</em> When making a decision, we consider who will be affected. If possible, we try to call those stakeholders and affected parties into our decision-making process; this could involve consulting with external parties ahead of a meeting or inviting external parties to a CoReACTER group organizational meeting, where they will have full rights of participation. If a decision will disproportionately affect some ReACTERs or stakeholders, we try to privilege those affected perspectives in our discussions.</p>
+</li>
+<li><p><em>Consensus is the goal.</em> Although we operate as a democracy, we are not aiming for simple majority rule. Ideally, we want to reach agreements that satisfy as many ReACTERs and other stakeholders as possible. This means that, in our arguments, we should try to win over <em>everyone</em>, and we should constantly be on the look-out for opportunities to compromise on our ideas &#40;though not on our ideals&#33;&#41;.</p>
+</li>
+<li><p><em>Until it comes time to decide, discuss and listen without judgment.</em> The beginning of the decision-making process is the time to freely share ideas. Even if you come into the discussion with strong opinions, do not put down other ideas or push your own ideas. Rather, listen and carefully consider each person&#39;s perspective. Once everyone has said their piece and all of the ideas are in the air, then we can start to discriminate between ideas and find what might be the best course of action.</p>
+</li>
+<li><p><em>Opinions are not only spoken.</em> Not everyone will always speak their mind openly. Some folks may be naturally less open about their feelings and opinions, and others may specifically be uncomfortable voicing an opinion on certain topics. Given these possibilities, it is imperative that we not treat a lack of dissent as consent. When making decisions, consider body language and facial expression. Consider who is and who is not talking. If everyone appears open and enthusiastic, that&#39;s a good sign that the discussion is on the right track. If not, there may be concerns or problems with the proposed plan that have not been discussed yet.</p>
+</li>
+<li><p><em>When possible, do not make decisions in haste.</em> Making good decisions takes time and thought&#33; If a decision can be reached easily without significant disagreement, then it&#39;s appropriate to seize the opportunity and finalize immediately. On the other hand, if folks are butting heads or if consensus feels far away, be willing to give the decision more time, or to step away and reconvene after everyone has had time to reflect and devise more creative solutions. Some decisions will truly be urgent and will not have the luxury of second &#40;or third, or fourth&#41; discussions, but don&#39;t create urgency if it isn&#39;t there&#33;</p>
+</li>
+<li><p><em>Be willing to iterate.</em> The CoReACTER might not get the decision right the first time. It can be tempting to commit to our decisions, to pick a path and not stray from it. We must resist this urge and, when necessary, reassess and revise our previous decisions. In doing so, we should consider who has been affected by our initial decision and how we can be accountable to them while potentially changing our own course of action.</p>
+</li>
+</ol>
+<h1 id="footnotes">Footnotes</h1>
+<table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content">Dr. Spotte-Smith, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where Dr. Spotte-Smith must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.</td>
+    </tr>
+</table> ]]>
+  </content:encoded>
     
   <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
   
