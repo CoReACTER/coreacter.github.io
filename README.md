@@ -1,2 +1,3 @@
 # coreacter.github.io
-Website for the CoReACTER
+
+Website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER)
