@@ -21,7 +21,7 @@ function publication_title_case(string::String)
     if '{' in word && '}' in word
       formatted_word = replace(word, "{" => "")
       formatted_word = replace(formatted_word, "}" => "")
-    # Hyphenated words - need to capitalize each important word in the phrase
+      # Hyphenated words - need to capitalize each important word in the phrase
     elseif '-' in word
       if length(word) == 1
         formatted_word = "—"
@@ -36,7 +36,7 @@ function publication_title_case(string::String)
         end
         formatted_word = join(subwords, "-")
       end
-    # Normal word - just capitalize the first letter
+      # Normal word - just capitalize the first letter
     else
       if index == 1 || !(word in uncapitalized) || words_formatted[end][end] in punctuation
         formatted_word = uppercasefirst(lowercase(word))
@@ -47,7 +47,7 @@ function publication_title_case(string::String)
 
     push!(words_formatted, formatted_word)
   end
-  
+
   return join(words_formatted, " ")
 
 end
@@ -63,15 +63,15 @@ end
 function format_authors(authors::Vector{BibInternal.Name})
   function format_author(author::BibInternal.Name)
     words = String[]
-  
+
     push!(words, author.first)
-    
+
     if length(author.middle) > 0
       push!(words, author.middle)
     end
-  
+
     push!(words, author.last)
-  
+
     return join(words, " ")
   end
 
@@ -136,7 +136,7 @@ function process_bib(file_name="_files/bib/publications.bib")
 
     authors = entry.authors
     date = entry.date
-    
+
     pub = entry.in
 
     title_string = format_title(title)
@@ -225,7 +225,7 @@ function hfun_peopletable(params::Vector{String})
 
   # Table initialization
 
-  
+
   push!(
     final_parts,
     """<table class="peopletab">
@@ -272,7 +272,7 @@ function hfun_peopletable(params::Vector{String})
 
 end
 
-global const months_names = Dict(
+const global months_names = Dict(
   1 => "Jan",
   2 => "Feb",
   3 => "Mar",
@@ -307,7 +307,7 @@ function hfun_news()
 """
   ]
 
-  for entry in sort(collect(news_data), by=x->x[2]["date"])
+  for entry in sort(collect(news_data), by=x -> x[2]["date"])
     date = entry[2]["date"]
     this_date_string = string(
       months_names[Dates.month(date)],
@@ -316,7 +316,7 @@ function hfun_news()
       ", ",
       Dates.year(date)
     )
-    
+
     push!(
       final_parts,
       string(
@@ -335,7 +335,7 @@ function hfun_news()
   )
 
   return join(final_parts, "\n")
-  
+
 end
 
 # For providing previews of blog posts
@@ -380,8 +380,8 @@ function hfun_blog_post_table()
 
     if title_match !== nothing && author_match !== nothing && preview_match !== nothing && date_match !== nothing
       this_string = string(
-          "\t<tr>\n\t\t<td>\n",
-        )
+        "\t<tr>\n\t\t<td>\n",
+      )
 
       # No alt text, no image; we're trying to be accessible here
       # Should we have a place-holder image?
@@ -422,7 +422,7 @@ function hfun_blog_post_table()
       author_string = "<b>" * join(author_parts, ", ") * "</b>"
 
       # Whether there's an image or no, now we put in the title and preview
-      
+
       this_date_string = string(
         months_names[parse(Int, date_match.captures[2])],
         " ",
@@ -430,17 +430,17 @@ function hfun_blog_post_table()
         ", ",
         date_match.captures[1]
       )
-      
+
       # Maximum length of a blog post summary
       blog_capture_limit = 250
 
       preview_capture = preview_match.captures[1]
       if length(preview_capture) > blog_capture_limit
-        preview_string = preview_capture[1:blog_capture_limit - 3] * "..."
+        preview_string = preview_capture[1:blog_capture_limit-3] * "..."
       else
         preview_string = preview_capture
       end
-      
+
       this_string = string(
         this_string,
         "<td>\n\t\t\t<h2><a href=\"/posts/",
@@ -476,11 +476,12 @@ function hfun_philosophy_nav()
     <li class="philosophy_nav"><a href="/philosophy/principles/">CoReACTER Principles</a></li>
     <li class="philosophy_nav"><a href="/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
     <li class="philosophy_nav"><a href="/philosophy/openscience/">Open Science</a></li>
-    <li class="philosophy_nav"><a href="/philosophy/accountability/">Practices of accountability</a></li>
     <li class="philosophy_nav"><a href="/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
 </nav>
   """
+
+  # <li class="philosophy_nav"><a href="/philosophy/accountability/">Practices of accountability</a></li>
 
   return nav_string
 end
