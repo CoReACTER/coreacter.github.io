@@ -5,3 +5,27 @@ table.peopletab {
 .philosophy_nav {
     display: block;
 }
+
+.philosophy_nav nav li a {
+    color: #0057F8;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    /* float: center; */
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-bottom: 5px;
+    margin-left: 7px;
+    margin-right: 7px;
+    border-bottom: none;
+    transition: color 0.3s ease;
+}
+
+.philosophy_nav nav li a:hover {
+    color: #00A144;
+    border-bottom: 2px solid #00A144;
+    text-decoration: none;
+  }
+  

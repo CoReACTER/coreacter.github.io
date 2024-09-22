@@ -17,9 +17,10 @@ ignore = ["node_modules/", "ignore/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "CoReACTER"
+website_title = "The CoReACTER"
 website_descr = "Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER)"
-website_url   = "https://coreacter.github.io"
+website_url = "https://coreacter.github.io"
+rss_full_content = true
 +++
 
 <!--

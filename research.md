@@ -7,6 +7,8 @@ rss = "A description of the research that happens in and around the CoReACTER. W
 tags = ["research"]
 +++
 
+<!-- TODO: pictures -->
+
 # Research
 
 \toc
@@ -15,17 +17,17 @@ tags = ["research"]
 
 We develop and contribute to a range of datasets and software packages, providing new tools for the community to use to address diverse chemical problems.
 
-To maximize utility, we focus on making our datasets [FAIR](https://www.nature.com/articles/sdata201618) (findable, accessible, interoperable, and reusable). To date, our data generation efforts have been focused on computational data generated using methods such as high-throughput density functional theory (see Prof. Spotte-Smith's work on the [Materials Project](https://doi.org/10.1039/D3DD00153A)). However, we are interested in developing experimental datasets as well, for instance leveraging the [CMU Cloud Lab](https://cloudlab.cmu.edu/).
+To maximize utility, we focus on making our datasets FAIR (*i.e.*, findable, accessible, interoperable, and reusable). To date, our data generation efforts have been focused on computational data generated using methods such as high-throughput density functional theory (see Prof. Spotte-Smith's work on the [Materials Project](https://doi.org/10.1039/D3DD00153A)). However, we are interested in developing experimental datasets as well, for instance leveraging the [CMU Cloud Lab](https://cloudlab.cmu.edu/).
 
-In line with our commitment to [open science](/philosophy/openscience.md), we ensure that all of the data that we produce and contribute to is freely available to the community, generally via permissive [Creative Commons licenses](https://creativecommons.org/), and we only contribute to open source software projects.
+In line with our commitment to [open science](/philosophy/openscience.md), we ensure that all of the data that we produce and contribute to is freely available to the community, and we only contribute to open source software projects.
 
 ## Data Science for Reactivity
 
 The CoReACTER is broadly interested in explorations of chemical transformations. We see many opportunities to leverage machine learning (ML) and data science to make our studies faster and more efficient, and to allow us to obtain insights that would be impossible using conventional methods.
 
-Machine learning interatomic potentials (MLIPs) are ML models that are trained to predict the energies of molecules and materials given their elemental species and atomic positions. We are currently investigating ways to apply MLIPs to automatically construct and analyze chemical reaction networks (CRNs). We are also working to develop new MLIPs that are more flexible and better suited for complex reactive chemistry. In particular, we are interested in strategies to incorporate spin and charge information in MLIPs so that they can differentiate between systems at different spin and charge states.
+Machine learning interatomic potentials (MLIPs) are ML models that are trained to predict the energies of molecules and materials given their elemental species and atomic positions. We are currently investigating ways to apply MLIPs to automatically discover reaction mechanisms. We are also working to develop new MLIPs that are more flexible and better suited for complex reactive chemistry. In particular, we are interested in strategies to incorporate spin and charge information in MLIPs so that they can differentiate between systems at different spin and charge states.
 
-We are also interested in combining high-throughput experimentation (HTE) with ML-based optimization to discover new reactions and optimize product yields. HTE, either using lab-scale liquid handlers or full-scale autonomous lab systems, offers a means to rapidly explore chemical space. However, even with high-throughput methods, it is often difficult or impossible to thoroughly search the domain of interest, making methods to effectively select promising experiments crucial. 
+High-throughput experimentation (HTE), combined with ML-based optimization, provides another powerful opportunity to discover new reactions and optimize product yields. HTE, either using lab-scale liquid handlers or full-scale autonomous lab systems, offers a means to rapidly explore chemical space. However, even with high-throughput methods, it is often difficult or impossible to thoroughly search the domain of interest, making methods to effectively select promising experiments crucial. 
 
 ## Understanding Materials Synthesis
 
@@ -35,7 +37,7 @@ Our approach is to leverage molecular dynamics (MD) using MLIPs to simulate soli
 
 ## Electrochemical Transformations
 
-Electrochemistry is well poised to help us reduce greenhouse gas emissions and mitigate the disastrous effects of anthropogenic climate change. Battery energy storage is replacing internal-combustion engines in vehicles and is helping to store excess solar and wind energy in the power grid, while electrocatalysis could potentially replace traditional thermochemical synthesis routes to feedstock chemicals (e.g., ammonia) and value-added products.
+Electrochemistry is well poised to help us reduce greenhouse gas emissions and mitigate the disastrous effects of anthropogenic climate change. Battery energy storage is replacing internal-combustion engines in vehicles and is helping to store excess solar and wind energy in the power grid, while electrocatalysis could potentially replace traditional thermochemical synthesis routes to feedstock chemicals and value-added products.
 
 Unfortunately, electrochemical reactions are in general less well understood than thermochemical organic reactions, and as a result, progress towards next-generation energy-dense batteries and efficient electrosyntheses is slow. We believe that CRNs informed by first-principles simulations can change this and drive electrification forwards. We use CRNs to identify reaction mechanisms and understand what is going on in complex environments, such as the solid electrolyte interphase (SEI) in metal-ion batteries. By comparing the outcomes of different simulations, we can also leverage CRNs as an electrochemical design tool.
 

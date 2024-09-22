@@ -18,20 +18,26 @@ nav li {
 }
 
 nav li a {
-  color: #004de6;
+  color: #0057F8;
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
   display: inline-block;
-  float: center;
+  /* float: center; */
   padding-top: 10px;
   padding-right: 2px;
   padding-left: 2px;
   padding-bottom: 5px;
   margin-left: 7px;
   margin-right: 7px;
-  border-bottom: 2px solid #4c9cf1;
+  border-bottom: none;
   transition: color 0.3s ease;
+}
+
+nav li a:hover {
+  color: #00A144;
+  border-bottom: 2px solid #00A144;
+  text-decoration: none;
 }
 
 header {
@@ -57,8 +63,8 @@ header .blog-name a {
 }
 
 header li a:hover {
-  color: black;
-  border-bottom: 2px solid black;
+  color: #00A144;
+  border-bottom: 2px solid #00A144;
 }
 
 #menu-icon {
@@ -149,6 +155,8 @@ instead, display a burger menu.
   }
   header li a { border-bottom: none; }
   header li a:hover { border-bottom: none; }
+  nav li a { border-bottom: none; }
+  nav li a:hover { border-bottom: none; }
 
   nav:hover ul {
     display: block;
@@ -162,7 +170,7 @@ instead, display a burger menu.
 }
 
 table {
-  line-height: 1em;
+  line-height: 1.35em;
   margin-left: auto;
   margin-right: auto;
   border-collapse: collapse;

@@ -307,7 +307,7 @@ function hfun_news()
 """
   ]
 
-  for entry in sort(collect(news_data), by=x -> x[2]["date"])
+  for entry in sort(collect(news_data), by=x -> x[2]["date"], rev=true)
     date = entry[2]["date"]
     this_date_string = string(
       months_names[Dates.month(date)],
