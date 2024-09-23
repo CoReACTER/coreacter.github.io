@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  The CoReACTER  ]]>
+    </title>
+    <link> https://coreacter.github.io </link>
+    <description>
+      <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
+    </description>
+    <atom:link
+      href="https://coreacter.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER  ]]>
+  </title>
+  <link> https://coreacter.github.io/index.html </link>
+  <guid> https://coreacter.github.io/index.html </guid>
+  <description>
+    <![CDATA[  The CoReACTER home page. We&#39;re a research organization operating in the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> of Carnegie Mellon University &#40;CMU&#41;.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="welcome_to_the_coreacter">Welcome to the CoReACTER</h1>
+<p>The <strong>Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;</strong> is a research organization that operates within the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> at Carnegie Mellon University &#40;CMU&#41;. We focus on leveraging developments in <strong>computational chemistry, chemical data science, and high-throughput experimentation</strong> to advance sustainable technologies in areas such as <strong>energy storage, chemical manufacturing, and waste management</strong>. You can learn more about our research efforts <a href="https://coreacter.github.io/research/">here</a> or look at our <a href="https://coreacter.github.io/publications/">publications</a>. </p>
+<p>The CoReACTER is working hard to practice science in an <strong>ethical and thoughtful, and anti-oppressive</strong> fashion. This is an ongoing process, but you can read about our current thoughts and practices <a href="https://coreacter.github.io/philosophy/principles">here</a>. Our <a href="https://coreacter.github.io/resources/">resources</a> are mainly designed for <a href="https://coreacter.github.io/people/">ReACTERs</a> and other folks currently working and conducting research at CMU, but you may also find these helpful&#33;</p>
+<h1 id="land_acknowledgment">Land Acknowledgment</h1>
+<p>We acknowledge that CMU occupies the unceded lands of the Seneca &#40;Haudenosaunee&#41;, Shawnee, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.</p>
+<h1 id="news">News</h1>
+<table class="newstab" style="border:0;">
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<thead></thead>
+<tbody>	<tr>
+		<td>
+			<b>Sep 1, 2024</b>
+		</td>
+		<td>
+			<p><a href="https://www.linkedin.com/posts/toyota-research-institute_synthesis-challenge-proposal-winners-activity-7236734746406350848-DYON">Dr. Spotte-Smith and Prof. Rachel Kurchin of CMU's Materials Science and Engineering department were selected to participate in the Toyota Research Institute Synthesis Advanced Research Challenge!</a>
+</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Jun 3, 2024</b>
+		</td>
+		<td>
+			<p><a href="https://www.cheme.engineering.cmu.edu/news/2024/06/03-spotte-smith-joins-faculty.html">Dr. Evan Spotte-Smith is going to join the CMU Chemical Engineering faculty as an Assistant Professor in 2025!</a></p>
+		</td>
+	</tr>
+</tbody>
+</table>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

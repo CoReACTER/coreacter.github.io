@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  The CoReACTER  ]]>
+    </title>
+    <link> https://coreacter.github.io </link>
+    <description>
+      <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
+    </description>
+    <atom:link
+      href="https://coreacter.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Philosophy: Principles  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/principles/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/principles/index.html </guid>
+  <description>
+    <![CDATA[  A description of the core principles guiding the work of the CoReACTER, and a brief overview of our broader philosophies. Note that our ideas and methods are evolving, and so this document should be considered a snapshot, rather than a static ideology.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="principles">Principles</h1>
+<p><strong>All science is political</strong>. From the questions that we ask and the approaches that we take to answer them to the relationships that we build and the ways that we &#40;and others&#33;&#41; use science to make decisions, we are engaging in politics and driving political processes at various scales. Rather than try to ignore the role of politics in our scientific praxis, we are intentional and thoughtful about our political positionality.</p>
+<p>The CoReACTER is an anti-oppressive research organization, aiming to subvert practices that are harmful and/or destructive to the well-being of ourselves, other humans, non-human life, and the planet. In particular, we align ourselves with:</p>
+<ul>
+<li><p>&#40;Intersectional&#41; feminism</p>
+</li>
+<li><p>Disability justice</p>
+</li>
+<li><p>Environmental justice and sustainability</p>
+</li>
+</ul>
+<p>and we actively oppose the forces of:</p>
+<ul>
+<li><p>White supremacy, anti-Blackness, and racism</p>
+</li>
+<li><p>&#40;Cis&#41;sexism, homophobia, and transphobia</p>
+</li>
+<li><p>Capitalism and classism</p>
+</li>
+<li><p>Colonialism</p>
+</li>
+<li><p>Ableism</p>
+</li>
+<li><p>Nationalism&#40;s&#41; of all forms</p>
+</li>
+<li><p>Fascism and totalitarianism</p>
+</li>
+</ul>
+<p>Academia is a deeply flawed system that is embedded in other flawed and harmful systems. Becuase of this, we cannot completely avoid engaging in Capitalism &#40;modern research universities operate as capitalistic enterprises; we also need to finance our research&#41;, colonialism &#40;CMU&#39;s campus is on stolen land, within a colonized country and colonizing nation-state&#41;, and nationalism &#40;most research that takes place in the United States is publicly funded, and publicly funded research generally supports American national interests&#41;; perhaps this is also true of some of the other evils that we have outlined. Nonetheless, we openly challenge and subvert oppressive paradigms and structures where and how we can.</p>
+<p>Our core principles, which guide us as we practice science, are:</p>
+<ul>
+<li><p><strong>Honesty</strong>: We are honest with ourselves, with our fellow ReACTERs, with the scientific community, and with the world. Honesty means truth-telling – saying what we know or believe to be right, whether it is convenient or not. It also means transparency. We strive to communicate openly throughout the scientific process, to share early and often rather than hoarding or hiding information.</p>
+</li>
+<li><p><strong>Humility</strong>: Often, &quot;humble&quot; is used to mean that one has a low opinion of one&#39;s self. Rather, when we say that we aim to be humble, we mean &#40;following LeGuin&#41; that we aim to avoid both excessive pride and self-deprecation. Through careful reflection and honest dialogue, we try to maintain an accurate, moderate understanding of ourselves, our knowledge, our behavior, and our place in our communities. Critical to effective humility is knowing our own limits, knowing what we know and what we don&#39;t know&#33;</p>
+</li>
+<li><p><strong>Collectivism</strong>: No scientist is an island. We are all part of many communities – groups of friends, colleagues, biological and found families, neighborhoods, folks who go to the same hair salon. Our approach to our work centers these communities, rather than our own interests. We are motivated to use scientific inquiry and our expertise to make our communities and the broader world better than we found them. Our work seeks to uplift others, particularly those in need. We will never harm or put down others for our personal benefit.</p>
+</li>
+<li><p><strong>Justice</strong>: Historically, Western science has been practiced primarily by the elite members of society. This elite practice has created or supported &#40;and continues, in many ways, to create and support&#41; regimes of oppression, repression, subjugation, and exclusion. While CoReACTER operates within traditional academic structures, we aim to push against oppressive practices and create more just policies and outcomes, within the Academy and outside of it.</p>
+</li>
+<li><p><strong>Kindness</strong>: In a world of competition, we choose collaboration. In a world of selfishness, we choose to give freely. In a world that is hard and unforgiving, we choose softness. Where we find ourselves given the choice, we choose to be kind: to ourselves, to each other, and to those around us. We aim to be empathetic and understand the perspectives of others, and where we cannot empathize, we sympathize and listen. </p>
+</li>
+<li><p><strong>Curiosity</strong>: Science as a philosophy offers tools for problem-solving, and we employ these tools to address meaningful problems, from fundamental theoretical questions to global challenges like anthropogenic climate change and plastic pollution. However, we refuse to treat science only as a means to a practical end. Rather, we center the joy of inquiry and celebrate discovery as an end in and of itself. As we do our work, we seek to learn and to facilitate the learning of others.</p>
+</li>
+</ul>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  CoReACTER Philosophy  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/guidelines/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/guidelines/index.html </guid>
+  <description>
+    <![CDATA[  General guidelines for members of the CoReACTER.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="guidelines_for_reacters">Guidelines for ReACTERs</h1>
+<p>These are our guidelines, general practices that we try to remember as we go about our days in the office/computer/laboratory and away from it. While they are meant for <a href="https://coreacter.github.io/people/">ReACTERs</a>, perhaps others may find them helpful&#33;</p>
+<ol>
+<li><p><em>Communicate.</em> The saying goes that &quot;silence is golden&quot;, but in our experience, open communication is a lot nicer and helps a research organization run well. If you&#39;re having a problem &#40;technical, personal, or otherwise&#41;, ask for help&#33; If you see someone else struggling, ask them what&#39;s wrong or offer your support. Chat with your fellow ReACTERs to coordinate equipment usage and compute time, to brainstorm new ideas, and to work through conflicts. If you&#39;re in doubt as to whether communication is needed, err on the side of over-communication.</p>
+</li>
+<li><p><em>Set and respect boundaries.</em> If you let it, the worlds of Academia and scientific research will take everything from you – your time, your peace of mind, even your health. Boundaries are a way that we protect ourselves and look after our well-being. Early and often, consider what you need to be happy and healthy, and state those needs as boundaries. These boundaries could involve how you communicate and what you communicate about; when you do and do not engage with work; and much more. Hopefully, those around you will respect clearly communicated boundaries, but you may need to periodically re-assert them. You should feel free in doing so, as maintaining and protecting your boundaries is ultimately good for you and those around you. Likewise, if your colleagues tell you their boundaries, listen, make note of them, and &#40;assuming these boundaries are reasonable&#41; take care not to cross those boundaries. If you do violate them in some way, recognize that harm &#40;see below&#41;, apologize, try to repair, and work to improve so that you respect your colleagues better in the future.</p>
+</li>
+<li><p><em>Limit work time and take breaks.</em> In the CoReACTER, productivity is not our ultimate goal. We want to improve the practice of science and use science to better the world, but not at the expense of our own health and potential for joy. At the same time, we believe that time spent on research does not necessarily correlate with productivity. Rather, you will be a better scientist if you take time for rest, for personal relationships with friends, families, and loves, for hobbies, for fun, for absolutely nothing at all. We encourage ReACTERs to design sustainable patterns of labor that incorporate regular rest and relaxation. We also try to incorporate breaks into our rhythm as a group, with shared meals, games, informal discussions, retreats, and more.</p>
+</li>
+<li><p><em>Recognize and fix mistakes early.</em> We will make mistakes. That means you will make mistakes, too. Rather than waiting for problems to arise, double-check yourself early &#40;or ask a colleague to help look for mistakes&#33;&#41;, so that you can correct them before they blow up &#40;literally or figuratively&#41;. This advice applies to research projects – selecting parameters for calculations, designing experiments, performing analysis – and also to interpersonal interactions. Taking time to reflect and thinking about how you could have handled a situation better will help you to avoid tension and minimize the harm you do to others&#33;</p>
+</li>
+<li><p><em>Be on time.</em> Especially because we limit the time that we spend on work &#40;see above&#41;, our hours in the office and the lab are valuable. Being on time is a way to show care and respect for yourself and for those around you. If you are worried about running late, try to give yourself buffer time so that others don&#39;t need to wait for you. If you know that you&#39;re going to be late, communicate that as early as possible so that others can respond and plan accordingly. We understand that things happen, and we will always try to give grace &#40;especially acknowledging that relationships around time and punctuality are culturally dependent&#41;, but it&#39;s easier if you do your part&#33;</p>
+</li>
+<li><p><em>Show up to meetings.</em> We know, there are a lot of meetings, possibly too many. Where possible, we encourage you to structure your work to minimize the number of meetings that are on your plate. However, we strongly advise that you attend meetings that are essential for the CoReACTER &#40;group organizational and research meetings&#41; or for your specific project &#40;project team meetings, meetings with collaborators and funders&#41;. These meetings will help you to stay up to date on what your colleagues are working on and help you to get feedback on your work. In addition to being physically present, we ask you to show up by actively participating in the technical discussion as well as the social environment. If well designed, meetings can build relationships and community&#33;</p>
+</li>
+</ol>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Decision-Making in the CoReACTER  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/decisionmaking/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/decisionmaking/index.html </guid>
+  <description>
+    <![CDATA[  General practices and guidelines for decision-making in the CoReACTER.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="decision-making">Decision-Making</h1>
+<p>As an anti-oppressive research organization, the CoReACTER is dedicated to community-centered, collective, and equitable decision-making. Here, we outline procedures that help us to live up to our ideals and aspirations while making the best decisions possible.</p>
+<ol>
+<li><p><em>Decisions are made democratically.</em> No one ReACTER has a greater ability to direct CoReACTER business than any other; in general, each individual is given an equitable &#40;if not always equal&#41; opportunity to voice their opinions and to vote help decide on appropriate courses of action.<sup id="fnref:1">[1]</sup></p>
+</li>
+<li><p><em>Involve as many stakeholders as possible.</em> When making a decision, we consider who will be affected. If possible, we try to call those stakeholders and affected parties into our decision-making process; this could involve consulting with external parties ahead of a meeting or inviting external parties to a CoReACTER group organizational meeting, where they will have full rights of participation. If a decision will disproportionately affect some ReACTERs or stakeholders, we try to privilege those affected perspectives in our discussions.</p>
+</li>
+<li><p><em>Consensus is the goal.</em> Although we operate as a democracy, we are not aiming for simple majority rule. Ideally, we want to reach agreements that satisfy as many ReACTERs and other stakeholders as possible. This means that, in our arguments, we should try to win over <em>everyone</em>, and we should constantly be on the look-out for opportunities to compromise on our ideas &#40;though not on our ideals&#33;&#41;.</p>
+</li>
+<li><p><em>Until it comes time to decide, discuss and listen without judgment.</em> The beginning of the decision-making process is the time to freely share ideas. Even if you come into the discussion with strong opinions, do not put down other ideas or push your own ideas. Rather, listen and carefully consider each person&#39;s perspective. Once everyone has said their piece and all of the ideas are in the air, then we can start to discriminate between ideas and find what might be the best course of action.</p>
+</li>
+<li><p><em>Opinions are not only spoken.</em> Not everyone will always speak their mind openly. Some folks may be naturally less open about their feelings and opinions, and others may specifically be uncomfortable voicing an opinion on certain topics. Given these possibilities, it is imperative that we not treat a lack of dissent as consent. When making decisions, consider body language and facial expression. Consider who is and who is not talking. If everyone appears open and enthusiastic, that&#39;s a good sign that the discussion is on the right track. If not, there may be concerns or problems with the proposed plan that have not been discussed yet.</p>
+</li>
+<li><p><em>When possible, do not make decisions in haste.</em> Making good decisions takes time and thought&#33; If a decision can be reached easily without significant disagreement, then it&#39;s appropriate to seize the opportunity and finalize immediately. On the other hand, if folks are butting heads or if consensus feels far away, be willing to give the decision more time, or to step away and reconvene after everyone has had time to reflect and devise more creative solutions. Some decisions will truly be urgent and will not have the luxury of second &#40;or third, or fourth&#41; discussions, but don&#39;t create urgency if it isn&#39;t there&#33;</p>
+</li>
+<li><p><em>Be willing to iterate.</em> The CoReACTER might not get the decision right the first time. It can be tempting to commit to our decisions, to pick a path and not stray from it. We must resist this urge and, when necessary, reassess and revise our previous decisions. In doing so, we should consider who has been affected by our initial decision and how we can be accountable to them while potentially changing our own course of action.</p>
+</li>
+</ol>
+<h1 id="footnotes">Footnotes</h1>
+<table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content">Dr. Spotte-Smith, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where Dr. Spotte-Smith must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.</td>
+    </tr>
+</table> ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Open Science and the CoReACTER  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/openscience/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/openscience/index.html </guid>
+  <description>
+    <![CDATA[  The open science philosophy of the CoReACTER.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="open_science">Open Science</h1>
+<p>The CoReACTER is dedicated to open science, but what does that actually mean? &quot;Open science&quot; is a broad and vague term which means different things to different folks &#40;see <sup id="fnref:1">[1]</sup>&#41;. For us, when we speak of &quot;open science&quot;, we mean that the practice of science should be transparent; that there should be minimal barriers to access the outputs of scholarly scientific work; and that science and research should be practiced within communities that extend beyond the boundaries of a research group, a university, or academia as a whole.</p>
+<p>Here, we briefly describe some of our positions on open science and related practices. We emphasize that this page is meant only as an introduction to this discussion&#33;</p>
+<h1 id="open_source_software">Open Source Software</h1>
+<p>Much of our research involves developing scientific software. In addition to building and contributing to large-scale software projects, we frequently write code for data generation, analysis, and visualization. As such, open software is a significant part of our open science mission&#33;</p>
+<p>We value open source software because it lowers the barrier to use and modify computational tools, potentially broadening the impact of our research efforts. Open source software can also lead to better, more correct code&#33; Because our software is transparent, other researchers and programmers can inspect, test, and modify the code that we write, potentially finding bugs and optimizations that we missed or adding new features that are beyond our capacity.</p>
+<p>We commit to making all software developed by the CoReACTER available open-source. Currently, we use <a href="https://github.com/CoReACTER">GitHub</a> to host our software. We prefer restrictive licenses such as the <a href="https://opensource.org/license/gpl-3-0">GNU General Public License</a> that ensure that derivative software projects remain open-source, though we are willing to use more permissive licenses such as the <a href="https://opensource.org/license/mit">MIT license</a> or <a href="https://opensource.org/license/unlicense">The Unlicense</a>. We will only spend our time contributing to other software projects if they are open-source, and we try to use open-source codes for our research whenever possible.</p>
+<h1 id="open_and_fair_data">Open &#40;and FAIR&#41; Data</h1>
+<p>In the age of data science, data is power: power to discover patterns, power to create models, power to accelerate research, and more. As we are committed to mass empowerment, it is only fitting that we in the CoReACTER want to share data widely. Open data further improves the reproducibility of scientific research.</p>
+<p>When we generate data that we believe may be valuable for future research, we publish that data openly under permissive <a href="https://creativecommons.org/">Creative Commons</a> licenses. But making data publicly available is only the first step. We understand that, to maximize the benefit that data can have on the scientific community, it should be <strong>FAIR</strong><sup id="fnref:2">[2]</sup> – <strong>f</strong>indable, <strong>a</strong>ccessible, <strong>i</strong>nteroperable, and <strong>r</strong>eusable. To this end, we develop and contribute to public data infrastructure, such as the <a href="https://materialsproject.org">Materials Project</a>, and we work with our collaborators around the world to make the data that we generate as useful and easy-to-use as possible.</p>
+<h1 id="open_access">Open Access</h1>
+<p>Many scientific publications are closed-access: institutions &#40;<em>e.g.</em>, libraries and universities&#41; or individual readers must pay for the privilege of reading. This slows the spread of information, particularly to those who lack resources and privilege. The CoReACTER strongly believes that science should serve the public good. As a consequence of this belief, we hold that published scientific outputs such as journal articles, book chapters, and whitepapers should be publicly available at no cost.</p>
+<p>Before submitting to any journal, we commit to publishing our work as a preprint on servers such as <a href="arxiv.org">arXiv</a> and <a href="chemrxiv.org">ChemRxiv</a>. We strongly prefer open-access journals and will always submit to such venues when the CoReACTER is the primary or sole organization involved in a manuscript; we will also strongly advocate for open-access publications in all other cases. We further commit to making &#42;.PDF files of all CoReACTER publications available through this website.</p>
+<p>Noting the interest in open-access publications, many journals have begun charging authors to publish their work &#40;<em>via</em> so-called article processing charges or APCs&#41;, rather than charging readers. Under these schemes, including &quot;Gold Open Access&quot;, research becomes widely available, but with the consequence that only well-resourced researchers can afford to publish in many popular venues. Currently, the CoReACTER is willing to pay APCs to ensure that our publications are freely available. However, our priciples oppose this exploitative and unjust practice, and so we seek to minimize these payments. We specifically refuse to pay to publish in <em>Nature</em> and its family of journals, as they charge exorbitant fees &#40;greater than &#36;10,000 per article&#41; that, in our view, constitute rent-seeking behavior.</p>
+<h1 id="footnotes">Footnotes</h1>
+<p><sup id="fnref:1">[1]</sup> <a href="https://doi.org/10.1007/978-3-319-00026-8_2">DOI: 10.1007/978-3-319-00026-8_2</a></p>
+<p><sup id="fnref:2">[2]</sup> <a href="https://doi.org/10.1038/sdata.2016.18">DOI: 10.1038/sdata.2016.18</a></p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Practices of Accountability  ]]>
+  </title>
+  <link> https://coreacter.github.io/philosophy/accountability/index.html </link>
+  <guid> https://coreacter.github.io/philosophy/accountability/index.html </guid>
+  <description>
+    <![CDATA[  Practices of accountability employed in the CoReACTER.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<nav class="philosophy_nav">
+  <ul>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+  </ul>
+</nav>
+  
+<h1 id="accountability">Accountability</h1>
+<p>This page is a work in progress; come back soon for more details&#33;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
