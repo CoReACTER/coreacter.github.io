@@ -35,8 +35,8 @@ nav li a {
 }
 
 nav li a:hover {
-  color: #00A144;
-  border-bottom: 2px solid #00A144;
+  color: #008035;
+  border-bottom: 2px solid #008035;
   text-decoration: none;
 }
 
@@ -63,8 +63,8 @@ header .blog-name a {
 }
 
 header li a:hover {
-  color: #00A144;
-  border-bottom: 2px solid #00A144;
+  color: #008035;
+  border-bottom: 2px solid #008035;
 }
 
 #menu-icon {
