@@ -3,7 +3,7 @@ title = "CoReACTER"
 hascode = true
 rss = "The CoReACTER home page. We're a research organization operating in the [Department of Chemical Engineering](https://www.cheme.engineering.cmu.edu/index.html) of Carnegie Mellon University (CMU)."
 rss_title = "CoReACTER"
-rss_pubdate = Date(2024, 6, 13)
+rss_pubdate = Date(2024, 9, 23)
 
 tags = ["home", "index", "intro", "group"]
 +++
