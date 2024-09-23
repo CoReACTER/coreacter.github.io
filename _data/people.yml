@@ -5,6 +5,7 @@ coreacter:
   role: organization
   position: N/A
   image: logo.png
+  alt: The CoReACTER logo, a cartoon of a reactor, with swirls of blue and green against a light blue background. Under the cartoon is text saying 'CoReACTER'.
 
 ewcss:
   display_name: Evan Walter Clark Spotte-Smith
@@ -13,6 +14,7 @@ ewcss:
   role: reacter
   position: Incoming Assistant Professor of Chemical Engineering, CMU
   image: ewcss.png
+  alt: A white person shown in the sunlight against a blurry green background. They are wearing glasses, a blue suit jacket, and a white dress shirt, and they are smirking.
 
 sblau:
   display_name: Samuel M. Blau
@@ -21,6 +23,7 @@ sblau:
   role: collaborator
   position: Career Research Scientist, LBNL
   image: sam_blau.png
+  alt: A white man with a beard and short, curly hair. He is wearing a white shirt, suit vest, green tie, and glasses, and he is slightly smiling at the camera. The background faintly shows some hills and trees.
 
 rkurchin:
   display_name: Rachel C. Kurchin
@@ -29,3 +32,4 @@ rkurchin:
   role: collaborator
   position: Assistant Research Professor, CMU
   image: rkurchin.png
+  alt: A white woman is giving a wide smile. She stands against a plain, gray background. She is wearing glasses and a black and yellow top.

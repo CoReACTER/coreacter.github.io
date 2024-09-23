@@ -56,7 +56,7 @@ end
 function format_title(title::String)
 
   formatted = publication_title_case(title)
-  return string("<b>", formatted, "</b>")
+  return string("<em>", formatted, "</em>")
 
 end
 
@@ -246,7 +246,7 @@ function hfun_peopletable(params::Vector{String})
           "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"author_avatar\"><img src=\"/_files/images/",
           values["image"],
           "\" class=\"author_avatar\" alt=\"",
-          values["display_name"],
+          values["alt"],
           "\"></div>\n\t\t</td>\n\t\t<td>\n\t\t\t<p><strong>",
           values["display_name"],
           "</strong> (",
@@ -320,9 +320,9 @@ function hfun_news()
     push!(
       final_parts,
       string(
-        "\t<tr>\n\t\t<td>\n\t\t\t<b>",
+        "\t<tr>\n\t\t<td>\n\t\t\t<em>",
         this_date_string,
-        "</b>\n\t\t</td>\n\t\t<td>\n\t\t\t<p>",
+        "</em>\n\t\t</td>\n\t\t<td>\n\t\t\t<p>",
         entry[2]["text"],
         "</p>\n\t\t</td>\n\t</tr>"
       )
@@ -419,7 +419,7 @@ function hfun_blog_post_table()
         end
       end
 
-      author_string = "<b>" * join(author_parts, ", ") * "</b>"
+      author_string = "<em>" * join(author_parts, ", ") * "</em>"
 
       # Whether there's an image or no, now we put in the title and preview
 
