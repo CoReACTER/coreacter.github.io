@@ -19,7 +19,7 @@ The CoReACTER plans to hire **two doctoral students** in the Fall 2025 semester.
 
 ## Postdocs
 
-We do not currently have funding for postdoctoral researchers, but interested candidates who currently hold external funding or are willing to pursue postdoctoral fellowships are always welcome to reach out.
+We do not currently have funding for postdoctoral researchers, but interested candidates who currently hold external funding or are willing to pursue postdoctoral fellowships are always welcome to reach out. Some opportunities for postdoc fellowships are provided in our [resources page](/resources/).
 
 ## Undergraduates
 
