@@ -478,6 +478,7 @@ function hfun_philosophy_nav()
     <li class="philosophy_nav"><a href="/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
+  <img src="/assets/menudots.svg" id="philosoph-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
 </nav>
   """
 

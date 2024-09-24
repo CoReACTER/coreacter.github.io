@@ -1,9 +1,17 @@
+.author_avatar img {
+    width: 150px
+}
+
 table.peopletab {
     border: 0;
 }
 
+table.peopletab td {
+    display: inline-block;
+}
+
 .philosophy_nav {
-    display: block;
+    display: inline-block;
 }
 
 .philosophy_nav nav li a {
@@ -28,4 +36,17 @@ table.peopletab {
     border-bottom: 2px solid #00A144;
     text-decoration: none;
   }
-  
+
+/* @media (max-width: 760px) {
+    .philosophy_nav nav {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    .philosophy_menu_icon {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+} */

@@ -98,7 +98,10 @@ header li a:hover {
 medium display: nav goes under name
 */
 @media (max-width: 760px) {
-  header { display: block; }
+  header {
+    display: block;
+    padding-bottom: 50px;
+  }
 
   header .blog-name {
     display: block;
