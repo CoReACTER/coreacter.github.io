@@ -62,3 +62,4 @@ This section is a work in progress; come back soon to see more resources!
 ### Equipment and Techniques
 
 * [The CMU Cloud Lab](https://cloudlab.cmu.edu/): Learn about the available equipment and get trained to use the software interface.
+* [Tartan Research Advanced Computing Environment (TRACE)](https://cmu.edu/engineering/trace.html): Information on CMU Engineering's computer cluster.
