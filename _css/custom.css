@@ -6,8 +6,26 @@ table.peopletab {
     border: 0;
 }
 
-table.peopletab td {
-    display: inline-block;
+#philosophy-menu-icon {
+    display: none;
+  }
+
+@media (min-width: 761) {
+    table.peopletab td {
+        display: block;
+    }
+}
+
+@media (max-width: 760px) {
+    table.peopletab td {
+        display: inline-block;
+    }
+
+    #philosophy-menu-icon {
+        display: inline-block;
+        margin-left: 10px;
+        margin-top: 5px;
+      }
 }
 
 .philosophy_nav {
