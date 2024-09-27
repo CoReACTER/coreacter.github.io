@@ -126,6 +126,13 @@
 <li><p><a href="https://chemjobber.blogspot.com/">Chemjobber</a>: Chemjobber is dedicated to helping chemists find jobs and to understanding the chemical job market. His chemistry faculty job spreadsheet is particularly useful if you&#39;re looking for jobs in academia&#33;</p>
 </li>
 </ul>
+<h2 id="resources_for_interested_students">Resources for Interested Students</h2>
+<ul>
+<li><p><a href="https://www.cheme.engineering.cmu.edu/education/graduate-programs/graduate-application.html">The CMU ChemE Graduate Application</a></p>
+</li>
+<li><p><a href="http://chegsa.cheme.cmu.edu/dei-application-assistance/">Graduate Application Mentoring Program</a>: A ChEGSA program pairing undergrads applying to CMU ChemE with current graduate students who can help them write strong applications.</p>
+</li>
+</ul>
 <h2 id="educational_resources">Educational Resources</h2>
 <p>This section is a work in progress; come back soon to see more resources&#33;</p>
 <h3 id="ethics_and_justice">Ethics and Justice</h3>
@@ -134,7 +141,7 @@
 <h3 id="kinetics">Kinetics</h3>
 <h3 id="programming_and_software_engineering">Programming and Software Engineering</h3>
 <ul>
-<li><p><a href="https://julialang.org/learning/">Resources for Learning Julia</a>: A series of guides to learn the Julia programming language, put together by the Julia folks themselves</p>
+<li><p><a href="https://julialang.org/learning/">Resources for Learning Julia</a>: A series of guides to learn the Julia programming language, put together by the Julia folks themselves.</p>
 </li>
 </ul>
 <h3 id="data_science">Data Science</h3>
@@ -143,9 +150,14 @@
 </li>
 </ul>
 <h2 id="research_resources">Research Resources</h2>
+<h3 id="conferences_and_workshops">Conferences and Workshops</h3>
+<ul>
+<li><p><a href="https://supersciencegrl.co.uk/conferences">Nessa the Chemist&#39;s Conference Database</a>: A curated list, mostly focused on organic and automation chemistry.</p>
+</li>
+</ul>
 <h3 id="research_tools">Research Tools</h3>
 <ul>
-<li><p><a href="https://openalex.org/">OpenAlex</a>: A powerful open source catalogue of scientific publications with an free API</p>
+<li><p><a href="https://openalex.org/">OpenAlex</a>: A powerful open source catalogue of scientific publications with an free API.</p>
 </li>
 <li><p><a href="https://www.connectedpapers.com/">Connected Papers</a>: An online tool for literature searching. Provide one paper &#40;<em>e.g.</em>, through a digital object identifier or DOI&#41; and see what related papers you might want to look at&#33;</p>
 </li>
