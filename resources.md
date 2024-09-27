@@ -32,6 +32,11 @@ Here, we list some resources that might be helpful for you in your educational a
 * [Postdoctoral Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Johns Hopkins University regularly puts together a list of fellowships for postdocs. Many are focused on biomedical research, but it's worth looking at!
 * [Chemjobber](https://chemjobber.blogspot.com/): Chemjobber is dedicated to helping chemists find jobs and to understanding the chemical job market. His chemistry faculty job spreadsheet is particularly useful if you're looking for jobs in academia!
 
+## Resources for Interested Students
+
+* [The CMU ChemE Graduate Application](https://www.cheme.engineering.cmu.edu/education/graduate-programs/graduate-application.html)
+* [Graduate Application Mentoring Program](http://chegsa.cheme.cmu.edu/dei-application-assistance/): A ChEGSA program pairing undergrads applying to CMU ChemE with current graduate students who can help them write strong applications.
+
 ## Educational Resources
 
 This section is a work in progress; come back soon to see more resources!
@@ -46,7 +51,7 @@ This section is a work in progress; come back soon to see more resources!
 
 ### Programming and Software Engineering
 
-* [Resources for Learning Julia](https://julialang.org/learning/): A series of guides to learn the Julia programming language, put together by the Julia folks themselves
+* [Resources for Learning Julia](https://julialang.org/learning/): A series of guides to learn the Julia programming language, put together by the Julia folks themselves.
 
 ### Data Science
 
@@ -54,9 +59,13 @@ This section is a work in progress; come back soon to see more resources!
 
 ## Research Resources
 
+### Conferences and Workshops
+
+* [Nessa the Chemist's Conference Database](https://supersciencegrl.co.uk/conferences): A curated list, mostly focused on organic and automation chemistry.
+
 ### Research Tools
 
-* [OpenAlex](https://openalex.org/): A powerful open source catalogue of scientific publications with an free API
+* [OpenAlex](https://openalex.org/): A powerful open source catalogue of scientific publications with an free API.
 * [Connected Papers](https://www.connectedpapers.com/): An online tool for literature searching. Provide one paper (*e.g.*, through a digital object identifier or DOI) and see what related papers you might want to look at!
 
 ### Equipment and Techniques
