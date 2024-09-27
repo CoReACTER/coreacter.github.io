@@ -27,7 +27,7 @@ The CoReACTER always welcomes undergraduate researchers! CMU students can perfor
 
 ## Instructions
 
-If you are interested in working in the CoReACTER, please send an e-mail to [Dr. Spotte-Smith](mailto:ewcspottesmith@cmu.edu). In your message, please provide a CV and answer the following questions:
+If you are interested in working in the CoReACTER, please send an e-mail to [EWCSS](mailto:ewcspottesmith@cmu.edu). In your message, please provide a CV and answer the following questions:
 1. What project(s) you are interested in working on?
 2. Why you are interested in this work, and in working in the CoReACTER?
 3. What is your least favorite word (in any language), and why?
