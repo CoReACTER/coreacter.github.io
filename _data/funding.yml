@@ -1,0 +1,23 @@
+trisarc:
+  source_name: Synthesis Advanced Research Challenge
+  funder_name: Toyota Research Institute
+  project_name: Direct Introduction of Competition and Kinetics to Materials Mechanism and Reaction Network Prediction
+  project_abstract: |
+    Solid-state synthesis continues to be driven by trial-and-error experimentation, with no coherent design rules or underlying theory. Though there has been considerable interest in predicting the outcomes of solid-state reactions and automating the selection of precursors and synthesis conditions, most approaches developed to date rely entirely on bulk thermodynamics, ignoring the kinetics of nucleation and growth. Our proposed work provides a new approach for predictive materials synthesis, combining machine learning, molecular dynamics simulations, and chemical reaction networks to calculate solid-state reaction kinetics, rationally explain synthesis outcomes, and select precursors that are likely to lead to efficient formation of desired product phases.
+  start_year: 2024
+  end_year: 2026
+  image: trisarc.jpg
+  alt: A promotional image for the TRI SARC. The name "Synthesis Advanced Research Challenge" is spelled in white in front of a black background. Below it is the Toyota Research Institute logo, consisting of the organization name and three triangles in red, gray, and white.
+  active: true
+
+startup:
+  source_name: Faculty Startup Funding
+  funder_name: Carnegie Mellon University Department of Chemical Engineering
+  project_name: TO BE DETERMINED
+  project_abstract: |
+    We initially intend to use this funding for two projects: one related to multiscale modeling in electrochemistry, and one using high-throughput experiments to study polymer recycling.
+  start_year: 2025
+  end_year: 2028
+  image: cmu_logo.png
+  alt: The name "Carnegie Mellon University" in white on a red square background
+  active: true
