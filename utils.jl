@@ -489,7 +489,7 @@ end
 
 function hfun_active_projects()
 
-  projects_data = YAML.load_file("_data/projects.yml"; dicttype=OrderedDict{String,Any})
+  projects_data = YAML.load_file("_data/funding.yml"; dicttype=OrderedDict{String,Any})
 
   # Table initialization
   final_parts = [
@@ -505,6 +505,59 @@ function hfun_active_projects()
 
   for values in projects_data.vals
     if !values["active"]
+      continue
+    end
+
+    push!(
+      final_parts,
+      string(
+        "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"project_logo\"><img src=\"/_files/images/",
+        values["image"],
+        "\" class=\"project_logo\" alt=\"",
+        values["alt"],
+        "\"></div>\n\t\t</td>\n\t\t<td>\n\t\t\t<p><strong>",
+        values["source_name"],
+        "</strong>, <em>",
+        values["funder_name"],
+        "</em> (",
+        values["start_year"],
+        "–",
+        values["end_year"],
+        ")<br>\n\t\t\t<strong>Project</strong>: ",
+        values["project_name"],
+        "<br>\n\t\t\t<strong>Description</strong>: ",
+        values["project_abstract"],
+        "</p>\n\t\t</td>\n\t</tr>"
+      )
+    )
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")
+end
+
+function hfun_previous_projects()
+
+  projects_data = YAML.load_file("_data/funding.yml"; dicttype=OrderedDict{String,Any})
+
+  # Table initialization
+  final_parts = [
+    """<table class="projectstab">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  ]
+
+  for values in projects_data.vals
+    if values["active"]
       continue
     end
 
