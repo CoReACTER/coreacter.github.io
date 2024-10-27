@@ -15,11 +15,15 @@ mintoclevel = 2
 # Base files such as LICENSE.md and README.md are ignored by default.
 ignore = ["node_modules/", "ignore/"]
 
-# RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
 website_title = "The CoReACTER"
 website_descr = "Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER)"
-website_url = "https://coreacter.github.io"
+website_url = "https://coreacter.org"
+
+# RSS (the website_{title, descr, url} must be defined to get RSS)
+generate_rss = true
+rss_website_title = "The CoReACTER"
+rss_website_descr = "Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity (CoReACTER)"
+rss_website_url = "https://coreacter.org"
 rss_full_content = true
 +++
 
