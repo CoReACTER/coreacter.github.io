@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  The CoReACTER  ]]>
     </title>
-    <link> https://coreacter.github.io </link>
+    <link> https://coreacter.org </link>
     <description>
       <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
     </description>
     <atom:link
-      href="https://coreacter.github.io/feed.xml"
+      href="https://coreacter.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  CoReACTER Publications  ]]>
   </title>
-  <link> https://coreacter.github.io/publications/index.html </link>
-  <guid> https://coreacter.github.io/publications/index.html </guid>
+  <link> https://coreacter.org/publications/index.html </link>
+  <guid> https://coreacter.org/publications/index.html </guid>
   <description>
     <![CDATA[  Scholarly works published by the CoReACTER. This page is updated regularly with any papers published by the CoReACTER as an organization. Note that not all papers with ReACTERs as authors will be included here. For a complete list of publications by Prof. Spotte-Smith, you can check out <a href="https://espottesmith.github.io/publications">their website</a>.  ]]>
   </description>  
@@ -36,7 +36,7 @@
 <p>This page is regularly updated with any papers published by the CoReACTER as an organization. Note that not all papers with ReACTERs as authors will be included here, but only papers borne out of CoReACTER projects. For a complete list of publications by EWCSS, you can check out <a href="https://espottesmith.github.io/publications">their website</a>.</p>
 <p>Currently we have no publications out &#40;we&#39;re a very new organization&#33;&#41;, but check back soon.</p>
 <h1 id="bibliography">Bibliography</h1>
-<p>Download all publications as <a href="https://coreacter.github.io/_files/bib/publications.bib">BibTeX</a>.</p>
+<p>Download all publications as <a href="https://coreacter.org/_files/bib/publications.bib">BibTeX</a>.</p>
 <div class="bibsection">
 	<div class="bibsectiontitle"><h2>Forthcoming</h2></div></div>
 <div class="bibsection">

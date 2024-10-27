@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  The CoReACTER  ]]>
     </title>
-    <link> https://coreacter.github.io </link>
+    <link> https://coreacter.org </link>
     <description>
       <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
     </description>
     <atom:link
-      href="https://coreacter.github.io/feed.xml"
+      href="https://coreacter.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  CoReACTER Philosophy: Principles  ]]>
   </title>
-  <link> https://coreacter.github.io/philosophy/principles/index.html </link>
-  <guid> https://coreacter.github.io/philosophy/principles/index.html </guid>
+  <link> https://coreacter.org/philosophy/principles/index.html </link>
+  <guid> https://coreacter.org/philosophy/principles/index.html </guid>
   <description>
     <![CDATA[  A description of the core principles guiding the work of the CoReACTER, and a brief overview of our broader philosophies. Note that our ideas and methods are evolving, and so this document should be considered a snapshot, rather than a static ideology.  ]]>
   </description>  
@@ -35,12 +35,12 @@
     <![CDATA[  
 <nav class="philosophy_nav">
   <ul>
-    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/principles/">CoReACTER Principles</a></li>
-    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
-    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/openscience/">Open Science</a></li>
-    <li class="philosophy_nav"><a href="https://coreacter.github.io/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/principles/">CoReACTER Principles</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/guidelines/">Guidelines for ReACTERs</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
+    <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.github.io/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
 </nav>
   
 <h1 id="principles">Principles</h1>

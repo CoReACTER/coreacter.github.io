@@ -1,4 +1,4 @@
-Sitemap: https://coreacter.github.io/sitemap.xml
+Sitemap: https://coreacter.org/sitemap.xml
 
 User-agent: *
 Disallow:

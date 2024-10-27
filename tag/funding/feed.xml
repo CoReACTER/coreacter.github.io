@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  The CoReACTER  ]]>
     </title>
-    <link> https://coreacter.github.io </link>
+    <link> https://coreacter.org </link>
     <description>
       <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
     </description>
     <atom:link
-      href="https://coreacter.github.io/feed.xml"
+      href="https://coreacter.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  Funding  ]]>
   </title>
-  <link> https://coreacter.github.io/funding/index.html </link>
-  <guid> https://coreacter.github.io/funding/index.html </guid>
+  <link> https://coreacter.org/funding/index.html </link>
+  <guid> https://coreacter.org/funding/index.html </guid>
   <description>
     <![CDATA[  A description of funding in the CoReACTER. Where does our money come from? Who do we accept funding from, and why? What funding opportunities are we looking for?  ]]>
   </description>  
@@ -35,7 +35,7 @@
     <![CDATA[  
 <h1 id="funding">Funding</h1>
 <h2 id="our_approach_to_funding">Our Approach to Funding</h2>
-<p>The CoReACTER needs to maintain sufficient funding to continue operation. The funding process is morally fraught, and there are very few options for sustainable research funding that do not require some kind of ethical compromise. Understanding this, we are generally open to any funding source, though we try to move towards funding sources that are as aligned with our <a href="https://coreacter.github.io/philosophy/principles.md">principles</a> as possible.</p>
+<p>The CoReACTER needs to maintain sufficient funding to continue operation. The funding process is morally fraught, and there are very few options for sustainable research funding that do not require some kind of ethical compromise. Understanding this, we are generally open to any funding source, though we try to move towards funding sources that are as aligned with our <a href="https://coreacter.org/philosophy/principles.md">principles</a> as possible.</p>
 <p>There are, however, some areas that we will not consider because they are radically opposed to our principles, the good of the scientific community, and/or the wellbeing of society. The CoReACTER will not pursue or accept funding or other resources:</p>
 <ul>
 <li><p>From military sources &#40;<em>e.g.</em>, the United States Department of Defense&#41;, organizations whose major product or service relates to military technologies &#40;<em>i.e.</em>, members of the military-industrial complex&#41;, or from projects with direct military applications</p>
@@ -55,7 +55,7 @@
 <thead></thead>
 <tbody>	<tr>
 		<td>
-			<div class="project_logo"><img src="https://coreacter.github.io/_files/images/trisarc.jpg" class="project_logo" alt="A promotional image for the TRI SARC. The name "Synthesis Advanced Research Challenge" is spelled in white in front of a black background. Below it is the Toyota Research Institute logo, consisting of the organization name and three triangles in red, gray, and white."></div>
+			<div class="project_logo"><img src="https://coreacter.org/_files/images/trisarc.jpg" class="project_logo" alt="A promotional image for the TRI SARC. The name "Synthesis Advanced Research Challenge" is spelled in white in front of a black background. Below it is the Toyota Research Institute logo, consisting of the organization name and three triangles in red, gray, and white."></div>
 		</td>
 		<td>
 			<p><strong>Synthesis Advanced Research Challenge</strong>, <em>Toyota Research Institute</em> (2024–2026)<br>
@@ -66,7 +66,7 @@
 	</tr>
 	<tr>
 		<td>
-			<div class="project_logo"><img src="https://coreacter.github.io/_files/images/cmu_logo.png" class="project_logo" alt="The name "Carnegie Mellon University" in white on a red square background"></div>
+			<div class="project_logo"><img src="https://coreacter.org/_files/images/cmu_logo.png" class="project_logo" alt="The name "Carnegie Mellon University" in white on a red square background"></div>
 		</td>
 		<td>
 			<p><strong>Faculty Startup Funding</strong>, <em>Carnegie Mellon University Department of Chemical Engineering</em> (2025–2028)<br>

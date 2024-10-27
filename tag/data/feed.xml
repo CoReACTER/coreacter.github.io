@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  The CoReACTER  ]]>
     </title>
-    <link> https://coreacter.github.io </link>
+    <link> https://coreacter.org </link>
     <description>
       <![CDATA[  Organization website for the Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;  ]]>
     </description>
     <atom:link
-      href="https://coreacter.github.io/feed.xml"
+      href="https://coreacter.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  CoReACTER Data  ]]>
   </title>
-  <link> https://coreacter.github.io/data/index.html </link>
-  <guid> https://coreacter.github.io/data/index.html </guid>
+  <link> https://coreacter.org/data/index.html </link>
+  <guid> https://coreacter.org/data/index.html </guid>
   <description>
     <![CDATA[  Datasets and databases developed and/or maintained by the CoReACTER.  ]]>
   </description>  
