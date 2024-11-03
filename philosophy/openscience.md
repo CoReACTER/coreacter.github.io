@@ -44,6 +44,5 @@ Noting the interest in open-access publications, many journals have begun chargi
 
 # Footnotes
 
-[^1] [DOI: 10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
-
-[^2] [DOI: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+[^1]: [DOI: 10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
+[^2]: [DOI: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)

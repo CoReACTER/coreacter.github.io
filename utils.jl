@@ -358,8 +358,8 @@ function hfun_blog_post_table()
   final_parts = [
     """<table class="blogtab" style="border:0;">
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="40%" />
+<col width="60%" />
 </colgroup>
 <thead></thead>
 <tbody>
@@ -478,7 +478,7 @@ function hfun_philosophy_nav()
     <li class="philosophy_nav"><a href="/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   """
 

@@ -24,4 +24,4 @@ As an anti-oppressive research organization, the CoReACTER is dedicated to commu
 
 # Footnotes
 
-[^1]: Dr. Spotte-Smith, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where Dr. Spotte-Smith must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.
+[^1]: EWCSS, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where EWCSS must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.

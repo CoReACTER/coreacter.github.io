@@ -25,6 +25,7 @@ table.peopletab {
         display: inline-block;
         margin-left: 10px;
         margin-top: 5px;
+        width: 50px;
       }
 }
 
@@ -54,6 +55,24 @@ table.peopletab {
     border-bottom: 2px solid #00A144;
     text-decoration: none;
   }
+
+.im-30 {text-align: center;}
+.im-30 img {
+    padding: 0;
+    width: 30%;
+}
+
+.im-50 {text-align: center;}
+.im-50 img {
+    padding: 0;
+    width: 50%;
+}
+
+.im-70 {text-align: center;}
+.im-70 img {
+    padding: 0;
+    width: 70%;
+}
 
 /* @media (max-width: 760px) {
     .philosophy_nav nav {
