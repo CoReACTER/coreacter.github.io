@@ -40,7 +40,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="accountability">Accountability</h1>

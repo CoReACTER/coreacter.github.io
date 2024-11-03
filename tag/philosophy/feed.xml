@@ -40,7 +40,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="principles">Principles</h1>
@@ -118,7 +118,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="open_science">Open Science</h1>
@@ -136,8 +136,19 @@
 <p>Before submitting to any journal, we commit to publishing our work as a preprint on servers such as <a href="arxiv.org">arXiv</a> and <a href="chemrxiv.org">ChemRxiv</a>. We strongly prefer open-access journals and will always submit to such venues when the CoReACTER is the primary or sole organization involved in a manuscript; we will also strongly advocate for open-access publications in all other cases. We further commit to making &#42;.PDF files of all CoReACTER publications available through this website.</p>
 <p>Noting the interest in open-access publications, many journals have begun charging authors to publish their work &#40;<em>via</em> so-called article processing charges or APCs&#41;, rather than charging readers. Under these schemes, including &quot;Gold Open Access&quot;, research becomes widely available, but with the consequence that only well-resourced researchers can afford to publish in many popular venues. Currently, the CoReACTER is willing to pay APCs to ensure that our publications are freely available. However, our priciples oppose this exploitative and unjust practice, and so we seek to minimize these payments. We specifically refuse to pay to publish in <em>Nature</em> and its family of journals, as they charge exorbitant fees &#40;greater than &#36;10,000 per article&#41; that, in our view, constitute rent-seeking behavior.</p>
 <h1 id="footnotes">Footnotes</h1>
-<p><sup id="fnref:1">[1]</sup> <a href="https://doi.org/10.1007/978-3-319-00026-8_2">DOI: 10.1007/978-3-319-00026-8_2</a></p>
-<p><sup id="fnref:2">[2]</sup> <a href="https://doi.org/10.1038/sdata.2016.18">DOI: 10.1038/sdata.2016.18</a></p>
+<p><table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1007/978-3-319-00026-8_2">DOI: 10.1007/978-3-319-00026-8_2</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:2">
+    <tr>
+        <td class="fndef-backref">[2]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1038/sdata.2016.18">DOI: 10.1038/sdata.2016.18</a></td>
+    </tr>
+</table>
+</p>
  ]]>
   </content:encoded>
     
@@ -169,7 +180,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="decision-making">Decision-Making</h1>
@@ -194,7 +205,7 @@
 <table class="fndef" id="fndef:1">
     <tr>
         <td class="fndef-backref">[1]</td>
-        <td class="fndef-content">Dr. Spotte-Smith, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where Dr. Spotte-Smith must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.</td>
+        <td class="fndef-content">EWCSS, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where EWCSS must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.</td>
     </tr>
 </table> ]]>
   </content:encoded>
@@ -227,7 +238,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="guidelines_for_reacters">Guidelines for ReACTERs</h1>
@@ -277,7 +288,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="accountability">Accountability</h1>

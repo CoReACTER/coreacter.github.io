@@ -40,7 +40,7 @@
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/openscience/">Open Science</a></li>
     <li class="philosophy_nav"><a href="https://coreacter.org/philosophy/decisionmaking/">Decision-Making in the CoReACTER</a></li>
   </ul>
-  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle">
+  <img src="https://coreacter.org/assets/menudots.svg" id="philosophy-menu-icon" alt="Icon for philosophy page menu: three black dots in a circle" width="100">
 </nav>
   
 <h1 id="decision-making">Decision-Making</h1>
@@ -65,7 +65,7 @@
 <table class="fndef" id="fndef:1">
     <tr>
         <td class="fndef-backref">[1]</td>
-        <td class="fndef-content">Dr. Spotte-Smith, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where Dr. Spotte-Smith must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.</td>
+        <td class="fndef-content">EWCSS, as PI, is deemed personally, professionally, and in some respects legally responsible for the work that takes place in the CoReACTER. Because of this imbalance in power, risk, and responsibility, there may be circumstances where EWCSS must make a decision unilaterally, without reaching consensus with the rest of the CoReACTER. Even in these cases, they commit to communicating regarding these decisions as much as possible with the CoReACTER, and to holding space for disagreement and dissent.</td>
     </tr>
 </table> ]]>
   </content:encoded>
