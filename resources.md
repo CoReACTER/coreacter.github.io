@@ -43,6 +43,11 @@ This section is a work in progress; come back soon to see more resources!
 
 ### Ethics and Justice
 
+### Accessibility
+
+* [SLICE](https://www.reactivities.org/slice/about-slice): Sign Language Incorporation in Chemistry Education.
+* [LabSigns](https://www.pnnl.gov/labsigns): An effort from Pacific Northwest National Laboratory to develop American Sign Language signs for STEM (currently focused on environmental science)
+
 ### Electrochemistry
 
 ### Catalysis
