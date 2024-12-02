@@ -18,4 +18,4 @@ In general, we will not take down a post once it has been edited and approved, a
 
 ## Posts
 
-<!-- {{blog_post_table}} -->
+{{blog_post_table}}
