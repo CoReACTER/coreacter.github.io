@@ -2,7 +2,7 @@
 title = "What If They're Wrong?"
 hascode = true
 date = Date(2024, 11, 13)
-rss = ""
+rss = "Inspired by a blog post by the mathematician Igor Pak, EWCSS considers mechanisms (e.g., reaction mechanisms) as a form of chemical conjecture. Using a recent example involving electrolyte decomposition in lithium-ion batteries, they explore the process of challenging and falsifying proposed mechanisms and provide arguments in favor of \"mechanism hunting\"."
 
 tags = ["research", "mechanism", "design", "falsification", "philosophy", "battery", "electrolyte"]
 
