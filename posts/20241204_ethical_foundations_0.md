@@ -16,7 +16,7 @@ blog_post_image_alt = "Above a set of gray scales, the text \"Foundations of Che
 
 # Foundations of Chemical Ethics
 
-# 0. Foundations of the Foundations
+# 0: Foundations of the Foundations
 
 This blog post is the first (or, really, the zeroth) in a series on "chemical ethics".
 However, I won't be getting into the weeds of any serious ethical arguments quite yet.
@@ -32,7 +32,7 @@ Here, I will explore each of these motivations in some detail.
 Chemicals and the chemical industries have been partially or wholly responsible for many of the great disasters of modern times.
 Some historians call World War I "the Chemist's War" because of the widespread use of chemical weapons, which killed nearly 100,000 and injured over 1 million people.[^1]
 Chemical weapons use decreased considerably after the first World War (though never going away completely).[^2]
-Nonetheless, chemistry has remained important in warfare, with the use of synthetic herbicides (e.g., "[https://en.wikipedia.org/wiki/Agent_Orange](Agent Orange)") in the Vietnam War being perhaps the most salient in the American memory.
+Nonetheless, chemistry has remained important in warfare, with the use of synthetic herbicides (e.g., "[Agent Orange](https://en.wikipedia.org/wiki/Agent_Orange)") in the Vietnam War being perhaps the most salient in the American memory.
 In Vietnam, herbicides were meant to starve the North Vietnamese Communists and eliminate their forest cover, but tactical herbicides also contributed to an increase in birth defects following parental exposure.[^3]
 
 (Chemical) war is Hell, but there's many more examples outside of the battlefield.
@@ -191,26 +191,49 @@ Some questions that I've been thinking about, in no particular order:
 # Footnotes
 
 [^1] [DOI: 10.2105/AJPH.2007.111930](https://doi.org/10.2105/AJPH.2007.111930)
+
 [^2] [DOI: 10.1016/j.etap.2008.03.003](https://doi.org/10.1016/j.etap.2008.03.003)
+
 [^3] [DOI: 10.1093/ije/dyl038](https://doi.org/10.1093/ije/dyl038)
+
 [^4] [DOI: 10.1002/bdrc.21096](https://doi.org/10.1002/bdrc.21096)
+
 [^5] [DOI: 10.1186/s12940-017-0340-3](https://doi.org/10.1186/s12940-017-0340-3)
+
 [^6] [DOI: 10.33263/BRIAC132.126](https://doi.org/10.33263/BRIAC132.126)
+
 [^7] [DOI: 10.1016/j.scitotenv.2019.134455](https://doi.org/10.1016/j.scitotenv.2019.134455)
+
 [^8] [DOI: 10.1002/9781119768432.ch12](https://doi.org/10.1002/9781119768432.ch12)
+
 [^9] [DOI: 10.1016/j.chemosphere.2023.138207](https://doi.org/10.1016/j.chemosphere.2023.138207)
+
 [^10] [DOI: 10.1038/s41370-018-0094-1](https://doi.org/10.1038/s41370-018-0094-1)
+
 [^11] [DOI: 10.1017/9781009157926.004](https://doi.org/10.1017/9781009157926.004)
+
 [^12] Hippocrates is best known for the "Hippocratic Oath", a commitment still sworn in some form by many doctors today, but he wrote extensively about the practice and philosophy of medicine.
+
 [^13] Though Jahr was the first to use the term "bioethics", his ideas did not become popular. It was Van Rensselaer Potter, who re-invented the concept during the Cold War, who led to the development and widespread adoptions of bioethical ideas. See, *e.g.*, [DOI: 10.1080/11287462.2015.1007616](https://doi.org/10.1080/11287462.2015.1007616).
+
 [^14] [DOI: 10.1353/ken.2008.0006](https://doi.org/10.1353/ken.2008.0006)
+
 [^15] [DOI: 10.1056/NEJM199711133372006](https://doi.org/10.1056/NEJM199711133372006)
+
 [^16] [https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html](https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html)
+
 [^17] [https://www.aiche.org/about/governance/policies/code-ethics](https://www.aiche.org/about/governance/policies/code-ethics)
+
 [^18] [https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf(https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf)
+
 [^19] [https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html](https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html)
+
 [^20] The only journals that I'm aware of that are squarely focused on any philosophy of chemistry are *Hyle: International Journal for Philosophy of Chemistry*, which ceased publishing in 2021, and *Foundations of Chemistry*.
+
 [^21] *Chemistry: The Impure Science* by Bernadette Bensaude-Vincent and Jonathan Simon (2008)
+
 [^22] *The Ethical Chemist* by Jeffrey Kovac (2018)
+
 [^23] *Good Chemistry: Methodological, Ethical, and Social Dimensions* by Jan Mehlich (2021)
+
 [^24] *Ethics of Chemistry: From Poison Gas to Climate Engineering*, edited by Joachim Schummer and Tom Børsen (2021)
