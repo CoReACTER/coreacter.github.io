@@ -220,7 +220,7 @@
   <link> https://coreacter.org/publications/index.html </link>
   <guid> https://coreacter.org/publications/index.html </guid>
   <description>
-    <![CDATA[  Scholarly works published by the CoReACTER. This page is updated regularly with any papers published by the CoReACTER as an organization. Note that not all papers with ReACTERs as authors will be included here. For a complete list of publications by Prof. Spotte-Smith, you can check out <a href="https://espottesmith.github.io/publications">their website</a>.  ]]>
+    <![CDATA[  Scholarly works published by the CoReACTER. This page is updated regularly with any papers published by the CoReACTER as an organization. Note that not all papers with ReACTERs as authors will be included here. For a complete list of publications by EWCSS, you can check out <a href="https://espottesmith.github.io/publications">their website</a>.  ]]>
   </description>  
   
   <content:encoded>
@@ -254,7 +254,7 @@
   <link> https://coreacter.org/blog/index.html </link>
   <guid> https://coreacter.org/blog/index.html </guid>
   <description>
-    <![CDATA[  The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. All posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs.  ]]>
+    <![CDATA[  The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. Posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs.  ]]>
   </description>  
   
   <content:encoded>
@@ -264,6 +264,38 @@
 <p>Every post here has been written by ReACTERs, discussed in a CoReACTER group organizational meeting, and approved through a collective decision-making process. This does <strong><em>NOT</em></strong> mean that each post reflects the views of each individual ReACTER, and in general, only the authors of a post and the CoReACTER as an organization should be held responsible for the views espoused in a given post.</p>
 <p>In general, we will not take down a post once it has been edited and approved, as we would not want to pretend that our mistakes had not happened. Exceptions would include if, for instance, we had posted information without appropriate permissions or consent. If we find that we have made incorrect or harmful statements, we reserve the right to edit posts &#40;clearly indicating where edits have been made and why they were made&#41;, and in serious cases we may make further posts apologizing for improper statements or explaining how our views have evolved. These guidelines are part of our practices of accountability.</p>
 <h2 id="posts">Posts</h2>
+<table class="blogtab" style="border:0;">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+<thead></thead>
+<tbody>	<tr>
+		<td>
+			<div class="blog_preview_image"><img src="https://coreacter.org/_files/images/20241204_ethics_0/ethics_0_toc.png" class="blog_preview_image" alt="Above a set of gray scales, the text \"Foundations of Chemical Ethics\" reads in black. Below the scales is the text \"0. Foundations of Foundations\". The scales are flanked by a number of symbols of chemical works, all in black and white: to the left, a gas mask, a trefoil nuclear radiation warning symbol, and a beaker; to the right, a factory with smoke billowing and a pair of pills."></div>
+		</td>
+		<td>
+			<h2><a href="https://coreacter.org/posts/20241204_ethical_foundations_0">Foundations of Chemical Ethics: 0. Foundations of Foundations</a></h2><br>
+			<p><em>Evan Walter Clark Spotte-Smith (EWCSS) (they/them)</em><br>
+			Posted on: Jan 6, 2025<br>
+		In this preview, EWCSS introduces a new series on ethics in the chemical sciences. They discuss their motivations for embarking on this journey, their intended scope and goals, and they raise some possible directions for future posts.
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="blog_preview_image"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/toc.png" class="blog_preview_image" alt="Two reaction mechanisms are shown using 3D renderings of molecules. In one, labeled \"fast\" with a sparkling pink heart emoji, lithium hexafluorophosphate or LiPF6 reacts with lithium carbonate to form a variety of species, including LiPO2F2 and CO2. In the other, labeled \"slow\" with a crying face emoji, lithium hexafluorophosphate reacts with water to form species like hydrogen fluoride and PF4OH. This image is based on the table of contents graphic of \"Elementary Decomposition Mechanisms of Lithium Hexafluorophosphate in Battery Electrolytes and Interphases\" by Evan Walter Clark Spotte-Smith, Thea Bee Petrocelli, et al., DOI: 10.1021/acsenergylett.2c02351."></div>
+		</td>
+		<td>
+			<h2><a href="https://coreacter.org/posts/20241027_what_if_theyre_all_wrong">What If They're Wrong?</a></h2><br>
+			<p><em>Evan Walter Clark Spotte-Smith (EWCSS) (they/them)</em><br>
+			Posted on: Jan 6, 2025<br>
+		Inspired by a blog post by the mathematician Igor Pak, EWCSS considers mechanisms (e.g., reaction mechanisms) as a form of chemical conjecture. Using a recent example involving electrolyte decomposition in lithium-ion batteries, they explore the p...
+			</p>
+		</td>
+	</tr>
+</tbody>
+</table>
  ]]>
   </content:encoded>
     

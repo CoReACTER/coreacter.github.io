@@ -23,6 +23,333 @@
 
 <item>
   <title>
+    <![CDATA[  What If They&#39;re Wrong?  ]]>
+  </title>
+  <link> https://coreacter.org/posts/20241027_what_if_theyre_all_wrong/index.html </link>
+  <guid> https://coreacter.org/posts/20241027_what_if_theyre_all_wrong/index.html </guid>
+  <description>
+    <![CDATA[  Inspired by a blog post by the mathematician Igor Pak, EWCSS considers mechanisms &#40;e.g., reaction mechanisms&#41; as a form of chemical conjecture. Using a recent example involving electrolyte decomposition in lithium-ion batteries, they explore the process of challenging and falsifying proposed mechanisms and provide arguments in favor of &quot;mechanism hunting&quot;.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="what_if_theyre_wrong">What If They&#39;re Wrong?</h1>
+<p>I recently came across a blog post by the mathematician <a href="https://www.math.ucla.edu/~pak/">Igor Pak</a> entitled &quot;<a href="https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/">What if they are all wrong?</a>&quot; &#40;2020&#41;. In the post, Pak discusses <em>conjectures</em>, mathematical statements whose truth has not been ascertained. They could be true or false &#40;or undecidable&#41;, though generally the person proposing the conjecture believes that statement to be true. Pak explores why mathematicians care about conjectures, what makes certain conjectures interesting targets for mathematical research, and the &#40;under-recognized&#41; value of attempting to <strong><em>dis</em></strong>prove a conjecture.</p>
+<p>I&#39;m a chemist, not a mathematician, and even for chemists I&#39;m not particularly good at math. Nonetheless, I have a casual interest in mathematics research, which initially drew me into Pak&#39;s writing. But as I read, I felt a familiarity, something about Pak&#39;s arguments that resonated with my views on and experiences with chemical &#40;scientific&#41; research.</p>
+<p>This blog post is my attempt to develop those feelings into a more coherent form. I&#39;ll discuss the process &#40;and the joy&#41; of searching for the places where the scientists of the past have gotten it all wrong. My analysis will focus on the idea of chemical <em>mechanisms</em>, which, as I&#39;ll explain, have some similarities with mathematical conjectures, both in form and in their social function in the research environment. I&#39;ll give some reasons why you might want to become a &quot;mechanism hunter&quot; like me, seeking out questionable mechanisms and trying to support or falsify them, and towards the end I&#39;ll provide some &#40;hopefully practical&#41; advice to consider as you study these chemical conjectures. Reading Pak&#39;s post before this one is not necessary, but it is well worth the read.</p>
+<h2 id="whats_in_a_mechanism">What&#39;s In a Mechanism?</h2>
+<p>Preparing to write this post, I wanted to make sure that I was thinking about mechanisms in a clear and consistent way. I was intrigued to find that the idea of &quot;mechanism&quot; has been of recent interest in the field of philosophy of science. Thinkers have been pondering mechanisms, from what they are &#40;and are not&#41; to why they&#39;re important in science and how they&#39;re developed. In this discussion, I will start from the following definition that has somewhat recently found widespread use: </p>
+<blockquote>
+<p>A mechanism for a phenomenon consists of entities &#40;or parts&#41; whose activities and interactions are organized so as to be responsible for the phenomenon.<sup id="fnref:1">[1]</sup></p>
+</blockquote>
+<p>To parse that out slightly, when one posits a mechanism, one is suggesting a set of actions &#40;the &quot;activities and interactions&quot; of the &quot;entities &#40;or parts&#41;&quot;&#41; that, taken together in some way, cause some observed behavior &#40;&quot;phenomenon&quot;&#41; to occur. And to make this even more concrete, I will provide a chemical example. In a <em>reaction mechanism</em>, the &quot;phenomenon&quot; being caused and explained is the reaction outcome — the formation of some product, the decomposition of some compound, etc. The &quot;entities&quot; are the reactants and intermediates that are required to lead to the observed outcome, or alternatively, the individual reaction steps that together make up the overall observed reaction. There&#39;s a lot more to mechanisms than just this definition, but it&#39;ll be enough for our purposes.</p>
+<p>Mechanisms in chemistry &#40;and, probably, in other sciences&#41; begin their lives as conjectures. A researcher observes some behavior, but they &#40;or their advisor, or the reviewers of their manuscripts&#41; are unsatisfied with the observation alone. Rather, they demand to know <em>why</em> that behavior occurs. The &quot;why&quot; — the explanatory mechanism — is more than a cherry on top. Understanding why something occurs can help the researcher place an observation in the context of a coherent theory, and this might enable future predictions and developments based on the initial observation. The observation of electron ejection from metals upon irradiation with light was an interesting empirical development, but it was Einstein&#39;s explanation of this phenomenon &#40;the photoelectric effect&#41;<sup id="fnref:2">[2]</sup><em>via</em> quantization of light/energy that would eventually lead to &#40;among other things&#41; the invention of photo<em>voltaic</em> devices such as the now-ubiquitous solar cells.</p>
+<p>To answer the question of &quot;why&quot;, our researcher searches for a mechanism that plausibly explains the behavior that they observed. At this point, we are squarely in the realm of conjecture. And, just as in mathematics, a good researcher will then try to convince themselves and their colleagues that their mechanism is correct, or else try to come up with a better one.</p>
+<h2 id="chemical_conjectures">Chemical Conjectures</h2>
+<p>Most areas of chemistry do not have the luxury of proofs. We cannot, through logic and careful argument, remove all doubt that our ideas are correct. Instead, we must be satisfied with models that are inevitably flawed &#40;but perhaps useful&#41; and arguments that are at best consistent with the available data. However, we <em>can</em> disprove. As the eminent philosopher of science Karl Popper argued, hypotheses and theories can only be considered scientific if they are <em>falsifiable</em>, <em>i.e.</em>, they can be contradicted by empirical evidence.<sup id="fnref:3">[3]</sup></p>
+<p>Given the importance of counterevidence to the testability and legitimacy of scientific ideas, one would think that disproving ideas would be a cornerstone of scientific praxis. Pak&#39;s original post provided a quote &#40;also from Popper&#41; summarizing this notion:</p>
+<blockquote>
+<p>&#91;Great scientists&#93; are men of bold ideas, but highly critical of their own ideas: they try to find whether their ideas are right by trying first to find whether they are not perhaps wrong. They work with bold conjectures and severe attempts at refuting their own conjectures.<sup id="fnref:4">[4]</sup></p>
+</blockquote>
+<p>I&#39;ll put Popper&#39;s gendered language aside for the moment and focus on the sentiment. Perhaps his assertion is true when a mechanism can be straightforwardly confirmed or refuted by experiments. If that is the case, then it would simply be lazy <em>not</em> to do the extra work to see if one&#39;s conjecture is false. However, many mechanisms are not so easily dismissed, either because it is extremely difficult to gather evidence necessary to refute a mechanism or because the evidence that one can gather is only indirect. If you believe that the performance of your optoelectronic device is hampered by defects, you can go looking, but measurements of defect concentrations are notoriously difficult. If you posit a reaction mechanism, you may be able to look at kinetics or distribution of reaction products to support or refute your claims. Unfortunately, the transition-states and short-lived intermediates that would serve as hard evidence are most often undetectable, even with the best spectroscopy we have today. In these frequent difficult cases, mechanisms can remain conjectures for rather long periods of time.</p>
+<h2 id="aiming_to_disprove">Aiming to Disprove</h2>
+<p>By now, I&#39;ve hopefully done a decent job explaining what a mechanism is, as well as how and why they function as conjectures. I&#39;ve also pointed to why researchers may not devote themselves to &quot;refuting their own conjectures&quot; to live up to Popper&#39;s image of greatness. Instead of clearing the field and leaving only a handful of stubborn questions for the next scientist down the line to deal with, we chemists tend to litter the literature with conjectures.</p>
+<p>But I, like Igor Pak, see great value in disproving conjectures. Pak provides three motivations to pursue disproof in mathematics: <em>opportunism</em> &#40;most folks try to confirm, rather than refute, so one can swoop in on a strong result with little competition&#41;, <em>beauty</em>, and <em>construction</em> &#40;disproof in mathematics typically requires a counterexample, which must be designed by the researcher&#41;. Opportunism certainly also applies to disproving chemical conjectures, while beauty is perhaps too loose and subjective and construction does not strictly apply &#40;one can demonstrate that a proposed mechanism cannot be true without constructing an alternative, though in practice counterproof often involves constructing a new experiment, a new simulation, and/or a new alternative mechanism&#41;.</p>
+<p>On top of opportunistic, attempting to falsify chemical mechanisms is an activity that is <em>productive</em> because it is very unlikely to produce nothing of scientific value. In the best case, you find counterproof and get to turn a field on its head. If you don&#39;t find counterproof, this will typically be because you have instead found some evidence that supports the dominant conjectured mechanism. This may put a controversy to rest or else might put an even larger target on the mechanism for future researchers. &quot;Mechanism hunting&quot;, as I&#39;ll call it for the rest of this post, also happens to be a research activity that brings me a great deal of joy and excitement. I &#40;subjectively&#41; find it exhilarating to tear down a faulty structure of logic and attempt to lay down a more solid foundation. That dogged pursuit of truth is a huge part of the reason I became a scientist&#33;</p>
+<p>In the rest of this blog post, I&#39;ll illustrate the process of the hunt through an example that I somewhat-recently worked on in collaboration with undergraduate <a href="https://scholar.google.com/citations?user&#61;wJjvLPkAAAAJ&amp;hl&#61;en&amp;oi&#61;ao">Thea Bee Petrocelli</a>.<sup id="fnref:5">[5]</sup> To set the stage, I spent most of my years as a PhD student thinking about electrolyte decomposition in batteries. Readers unfamiliar with battery electrochemistry might be surprised to learn that the electrolytes in lithium-ion batteries are actually designed to break down. Specifically, they&#39;re engineered to react in the first few charging cycles in order to form a protective layer &#40;a &quot;passivation film&quot; in jargon-ese&#41; called a &quot;solid electrolyte interphase&quot; or SEI on the battery&#39;s negative electrode. Electrolyte decomposition is a make-or-break factor for batteries; a good SEI can enable stable performance for many thousands of charge-discharge cycles, while uncontrolled reactivity can lead to <a href="https://www.latimes.com/california/story/2024-10-28/lithium-ion-battery-fires-rampant-safety-fears">disaster</a>.<sup id="fnref:6">[6]</sup> The focus of my research was to use computational simulations to try and understand exactly what was happening during SEI formation. What components reacted when, and how? How did individual reaction pathways interact to lead to SEI layers with particular compositions, structures, and properties? In other words, my job was to closely interrogate electrochemical reaction mechanisms.</p>
+<h2 id="choosing_targets">Choosing Targets</h2>
+<p>In a sense, my job was easy. Inspired by the title of an early review paper,<sup id="fnref:7">[7]</sup> the SEI has been widely called the &quot;least understood&quot; component of a battery, and that mystery remains because SEI formation is an extremely complex, far-from-equilibrium process with many interrelated reactions occurring simultaneously. It&#39;s a nightmare to study using either experiments or theory. Everywhere you looked, there were electrolyte components that the community knew &#40;or believed&#41; were reactive, but for which the mechanisms were not well understood. There were also plenty of SEI components and structures that had been observed in experiment but whose origin had not been thoroughly explained.</p>
+<p>Given so many options of electrolyte solvents, salts, additives, and impurities, not to mention observed or postulated SEI products, where should one choose to focus? What mechanisms are most interesting, most worthy of our limited time? There are no hard-and-fast rules for developing mechanisms, validating them, or refuting them, but when I&#39;m thinking about research problems, I use the following criteria:</p>
+<ol>
+<li><p><strong>Relevance</strong>. How important is the mechanism in question? If you perfectly understood it, what would that allow you to do? In the case of reaction mechanisms in a battery, I thought about how widely used a particular component was and how one might seek to control SEI formation by promoting or inhibiting particular reaction pathways.</p>
+</li>
+<li><p><strong>Uncertainty</strong>. Any hypothesis, no matter how strong or long-standing, could be false, but given limited time and energy, one should focus one&#39;s efforts on trying to falsify mechanisms that already appear shaky. Are there multiple conflicting hypotheses related to the mechanism? Does the mechanism rest on explicit or implicit assumptions that may not be valid? Studying a mechanism that is highly uncertain is likely to lead to some interesting results, even if you do not succeed at falsification.</p>
+</li>
+<li><p><strong>Approachability</strong>. Falsifying a mechanism requires that only one part or interaction in the process does not occur as described. Do you see a way to probe <em>any</em> aspect of the mechanism directly? If so, how many aspects? If not, what kinds of indirect evidence could you gather? The more inroads you have to study, the more attractive the mechanism.</p>
+</li>
+</ol>
+<h2 id="little_salt_big_problems">Little Salt, Big Problems</h2>
+<p>The vast majority of lithium-ion batteries on the market today use lithium hexafluorophosphate &#40;LiPF\(_6\); see Figure 1&#41; for their lithium-carrying salt. LiPF\(_6\) has a lot of nice properties. For instance, it dissolves well in commonly used organic carbonate solvents like ethylene carbonate &#40;EC&#41;; that leads to solutions with high ionic conductivity, which in turn means that you can charge and discharge quickly. LiPF\(_6\)-based electrolytes also form relatively stable SEI layers on graphite. Things aren&#39;t all perfect, though; LiPF\(_6\) degrades to form undesirable side products like hydrofluoric acid &#40;HF&#41; and reacts autocatalytically at high temperature, contributing to thermal runaway.</p>
+<div class="im-30"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/lipf6.png" alt="A 3D graphic of lithium hexafluorophosphate, with a lithium ion coordinated by three fluorine atoms." /></div>
+<p><strong>Figure 1:</strong> Lithium hexafluorophosphate. Reproduced from <a href="https://doi.org/10.1021/acsenergylett.2c02351">DOI: 10.1021/acsenergylett.2c02351</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license.</p>
+<p>Given the importance of LiPF\(_6\) for commercial lithium-ion batteries, it is no surprise that it had been widely studied using both experiments and simulations. Over the years, a number of mechanisms had been conjectured in the literature. Perhaps the most cited mechanism relied on hydrolysis. It was believed that LiPF\(_6\) would first give up one unit of lithium fluoride &#40;LiF&#41;, forming phosphorus pentafluoride &#40;PF\(_5\)&#41;. This PF\(_5\) would then react with water — a stubborn, nearly unavoidable impurity in lithium-ion battery electrolyte - to form HF and eventually form products like phosphoryl fluoride &#40;POF\(_3\)&#41;. There had also been some suggestion that LiPF\(_6\) might break down electrochemically under oxidizing conditions at the positive electrode.<sup id="fnref:8">[8]</sup> The thermal degradation of LiPF\(_6\) had been far less studied than the initial decomposition related to SEI formation, but a plausible mechanism had been suggested as early as 2005 by Campion, Li, and Lucht &#40;reproduced in Figure 2&#41;.<sup id="fnref:9">[9]</sup></p>
+<div class="im-50"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/campion_recreated.png" alt="A reaction diagram indicating the formation and autocatalytic reformation of phosphoryl fluoride from lithium hexafluorophosphate." /></div>
+<p><strong>Figure 2:</strong> A reaction diagram indicating the formation and autocatalytic reformation of phosphoryl fluoride from lithium hexafluorophosphate, based closely on <a href="https://doi.org/10.1149/1.2083267">DOI: 10.1149/1.2083267</a>. Note that this mechanism suggests &#40;incorrectly, as I will show&#41; that POF\(_3\) initially forms from a hydrolysis-like mechanism.</p>
+<p>LiPF\(_6\) decomposition mechanisms were the perfect target for mechanism hunting. Given the ubiquity of LiPF\(_6\), its decomposition is vitally important in the battery industry, and an understanding of how LiPF\(_6\) reacts could conceivably help researchers design additives to promote desired processes &#40;like LiF formation&#41; and inhibit undesired ones &#40;like HF formation&#41;. LiPF\(_6\) is a small molecule that could be accurately studied using computational quantum chemistry, and such analysis could provide direct observation of elementary reaction steps including transition-states. And boy, was there a lot of uncertainty around these decomposition mechanisms. After I had been researching electrolyte reactivity and SEI formation for a while, it became clear to me that the reaction mechanisms for LiPF\(_6\) needed to be probed by a critical eye. First of all, in a laboratory setting, electrolytes were often rigorously dried, leaving just trace amounts of water. Could hydrolysis really be the major cause for LiPF\(_6\) reactivity if there was so little water? Even more fundamentally, hexafluorophosphate hydrolysis has been known since the 1960s to be sluggish,<sup id="fnref:10">[10]</sup> and this was supported by more recent theoretical work examining LiPF\(_6\) decomposition in batteries.<sup id="fnref:11">[11]</sup> This evidence alone didn&#39;t falsify the hydrolysis mechanism, but it certainly made it sound fishy.</p>
+<h2 id="designing_counter-proof">Designing Counter-Proof</h2>
+<p>Another doctoral student in my research group had tried to study LiPF\(_6\) decomposition using a chemical reaction network approach that we had developed earlier to study EC decomposition.<sup id="fnref:12">[12]</sup> She had struggled to find any pathway that made sense and eventually gave up and moved onto other projects. Thea, who at the time was working with me through the US Department of Energy&#39;s <a href="https://science.osti.gov/wdts/cci">Community College Internship</a> program, heard about this and decided that she would be the one to unravel the mystery of LiPF\(_6\). Thea&#39;s internship was only ten weeks long. I was skeptical that they would be able to make any serious progress in such a limited amount of time, and I told Thea as much. At the same time, I encouraged them to follow their curiosity, and together we dug into the problem.</p>
+<p>With so little time, I knew that a complex algorithmic approach was not the right path forward. There was too much complexity in the code that we had developed, too many little problems. Besides, building and analyzing a reaction network is a slow process &#40;at least how we were doing it&#41;. Instead, Thea and I went at the problem by hand, using our chemical intuition to guide us.</p>
+<p>Our first step was to show that the proposed hydrolysis mechanism was too slow to be the major driver of LiPF\(_6\) decomposition. The earlier work of Okamoto had already suggested this,<sup id="fnref:11">[11]</sup> but it didn&#39;t hurt to double-check using some more up-to-date methods. This was pretty straightforward. We assumed that the proposed reaction of LiPF\(_6\) to form PF\(_5\) and LiF was correct. LiF abstraction still raised some questions, but there was enough evidence supporting that it occurred that we were comfortable ignoring it. Then, using density functional theory and some clever search and optimization algorithms developed by our collaborators at <a href="https://www.schrodinger.com/">Schrödinger, Inc.</a>, we found all of the elementary steps of PF\(_5\) hydrolysis to form HF and POF\(_3\) &#40;Figure 3&#41;. Our numerical results didn&#39;t perfectly line up with Okamoto&#39;s, but unsurprisingly, we also found that this reaction pathway was way too slow to occur at room temperature. Even worse, we found that every step in this pathway is thermodynamically unfavorable&#33;</p>
+<div class="im-50"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/hydrolysis.png" alt="An energy diagram showing the hydrolysis of phosphorus pentafluoride. Water first attaches to phosphorus pentafluoride, forming an octahedral complex &#40;ΔG &#61; 0.12 eV&#41;. Then, two hydrofluoric acid molecules are released sequentially. The first reaction, has ΔG &#61; 0.23 eV and an energy barrier of 1.02 eV. The second reaction, yielding phosphoryl fluoride, has ΔG &#61; 0.06 eV and a barrier of 1.06 eV." /></div>
+<p><strong>Figure 3:</strong> An energy diagram for the hydrolysis of PF\(_5\) to POF\(_3\) and HF. Reproduced from <a href="https://doi.org/10.1021/acsenergylett.2c02351">DOI: 10.1021/acsenergylett.2c02351</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license.</p>
+<h2 id="daring_also_to_be_wrong">Daring Also to Be Wrong</h2>
+<p>It wasn&#39;t enough to say that the LiPF\(_6\) hydrolysis was slow or unfavorable. We had to show that some other reaction with LiPF\(_6\) or PF\(_5\) was fast &#40;or at least faster&#41; and could occur in a realistic battery environment. This was where we had to think outside of the box.</p>
+<p>Thea and I went to the whiteboard for hours at a time. At first, we tried to imagine ways that LiPF\(_6\) or PF\(_5\) could react independently at the negative electrode. Could they electrochemically reduce? React with the surface? Could two LiPF\(_6\) molecules interact somehow? When we didn&#39;t find anything promising, we expanded our search. This, I think, was the key insight that allowed us to make progress. Previous scholars, likely wanting to keep their mechanisms as simple as possible, had locked in on PF\(_5\) and water in isolation, but this was an unnecessary limitation. We knew that there was much more reactivity going on, and there was no reason to think that LiPF\(_6\) or PF\(_5\) couldn&#39;t interact with other reactive species.</p>
+<p>We wrote down every reaction that we believed was happening in the battery along with LiPF\(_6\) decomposition, based on my own studies and other early reports. We made a list of every known or speculated SEI component and considered how each might interact with LiPF\(_6\) and PF\(_5\), and we settled on lithium carbonate, or Li\(_2\)CO\(_3\), as a good starting point. Lithium carbonate was small &#40;meaning &quot;easy to study&quot;&#41;,<sup id="fnref:13">[13]</sup> abundant on both the negative and positive electrodes, and it had a number of sites that we thought might be reactive. Digging back into the literature, we found that there were already a couple of early reports suggesting some kind of reactivity between LiPF\(_6\) and Li\(_2\)CO\(_3\) based on experimental data,<sup id="fnref:14">[14]</sup> <sup id="fnref:15">[15]</sup> which gave us further confidence.</p>
+<div class="im-50"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/pf5_li2co3.png" alt="An energy diagram showing the reaction between phosphorus pentafluoride and lithium carbonate. Lithium carbonate first attaches at the phosphorus atom, forming a complex with a low &#40;0.04 eV&#41; barrier. After a lithium rearrangement &#40;ΔG &#61; 0.64 eV&#41;, the complex decomposes, with lithium fluoride and carbon dioxide being released simultaneously &#40;0.19 eV barrier&#41;. Finally, another lithium fluoride is released &#40;0.63 eV barrier&#41;, yielding phosphoryl fluoride." /></div>
+<p><strong>Figure 4:</strong> An energy diagram for the reaction between PF\(_5\) and Li\(_2\)CO\(_3\). Reproduced from <a href="https://doi.org/10.1021/acsenergylett.2c02351">DOI: 10.1021/acsenergylett.2c02351</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license.</p>
+<p>Thea went to work on the pathway, again going step by step. If any elementary reaction was slow or severely unfavorable, we had to trash this idea and move on to something else. But Thea&#39;s initial results looked good, shockingly good. I double-checked her and filled in the gaps where she wasn&#39;t able to find a pathway. In just a couple of weeks, we had something &#40;Figure 4&#41;.</p>
+<p>It seemed like lithium carbonate explained &#40;almost&#41; everything. Our quantum chemical simulations suggested that PF\(_5\) and Li\(_2\)CO\(_3\)  <em>loved</em> to react. Our pathway led to a number of observed products and byproducts, including LiF, POF\(_3\), and CO\(_2\), and there were no loose ends or unexpected species. Because lithium carbonate formed from EC reduction, our ostensibly chemical mechanism could still explain the potential dependence of LiPF\(_6\) decomposition, and we didn&#39;t rely on any minority species like water. What&#39;s more, as far as we could tell, our results were consistent with basically every experimental observation of LiPF\(_6\) decomposition. I was positively giddy; this was an incredibly clean disproof of the hydrolysis mechanism, at least as a major factor in early SEI formation.</p>
+<p>As reasonable as our mechanism seemed to us, it was still a conjecture, just like the hydrolysis mechanism had been before. This meant that suggesting it posed a risk to Thea, myself, and our collaborators. What if we were wrong? What if we missed something important, some other critical route that is even more favored, even faster, than ours?</p>
+<p>But that&#39;s just science. There can be no perfection, and we cannot hold back our ideas for fear of being wrong. Thea and I came up with a bold conjecture, and we tried to find flaws in it. Maybe we&#39;re not Popper&#39;s great scientists &#40;not least of which because we&#39;re not men&#41;, but we put in our due diligence. Nearly two years since our the paper was published,<sup id="fnref:16">[16]</sup> I still think that the mechanism that we reported is reasonable. Besides, if we are wrong, I would not want to take the fun of demonstrating that away from my fellow mechanism hunters&#33;</p>
+<div class="im-50"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/acid_formation.png" alt="An energy diagram for three reactions between phosphoryl fluoride and inorganic carbonates a&#41; carbonic acid, b&#41; lithium bicarbonate, and c&#41; lithium carbonate to form PF2OOH, &#40;a&#41;, LiPO2F2 &#40;c&#41;, or a complex &#40;b&#41;. Only the reaction with lithium carbonate is thermodynamically favored; as shown in d&#41;, this can be attributed to the partial charge of the carbonate oxygens, which is a proxy for basicity. The more negative the oxygen &#40;or, the more basic the carbonate&#41;, the more reactive the molecule with phosphoryl fluoride." /></div>
+<p><strong>Figure 5:</strong> An energy diagram for three reactions between POF\(_3\) and inorganic carbonates a&#41; H\(_2\)CO\(_3\), b&#41; LiHCO\(_3\), and c&#41; Li\(_2\)CO\(_3\). The thermodynamic favorability of these reactions is rationalized in d&#41; via the inorganic carbonate oxygen partial charge, which is a proxy for basicity. Reproduced from <a href="https://doi.org/10.1021/acsenergylett.2c02351">DOI: 10.1021/acsenergylett.2c02351</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license.</p>
+<h2 id="sometimes_they_get_it_right">Sometimes, They Get It Right</h2>
+<p>Above, I mentioned that LiPF\(_6\) autocatalyzes at high temperature and that a mechanism for this process had been conjectured by Brett Lucht&#39;s group a few decades back. After Thea and I had disproven the hydrolysis mechanism, we thought that we might take a swing at autocatalysis, as well. We had less of a clear reason to think this mechanism was incorrect &#40;this mechanism did not meet our second criterion, uncertainty, very well&#41;, but it had not been closely studied by theory since its proposal.</p>
+<p>I will spare you the details of our search; suffice to say that we more or less followed the lead of Campion et al., filling in some gaps where necessary and considering multiple &#40;simple&#41; chemical terminations to try and cover our bases. In the end, we found that the Campion mechanism was slightly simplified but didn&#39;t have any major flaws &#40;compare Figure 5 and Figure 6 to Figure 2 above&#41;.</p>
+<div class="im-50"><img src="https://coreacter.org/_files/images/20241027_what_if_theyre_all_wrong/reformation.png" alt="An energy diagram showing the reaction between phosphorus pentafluoride and either PF2OOH &#40;a&#41; or LiPO2F2 &#40;b&#41;. Both reactions are sluggish, with intramolecular fluorine transfer being the rate-limiting step. c&#41; and d&#41; show the rate coefficients of these rate-limiting steps as a function of temperature. The reaction with PF2OOH has an appreciable rate around 150 C, while the reaction with LiPO2F2 remains sluggish." /></div>
+<p><strong>Figure 6:</strong> An energy diagram for the reaction between PF\(_5\) and a&#41; PF\(_2\)OOH or b&#41; LiPF\(_2\)O\(_2\), formed in the reactions shown in Figure 5. Rate coefficients for the rate-limiting intramolecular fluoride transfer steps are shown in c&#41; and d&#41; as a function of temperature. Reproduced from <a href="https://doi.org/10.1021/acsenergylett.2c02351">DOI: 10.1021/acsenergylett.2c02351</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> license.</p>
+<p>But even a failed mechanism hunt is still productive, and this is no exception. Thea and I may not have ripped any holes in Campion et al.&#39;s mechanism, but we were able to support this mechanism and find something new to say about it. Specifically, we learned that the reason why LiPF\(_6\) needs high temperatures to autocatalyze is based on one really slow step where a fluorine atom hops from one side of a complex to the other. We also found that the autocatalysis was much easier if protons were involved, which might implicate water &#40;Remember: we found that water and PF\(_5\) react slowly under normal operating conditions. High temperature is a different story&#33;&#41;. These results weren&#39;t huge deals, but we walked away from our analysis feeling like our time was well spent.</p>
+<h2 id="leaving_gaps_behind">Leaving Gaps Behind</h2>
+<p>Of course, in chemistry as in many fields, every good answer leaves behind questions. Thea and I did a great job knocking down the hydrolysis mechanism, but we didn&#39;t explain everything. The most important question that our analysis left behind involved HF. There&#39;s strong experimental evidence that it forms in batteries, and in fact, it can be seriously harmful to a battery&#39;s health. Yet HF doesn&#39;t show up anywhere in out analysis; what gives?</p>
+<p>The honest answer is: we don&#39;t know&#33; We&#39;re pretty confident that HF isn&#39;t coming from chemical reactions with water, and earlier reports of electrochemical HF formation don&#39;t seem much better &#40;the calculated oxidation potentials of PF\(_6^-\) and water, which are usually pretty reliable, are way too high to be relevant to any normal battery&#41;.<sup id="fnref:8">[8]</sup></p>
+<p>Some scientist more clever or more dedicated than me will, in all likelihood, eventually cook up a reasonable mechanism. Maybe it&#39;ll be you, dear Reader. And when they &#40;you&#41; do, I&#39;ll be overjoyed&#33; There&#39;s no shame in leaving questions for someone else to answer, in my opinion; quite the opposite. As I wrote in the dedication of my dissertation: &quot;to the brighter minds who will prove me wrong and find better paths than I could dream up. I left you plenty of fuel. Find something fun to burn.&quot;</p>
+<h2 id="what_should_you_do">What Should You Do?</h2>
+<p>So you want to be a mechanism hunter? My advice to you would be this:</p>
+<ol>
+<li><p><strong>Look at every mechanism critically</strong>. What are the authors assuming? What evidence do they use to support their mechanism? Does the mechanism appear to be in contradiction with any evidence that you&#39;re aware of? Remember that conjectures, even ones put forward by leading experts, are disproven all the time.</p>
+</li>
+<li><p><strong>Find the gaps in analysis</strong>. What haven&#39;t previous studies considered about a given process? Can you think of experiments or simulations that you could use to make initial probes of the conjectured mechanism?</p>
+</li>
+<li><p><strong>Understand yourself</strong> Here, I&#39;m once again shamelessly stealing from Pak&#39;s post. Every scientist has a specialized set of tools and techniques that they&#39;re familiar with. Once you&#39;ve found a problem worth studying, consider if and how your tools might be used to study it. Just because you&#39;ve found a mechanism worthy of attack does not necessarily mean that you should be the one to attack it. Save your energy for the tasks you are best suited for.</p>
+</li>
+<li><p><strong>Make conjectures, but make them carefully</strong>. Aspire to be like Popper&#39;s scientist, and try to refute your own ideas before you release them into the world. You may still be wrong, but if you are, you can hold your head high and say that you did what you could to explain.</p>
+</li>
+<li><p><strong>Fear not incorrectness</strong>. Absolute proof in the chemical sciences is rare and elusive. Even your best, most solid mechanism might be flawed, as might your attempts to confirm or falsify someone else&#39;s mechanisms. You gain nothing by being timid and holding back. Even if you are wrong, by giving into fear, you take away other mechanism hunters&#39; fun.</p>
+</li>
+</ol>
+<h1 id="footnotes">Footnotes</h1>
+<p><table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1093/oso/9780198779711.001.0001">DOI: 10.1093/oso/9780198779711.001.0001</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:2">
+    <tr>
+        <td class="fndef-backref">[2]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1002/andp.19053220607">DOI: 10.1002/andp.19053220607</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:3">
+    <tr>
+        <td class="fndef-backref">[3]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.4324/9780203994627">DOI: 10.4324/9780203994627</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:4">
+    <tr>
+        <td class="fndef-backref">[4]</td>
+        <td class="fndef-content">From &quot;Replies to My Critics&quot;, presented in <em>The Philosophy of Karl Popper, Part 2</em> &#40;1974&#41;.</td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:5">
+    <tr>
+        <td class="fndef-backref">[5]</td>
+        <td class="fndef-content">Thea is applying for PhD positions this year. Look out for their applications&#33;</td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:6">
+    <tr>
+        <td class="fndef-backref">[6]</td>
+        <td class="fndef-content">I picked one news article that had just been published when I was writing this post. Search &quot;lithium-ion battery fire&quot; or &quot;lithium-ion battery explosion&quot; and you&#39;ll find plenty more.</td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:7">
+    <tr>
+        <td class="fndef-backref">[7]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1524/zpch.2009.6086">DOI: 10.1524/zpch.2009.6086</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:8">
+    <tr>
+        <td class="fndef-backref">[8]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1021/acsenergylett.1c00707">DOI: 10.1021/acsenergylett.1c00707</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:9">
+    <tr>
+        <td class="fndef-backref">[9]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1149/1.2083267">DOI: 10.1149/1.2083267</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:10">
+    <tr>
+        <td class="fndef-backref">[10]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1016/0022-1902&#40;69&#41;80024-2">DOI: 10.1016/0022-1902&#40;69&#41;80024-2</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:11">
+    <tr>
+        <td class="fndef-backref">[11]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1149/2.020303jes">DOI: 10.1149/2.020303jes</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:12">
+    <tr>
+        <td class="fndef-backref">[12]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1039/D0SC05647B">DOI: 10.1039/D0SC05647B</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:13">
+    <tr>
+        <td class="fndef-backref">[13]</td>
+        <td class="fndef-content">Read: &#40;relatively&#41; easy to study.</td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:14">
+    <tr>
+        <td class="fndef-backref">[14]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1039/C6RA00648E">DOI: 10.1039/C6RA00648E</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:15">
+    <tr>
+        <td class="fndef-backref">[15]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1021/acs.jpcc.7b08433">DOI: 10.1021/acs.jpcc.7b08433</a></td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:16">
+    <tr>
+        <td class="fndef-backref">[16]</td>
+        <td class="fndef-content"><a href="https://doi.org/10.1021/acsenergylett.2c02351">DOI: 10.1021/acsenergylett.2c02351</a></td>
+    </tr>
+</table>
+</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Foundations of Chemical Ethics: 0. Foundations of the Foundations  ]]>
+  </title>
+  <link> https://coreacter.org/posts/20241204_ethical_foundations_0/index.html </link>
+  <guid> https://coreacter.org/posts/20241204_ethical_foundations_0/index.html </guid>
+  <description>
+    <![CDATA[  In this preview, EWCSS introduces a new series on ethics in the chemical sciences. They discuss their motivations for embarking on this journey, their intended scope and goals, and they raise some possible directions for future posts.  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="foundations_of_chemical_ethics">Foundations of Chemical Ethics</h1>
+<h1 id="0_foundations_of_the_foundations">0: Foundations of the Foundations</h1>
+<p>This blog post is the first &#40;or, really, the zeroth&#41; in a series on &quot;chemical ethics&quot;. However, I won&#39;t be getting into the weeds of any serious ethical arguments quite yet. Rather, I want to take this blog post to explain why I&#39;m interested in this topic and what I hope to accomplish by writing about ethics.</p>
+<h2 id="motivations">Motivations</h2>
+<p>My reasons for starting this series are simple: 1&#41; I belive that chemical ethics is important; 2&#41; not enough has been written about ethics in chemistry; and 3&#41; I care. Here, I will explore each of these motivations in some detail.</p>
+<h3 id="the_moral_burden_of_chemistry">The Moral Burden of Chemistry</h3>
+<p>Chemicals and the chemical industries have been partially or wholly responsible for many of the great disasters of modern times. Some historians call World War I &quot;the Chemist&#39;s War&quot; because of the widespread use of chemical weapons, which killed nearly 100,000 and injured over 1 million people.<sup id="fnref:1">[1]</sup> Chemical weapons use decreased considerably after the first World War &#40;though never going away completely&#41;.<sup id="fnref:2">[2]</sup> Nonetheless, chemistry has remained important in warfare, with the use of synthetic herbicides &#40;e.g., &quot;<a href="https://en.wikipedia.org/wiki/Agent_Orange">Agent Orange</a>&quot;&#41; in the Vietnam War being perhaps the most salient in the American memory. In Vietnam, herbicides were meant to starve the North Vietnamese Communists and eliminate their forest cover, but tactical herbicides also contributed to an increase in birth defects following parental exposure.<sup id="fnref:3">[3]</sup></p>
+<p>&#40;Chemical&#41; war is Hell, but there&#39;s many more examples outside of the battlefield. One of the largest medical disasters of all time was caused by a chemical reaction: the conversion of R&#40;&#43;&#41; thalidomide — a drug that can treat a variety of medical conditions, including morning sickness in pregnant people — into S&#40;-&#41; thalidomide, a teratogen &#40;substance that interferes with the development of fetuses&#41;.<sup id="fnref:4">[4]</sup> Chemical accidents like the 1984 Bhopal disaster in India and the 2020 Beirut explosion have the potential to kill hundreds to thousands, while environmental chemical pollution can &#40;less dramatically and perhaps more indirectly&#41; kill by increasing the likelihood and severity of health decline and disease.<sup id="fnref:5">[5]</sup> Important examples of environmental chemical pollutants with severe health impacts include microplastics — which are now ubiquitous in the natural environment<sup id="fnref:6">[6]</sup> and adversely affect human<sup id="fnref:7">[7]</sup> and non-human animal health<sup id="fnref:8">[8]</sup> — as well as tetraethyl lead &#40;a long-time additive in gasoline&#41;<sup id="fnref:9">[9]</sup> and per-/polyfluoroalkyl substances &#40;PFAS&#41;.<sup id="fnref:10">[10]</sup></p>
+<p>Finally, I would be remiss if I didn&#39;t mention the elephant in the room: climate change. While many chemical scientists &#40;including me&#33;&#41; work to eliminate fossil fuel use and minimize the impacts of climate change, the reality is that our field got us into this mess in the first place. Not only are chemical engineers major players in the fossil fuel industry, creating the oil and natural gas products that we use to generate electricity and heat &#40;33&#37; of global greenhouse gas emissions&#41; and power most of our transportation &#40;15&#37; of emissions&#41;, but most industrial emissions &#40;24&#37; of emissions&#41; come from the production of chemicals and materials, particularly building materials like metals &#40;<em>e.g.</em>, steel&#41; and cement.<sup id="fnref:11">[11]</sup> In other words, the <strong>majority of global greenhouse gas emissions</strong> can be tied to the chemical sciences and chemical industries. Yikes.</p>
+<p>I bring up all of these examples of chemically-induced disasters, intentional and unintentional, to illustrate the outsized impact that chemistry and the chemical sciences have in the world. Our work has the power to destroy lives and &#40;especially if climate change continues unabated&#41; irreparably harm the environment and human society as we know it. Chemistry — and the actions of chemical scientists — has immense moral significance, and thus it is important to determine how such scientists should act. That is to say, chemical ethics are critical for ensuring public and environmental safety.</p>
+<h3 id="a_gap_in_the_literature">A Gap In the Literature</h3>
+<p>Ethics in the medical and life sciences have been considered and debated since at least the time of Hippocrates in the 5th century BCE.<sup id="fnref:12">[12]</sup> From the basic principle of &quot;do no harm&quot;, bioethics and medical ethics evolved over time as the understanding of medicine and the context in which it was practice changed. In fact, the first modern thinker to develop the idea of bioethics, Fritz Jahr,<sup id="fnref:13">[13]</sup> argued that advancements in science demanded ongoing reflections in moral philosophy.<sup id="fnref:14">[14]</sup> Notably, the field of medical research responded to the Nazi atrocities during World War II by embracing the Nuremburg Code,<sup id="fnref:15">[15]</sup> a set of rules for research with human subjects. The recognition of the importance of ethics in biology and medicine continued long after, as exemplified by the development of the 1978 <a href="https://web.archive.org/web/20111017133845/http://www.hhs.gov/ohrp/archive/documents/19790418.pdf">Belmont Report</a>, which establishes respect for persons, beneficence, and justice as core ethical principles for medical research. But bioethics is more than a static set of general guidelines and core principles; it remains a thriving area of research, and many students of the life sciences are required to take courses in bioethics to obtain their degrees. Some schools even offer <a href="https://www.sas.rochester.edu/ph/undergraduate/majors/bioethics.html">degrees</a> in bioethics&#33;</p>
+<p>Contrast this history with the situation in the chemical sciences. While individual chemical professional societies have ethical codes, including the American Chemical Society &#40;ACS&#41;,<sup id="fnref:16">[16]</sup> American Institute of Chemical Engineers,<sup id="fnref:17">[17]</sup> Royal Society of Chemistry,<sup id="fnref:18">[18]</sup> and German Chemical Society,<sup id="fnref:19">[19]</sup> there are no general ethical codes or principles recognized across the chemical sciences. In 2016, ACS convened a workshop which produced the Global Chemists&#39; Code of Ethics &#40;GCCE&#41;, but this is a far cry from the Belmont Report. The GCCE includes statements like</p>
+<blockquote>
+<p>Chemical practitioners should promote a positive perception and public understanding and appreciation of chemistry. This is done through research, innovation, teamwork, collaboration, community outreach, and high ethical standards.</p>
+</blockquote>
+<p>and</p>
+<blockquote>
+<p>Researchers should conduct their work with the highest integrity and transparency</p>
+</blockquote>
+<p>without defining what the &quot;ethical standards&quot; that must be followed are or what it means for a chemist to have &quot;integrity&quot;&#33;</p>
+<p>In spite of the moral significance of the chemical sciences, chemical ethics are not taken seriously by many chemical practitioners or organizations. This is evidenced by the lack of academic journals that regularly publish articles on ethics in the chemical sciences<sup id="fnref:20">[20]</sup> &#40;though articles on chemical ethics occasionally appear in other, non-specialized journals&#41; and the few books written on the subject.<sup id="fnref:21">[21]</sup> <sup id="fnref:22">[22]</sup> <sup id="fnref:23">[23]</sup> <sup id="fnref:24">[24]</sup> Perhaps because of this perceived lack of importance, the ethics curriculum available to students in chemical science programs tends to be extremely limited, often focusing &#40;where it exists at all&#41; on generic issues of safety and research integrity without discussing the specific questions and problems that arise in chemical practice.</p>
+<h3 id="personal_motivation">Personal Motivation</h3>
+<p>So, the ethics and moral norms of the chemical sciences are vitally important for the world and its inhabitants, but the philosophy, literature, and related pedagogy are underdeveloped &#40;compared to bioethics, as well as other fields like engineering ethics&#41;. This, I would argue, motivates <em>someone</em> to develop a chemical ethic. But why me? Why the CoReACTER?</p>
+<p>As a doctoral student, I witnessed and found myself embroiled in a number of ethical conflicts. Some of these were specific to chemistry, and others were more general problems of research ethics or professional ethics. While I will not tell any specific stories here, I am sure that I will return to some of these experiences in later posts in this series. For now, I will merely say that, in each of these scenarios, I found myself stuck. I was able to work out what <em>I</em> believed to be right, and generally I had some chain of reasoning that justified my beliefs. But ultimately, the different opinions that my colleagues held, the different actions that they took, were &#40;in a sense&#41; just as legitimate as my own, because we had not established common norms. That is to say, in the absence of a well-formed ethic, I had to personally struggle to navigate ethical situations, and I in many cases lacked the social structures necessary to challenge and alter what I viewed as others&#39; unethical behavior.</p>
+<p>Now, I&#39;m an incoming Assistant Professor. Soon, the CoReACTER will have more students, more collaborations, and more projects. Soon, I&#39;ll be teaching undergraduates and graduate students&#33; I don&#39;t want to repeat the mistakes of my predecessors. I want to be an ethical scientist, and I want to create an environment for chemical research and teaching that is ethical and just.</p>
+<p>So here I am, wandering through a dimly lit labyrinth, trying to find my way forward.</p>
+<h2 id="scope">Scope</h2>
+<p>Even preparing to write this zeroth post, I felt daunted. Developing a chemical ethic — that&#39;s a big ask&#33; To make this project more manageable &#40;and to set expectations&#41;, I find it helpful to establish the bounds of what I&#39;ll hope to cover in this series.</p>
+<h3 id="the_chemical_sciences">The Chemical Sciences</h3>
+<p>Throughout this piece so far, I&#39;ve used the phrase &quot;chemical science&quot;. It would perhaps be simpler to speak only of chemistry, but I can&#39;t do that. Chemistry is often called the &quot;central science&quot; in reference to its position between the physical sciences and the life sciences. The tendrils of chemistry reach far, from physics to agriculture. Though I consider myself a chemist, attend chemistry conferences, and typically publish my research in chemistry journals, my own background is highly interdisciplinary. My formal training is in materials science, but I&#39;ve worked in nanoparticle self-assembly &#40;applied physics&#41;, thermal fluids &#40;mechanical engineering&#41;, network science &#40;mathematics/computer science&#41;, and electrochemistry &#40;chemical engineering&#41;.</p>
+<p>This series on &quot;chemical ethics&quot; will span the chemical sciences, by which I mainly mean chemistry, chemical engineering, and materials science, as well as their sub-disciplines. However, I will not hold myself to any strict disciplinary boundaries.</p>
+<h3 id="chemical_ethics">Chemical Ethics</h3>
+<p>What are chemical ethics? This is a question that I intend to explore in more depth in future posts &#40;see &quot;What&#39;s Next?&quot; below&#41;, but a preliminary definition and scoping cannot be avoided anymore.</p>
+<p>Chemical ethics is an area of <a href="https://en.wikipedia.org/wiki/Applied_ethics">applied ethics</a> and <a href="https://en.wikipedia.org/wiki/Professional_ethics">professional ethics</a>. The study of chemical ethics involves determining appropriate approaches to moral questions related to the practice of chemistry and other chemical sciences. This includes activities related to academic and industrial chemical research, other industrial activities &#40;<em>e.g.</em>, managing a chemical plant or managing municipal chemical waste&#41;, and the professional interactions between chemical scientists and their broader communities and environments.</p>
+<p>While I believe that chemical ethics is an underdeveloped area of study, my exploration will not be beginning from nothing. We can leverage the central position of chemistry as a discipline to gather useful ideas. In addition to bioethics, engineering ethics provides a valuable jumping-off point for analyses of chemical ethics; as the name implies, the ethics of chemical engineering at least partially fall within the domain of engineering ethics.</p>
+<h2 id="why_not_just_science_ethics">Why Not Just Science Ethics?</h2>
+<p>It&#39;s a fair question. While chemistry does have unique ethical dimensions, from synthesizing novel compounds to creating and remediating environmental pollution, much of the ethical questions in the chemical sciences can be more-or-less easily extended to other areas of scientific research or engineering. Couldn&#39;t this series just be <em>Foundations of Science Ethics</em> or <em>Foundations of Engineering Ethics</em>?</p>
+<p>Sure it could&#33; But that&#39;s not what I&#39;m interested in, for a couple of reasons. First, as I&#39;ve already mentioned, non-chemical areas of research ethics and engineering ethics are already well-researched, robust fields of study. While I&#39;m sure I could make some meaningful contribution to these more general discussions, I see much less of a need for me to step into bioethics or engineering ethics. Second, where possible, I don&#39;t want to speak from a place of ignorance. This series will already involve me wading deep into areas outside of my expertise. It&#39;ll be much more manageable to think about and discuss ethics when applied to problems that I am already familiar with as a primarily academic chemical scientist with some exposure to industrial chemistry. Finally and most importantly, it doesn&#39;t need to be either-or. I can &#40;and probably will&#33;&#41; write about topics that are not exlusive to chemistry. Perhaps these posts could be labeled under &quot;research ethics&quot; or &quot;science ethics&quot; or &quot;engineering ethics&quot;, but they will still be relevant to chemical ethics and thus appropriate for this series.</p>
+<h2 id="goals">Goals</h2>
+<p>As I just alluded to, I am not a philosopher of science &#40;not yet, at least&#41;, and I have little philosophical or ethical training of any kind. While I believe that my interest in chemical ethics is important and worth pursuing, I know that my ideas are not yet mature. The <em>Foundations of Chemical Ethics</em> series is my attempt to learn by doing. Before I write any journal articles or manifestos, I&#39;ll be using this space to work through different ethical questions and &#40;hopefully&#41; get some feedback from my community.</p>
+<p>My lofty goal is to develop a modern chemical ethic that goes beyond the somewhat vague and empty statements of existing ethical codes of conduct and perhaps even beyond the standards in fields like engineering, to provide a guide for chemical scientists trying to use their work to remedy the mistakes of the past and prevent future disasters. Climate change and sustainability will feature heavily in this ethic, as will various forms of social &#40;in&#41;justice.</p>
+<p>More concretely, I hope to contribute some scholarly work on the topic of chemical ethics, either alone or in collaboration within the CoReACTER. I also hope to build up enough interesting and useful ideas to develop an ethics course for undergraduate and graduate chemical engineering students at Carnegie Mellon University.</p>
+<h2 id="whats_next">What&#39;s Next?</h2>
+<p>The next post in this series &#40;the actual first one&#41; will target a big question: &quot;What Is Chemistry For?&quot; I want to unpack the goals of the chemical sciences and chemical scientists. If we find that these goals aren&#39;t in line with some basic principles &#40;<em>e.g.</em>, justice&#41;, then we have a problem: we can&#39;t ethically justify chemical science in and of itself, and this whole exercise is moot. Barring that unfortunate situation, once we know the goals of the chemical sciences and what/who is meant to benefit from them, we can then focus our attention on figuring out how one can achieve those goals ethically.</p>
+<p>Another important post will cover the idea of &quot;The Pillars of Chemical Research&quot;. Analogous to how biomedical research on human subjects has the ethical guiding lights of respect for persons, beneficence, and justice, I want to try and identify core ethical principles for chemical scientific research. Like &quot;What Is Chemistry For?&quot;, this post will serve as an important touchstone for future explorations.</p>
+<p>Beyond those two posts, I don&#39;t know exactly where I&#39;ll go in this series. Some questions that I&#39;ve been thinking about, in no particular order:</p>
+<ul>
+<li><p>What is the ethical distance between &quot;pure&quot; chemists &#40;theoretical or experimental&#41; and &quot;applied&quot; chemists? How is this distance established, and what responsibilities do pure chemists have to prevent their ideas from causing harm?</p>
+</li>
+<li><p>On a similar note: do industrial chemical scientists have different ethical obligations to their academic counterparts?</p>
+</li>
+<li><p>Under what conditions is it ethical to labor in a context &#40;<em>e.g.</em>, an fossil fuel company&#41; that one knows or believes to be reducing human, non-human animal, or environmental wellbeing?</p>
+</li>
+<li><p>To what extent should chemical research or other labor in the chemical sciences be automated?</p>
+</li>
+<li><p>Is it ever ethical to use large language models or other &quot;AI&quot; tools in the chemical sciences? If so, what are the users&#39; obligations?</p>
+</li>
+<li><p>What ethical responsibilities do chemical scientists today hold for the wrongdoing and mistakes of past chemical scientists?</p>
+</li>
+<li><p>How should chemical standards and references be designed? What are the dangers of standards?</p>
+</li>
+<li><p>To what extent and under what conditions is it ethical for a chemical scientist to study problems that do not address significant societal problems?</p>
+</li>
+<li><p>What role should competition, prestige, and glory have in &#40;chemical&#41; science, particularly in the research setting? Is competition compatible with the goals of &#40;chemical&#41; science?</p>
+</li>
+<li><p>What are the standards for chemical harm? Can disclosing a molecule, material, or reaction be a form of harm in and of itself? What is &quot;due diligence&quot; in the context of chemical science; that is, when has a chemical scientist done enough to ensure that their work will cause as little harm as possible or will bring about as much benefit as possible? Is it ethical to make a &quot;bad&quot; process or compound &#40;<em>e.g.</em>, the extremely energy-intensive Haber-Bosch process&#41; more efficacious/less harmful, or is it only moral to design alternatives that are not harmful?</p>
+</li>
+<li><p>Chemists often speculate, for instance about mechanisms and spectral interpretation. Does speculation have any role in the chemical literature? If so, how should such speculation be communicated?</p>
+</li>
+</ul>
+<h1 id="footnotes">Footnotes</h1>
+<p><sup id="fnref:1">[1]</sup> <a href="https://doi.org/10.2105/AJPH.2007.111930">DOI: 10.2105/AJPH.2007.111930</a></p>
+<p><sup id="fnref:2">[2]</sup> <a href="https://doi.org/10.1016/j.etap.2008.03.003">DOI: 10.1016/j.etap.2008.03.003</a></p>
+<p><sup id="fnref:3">[3]</sup> <a href="https://doi.org/10.1093/ije/dyl038">DOI: 10.1093/ije/dyl038</a></p>
+<p><sup id="fnref:4">[4]</sup> <a href="https://doi.org/10.1002/bdrc.21096">DOI: 10.1002/bdrc.21096</a></p>
+<p><sup id="fnref:5">[5]</sup> <a href="https://doi.org/10.1186/s12940-017-0340-3">DOI: 10.1186/s12940-017-0340-3</a></p>
+<p><sup id="fnref:6">[6]</sup> <a href="https://doi.org/10.33263/BRIAC132.126">DOI: 10.33263/BRIAC132.126</a></p>
+<p><sup id="fnref:7">[7]</sup> <a href="https://doi.org/10.1016/j.scitotenv.2019.134455">DOI: 10.1016/j.scitotenv.2019.134455</a></p>
+<p><sup id="fnref:8">[8]</sup> <a href="https://doi.org/10.1002/9781119768432.ch12">DOI: 10.1002/9781119768432.ch12</a></p>
+<p><sup id="fnref:9">[9]</sup> <a href="https://doi.org/10.1016/j.chemosphere.2023.138207">DOI: 10.1016/j.chemosphere.2023.138207</a></p>
+<p><sup id="fnref:10">[10]</sup> <a href="https://doi.org/10.1038/s41370-018-0094-1">DOI: 10.1038/s41370-018-0094-1</a></p>
+<p><sup id="fnref:11">[11]</sup> <a href="https://doi.org/10.1017/9781009157926.004">DOI: 10.1017/9781009157926.004</a></p>
+<p><sup id="fnref:12">[12]</sup> Hippocrates is best known for the &quot;Hippocratic Oath&quot;, a commitment still sworn in some form by many doctors today, but he wrote extensively about the practice and philosophy of medicine.</p>
+<p><sup id="fnref:13">[13]</sup> Though Jahr was the first to use the term &quot;bioethics&quot;, his ideas did not become popular. It was Van Rensselaer Potter, who re-invented the concept during the Cold War, who led to the development and widespread adoptions of bioethical ideas. See, <em>e.g.</em>, <a href="https://doi.org/10.1080/11287462.2015.1007616">DOI: 10.1080/11287462.2015.1007616</a>.</p>
+<p><sup id="fnref:14">[14]</sup> <a href="https://doi.org/10.1353/ken.2008.0006">DOI: 10.1353/ken.2008.0006</a></p>
+<p><sup id="fnref:15">[15]</sup> <a href="https://doi.org/10.1056/NEJM199711133372006">DOI: 10.1056/NEJM199711133372006</a></p>
+<p><sup id="fnref:16">[16]</sup> <a href="https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html">https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html</a></p>
+<p><sup id="fnref:17">[17]</sup> <a href="https://www.aiche.org/about/governance/policies/code-ethics">https://www.aiche.org/about/governance/policies/code-ethics</a></p>
+<p><sup id="fnref:18">[18]</sup> &#91;https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf&#40;https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf&#41;</p>
+<p><sup id="fnref:19">[19]</sup> <a href="https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html">https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html</a></p>
+<p><sup id="fnref:20">[20]</sup> The only journals that I&#39;m aware of that are squarely focused on any philosophy of chemistry are <em>Hyle: International Journal for Philosophy of Chemistry</em>, which ceased publishing in 2021, and <em>Foundations of Chemistry</em>.</p>
+<p><sup id="fnref:21">[21]</sup><em>Chemistry: The Impure Science</em> by Bernadette Bensaude-Vincent and Jonathan Simon &#40;2008&#41;</p>
+<p><sup id="fnref:22">[22]</sup><em>The Ethical Chemist</em> by Jeffrey Kovac &#40;2018&#41;</p>
+<p><sup id="fnref:23">[23]</sup><em>Good Chemistry: Methodological, Ethical, and Social Dimensions</em> by Jan Mehlich &#40;2021&#41;</p>
+<p><sup id="fnref:24">[24]</sup><em>Ethics of Chemistry: From Poison Gas to Climate Engineering</em>, edited by Joachim Schummer and Tom Børsen &#40;2021&#41;</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>The CoReACTER; Evan Walter Clark Spotte-Smith</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  CoReACTER Philosophy: Principles  ]]>
   </title>
   <link> https://coreacter.org/philosophy/principles/index.html </link>
