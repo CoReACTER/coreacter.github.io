@@ -17,7 +17,7 @@ tags = ["research"]
 
 We develop and contribute to a range of datasets and software packages, providing new tools for the community to use to address diverse chemical problems.
 
-To maximize utility, we focus on making our datasets FAIR (*i.e.*, findable, accessible, interoperable, and reusable). To date, our data generation efforts have been focused on computational data generated using methods such as high-throughput density functional theory (see Prof. Spotte-Smith's work on the [Materials Project](https://doi.org/10.1039/D3DD00153A)). However, we are interested in developing experimental datasets as well, for instance leveraging the [CMU Cloud Lab](https://cloudlab.cmu.edu/).
+To maximize utility, we focus on making our datasets FAIR (*i.e.*, findable, accessible, interoperable, and reusable). To date, our data generation efforts have been focused on computational data generated using methods such as high-throughput density functional theory (see EWCSS' work on the [Materials Project](https://doi.org/10.1039/D3DD00153A)). However, we are interested in developing experimental datasets as well, for instance leveraging the [CMU Cloud Lab](https://cloudlab.cmu.edu/).
 
 In line with our commitment to [open science](/philosophy/openscience.md), we ensure that all of the data that we produce and contribute to is freely available to the community, and we only contribute to open source software projects.
 

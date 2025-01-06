@@ -1,7 +1,7 @@
 +++
 title = "The CoReACTER Blog"
 hascode = true
-rss = "The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. All posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs."
+rss = "The blog of the CoReACTER. Here, ReACTERs will post discussions of scientific topics, tutorials, and philosophical musings. Posts have been vetted and approved by the CoReACTER collectively but do not necessarily reflect the opinions of all ReACTERs."
 rss_title = "CoReACTER Blog"
 rss_pubdate = Date(2024, 6, 13)
 

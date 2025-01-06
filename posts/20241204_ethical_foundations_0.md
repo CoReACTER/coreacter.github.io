@@ -1,13 +1,13 @@
 +++
 title = "Foundations of Chemical Ethics: 0. Foundations of the Foundations"
 hascode = true
-date = Date(2024, 12, 4)
+date = Date(2025, 1, 6)
 rss = "In this preview, EWCSS introduces a new series on ethics in the chemical sciences. They discuss their motivations for embarking on this journey, their intended scope and goals, and they raise some possible directions for future posts."
 
 tags = ["ethics", "foundations", "scoping", "philosophy", "misconduct", "disaster"]
 
 blog_post_title = "Foundations of Chemical Ethics: 0. Foundations of Foundations"
-blog_post_date = Date(2024, 12, 4)
+blog_post_date = Date(2025, 1, 6)
 blog_post_author = ["ewcss"]
 blog_post_preview = "In this preview, EWCSS introduces a new series on ethics in the chemical sciences. They discuss their motivations for embarking on this journey, their intended scope and goals, and they raise some possible directions for future posts."
 blog_post_image = "20241204_ethics_0/ethics_0_toc.png"
@@ -41,8 +41,8 @@ Chemical accidents like the 1984 Bhopal disaster in India and the 2020 Beirut ex
 Important examples of environmental chemical pollutants with severe health impacts include microplastics — which are now ubiquitous in the natural environment[^6] and adversely affect human[^7] and non-human animal health[^8] — as well as tetraethyl lead (a long-time additive in gasoline)[^9] and per-/polyfluoroalkyl substances (PFAS).[^10]
 
 Finally, I would be remiss if I didn't mention the elephant in the room: climate change.
-While many chemical scientists (including me!) work tirelessly to eliminate fossil fuel use and minimize the impacts of climate change, the reality is that our field got us into this mess in the first place.
-Not only are chemical engineers major players in the fossil fuel industry, creating the oil and natural gas products that we use to generate electricity and heat (33% of global greenhouse gas emissions) and power most of our transportation (15% of emissions), but most industrial emissions (24% of emissions) come from the production of chemicals and materials, particularly building materials like metals (e.g., steel) and cement.[^11]
+While many chemical scientists (including me!) work to eliminate fossil fuel use and minimize the impacts of climate change, the reality is that our field got us into this mess in the first place.
+Not only are chemical engineers major players in the fossil fuel industry, creating the oil and natural gas products that we use to generate electricity and heat (33% of global greenhouse gas emissions) and power most of our transportation (15% of emissions), but most industrial emissions (24% of emissions) come from the production of chemicals and materials, particularly building materials like metals (*e.g.*, steel) and cement.[^11]
 In other words, the **majority of global greenhouse gas emissions** can be tied to the chemical sciences and chemical industries.
 Yikes.
 
@@ -98,7 +98,6 @@ Soon, the CoReACTER will have more students, more collaborations, and more proje
 Soon, I'll be teaching undergraduates and graduate students!
 I don't want to repeat the mistakes of my predecessors.
 I want to be an ethical scientist, and I want to create an environment for chemical research and teaching that is ethical and just.
-How do I do that?
 
 So here I am, wandering through a dimly lit labyrinth, trying to find my way forward.
 
@@ -142,7 +141,7 @@ Couldn't this series just be *Foundations of Science Ethics* or *Foundations of 
 Sure it could!
 But that's not what I'm interested in, for a couple of reasons.
 First, as I've already mentioned, non-chemical areas of research ethics and engineering ethics are already well-researched, robust fields of study.
-While I'm sure I could make some meaningful contribution to these more general discussions, I see much less of a need for me (or any newcomer) to step into bioethics or engineering ethics.
+While I'm sure I could make some meaningful contribution to these more general discussions, I see much less of a need for me to step into bioethics or engineering ethics.
 Second, where possible, I don't want to speak from a place of ignorance.
 This series will already involve me wading deep into areas outside of my expertise.
 It'll be much more manageable to think about and discuss ethics when applied to problems that I am already familiar with as a primarily academic chemical scientist with some exposure to industrial chemistry.
@@ -182,7 +181,7 @@ Some questions that I've been thinking about, in no particular order:
 - To what extent should chemical research or other labor in the chemical sciences be automated?
 - Is it ever ethical to use large language models or other "AI" tools in the chemical sciences? If so, what are the users' obligations?
 - What ethical responsibilities do chemical scientists today hold for the wrongdoing and mistakes of past chemical scientists?
-- How are chemical standards and references designed? What are the dangers of standards?
+- How should chemical standards and references be designed? What are the dangers of standards?
 - To what extent and under what conditions is it ethical for a chemical scientist to study problems that do not address significant societal problems?
 - What role should competition, prestige, and glory have in (chemical) science, particularly in the research setting? Is competition compatible with the goals of (chemical) science?
 - What are the standards for chemical harm? Can disclosing a molecule, material, or reaction be a form of harm in and of itself? What is "due diligence" in the context of chemical science; that is, when has a chemical scientist done enough to ensure that their work will cause as little harm as possible or will bring about as much benefit as possible? Is it ethical to make a "bad" process or compound (*e.g.*, the extremely energy-intensive Haber-Bosch process) more efficacious/less harmful, or is it only moral to design alternatives that are not harmful?
