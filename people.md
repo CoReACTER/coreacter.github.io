@@ -13,6 +13,8 @@ tags = ["people", "group", "collaborations"]
 
 # Interested in Joining?
 
+Before you reach out or apply to work with us, it's a good idea for you to check out [The CoReACTER Manual](/_files/The_CoReACTER_Manual.pdf). If you like what you see and you feel aligned with our goals and philosophies, great! If you find yourself disagreeing with a lot of our core principles, this might not be a place where you want to devote your energy.
+
 ## Graduate Students
 
 The CoReACTER plans to hire **two doctoral students** in the Fall 2025 semester. One student will be working on **developing computational methods** to explore electrochemical reactivity using chemical reaction networks and multiscale modeling. The other student will be working on employing **high-throughput experiments** to design reactions for polymer recycling.

@@ -12,6 +12,10 @@ tags = ["index", "group", "resources"]
 
 Here, we list some resources that might be helpful for you in your educational and research career. These resources are aimed at members of the CoReACTER. Fittingly, many are specific to folks at CMU or in the Pittsburgh area. If you have an additional resource that might help us, please reach out to suggest it!
 
+## Resources for ReACTERs
+
+* [The CoReACTER Manual](/_files/The_CoReACTER_Manual.pdf): For all your CoReACTER philosophy/policy/practices/advice needs.
+
 ## Resources for CMU Students
 
 * [Office of Disability Resources](https://www.cmu.edu/disability-resources/): For information about disability accommodations. 
