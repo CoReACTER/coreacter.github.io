@@ -11,7 +11,7 @@ tags = ["funding"]
 
 ## Our Approach to Funding
 
-The CoReACTER needs to maintain sufficient funding to continue operation. The funding process is morally fraught, and there are very few options for sustainable research funding that do not require some kind of ethical compromise. Understanding this, we are generally open to any funding source, though we try to move towards funding sources that are as aligned with our [principles](/philosophy/principles.md) as possible.
+The CoReACTER needs to maintain sufficient funding to continue operation. The funding process is morally fraught, and there are very few options for sustainable research funding that do not require some kind of ethical compromise. Understanding this, we are generally open to any funding source, though we try to move towards funding sources that are as aligned with our [principles](/philosophy/principles) as possible.
 
 There are, however, some areas that we will not consider because they are radically opposed to our principles, the good of the scientific community, and/or the wellbeing of society. The CoReACTER will not pursue or accept funding or other resources:
 - From military sources (*e.g.*, the United States Department of Defense), organizations whose major product or service relates to military technologies (*i.e.*, members of the military-industrial complex), or from projects with direct military applications
