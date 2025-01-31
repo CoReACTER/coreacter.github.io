@@ -16,7 +16,7 @@ The CoReACTER is working hard to practice science in an **ethical, thoughtful, a
 
 # Land Acknowledgment
 
-We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee), Shawnee, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.
+We acknowledge that CMU occupies the unceded lands of the Seneca (Haudenosaunee), Adena, Hopewell, Monongahela, Delaware, Shawnee, Mingo, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.
 
 # News
 
