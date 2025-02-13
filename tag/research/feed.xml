@@ -285,11 +285,12 @@
   <content:encoded>
     <![CDATA[  
 <p>This page is regularly updated with any papers published by the CoReACTER as an organization. Note that not all papers with ReACTERs as authors will be included here, but only papers borne out of CoReACTER projects. For a complete list of publications by EWCSS, you can check out <a href="https://espottesmith.github.io/publications">their website</a>.</p>
-<p>Currently we have no publications out &#40;we&#39;re a very new organization&#33;&#41;, but check back soon.</p>
 <h1 id="bibliography">Bibliography</h1>
 <p>Download all publications as <a href="https://coreacter.org/_files/bib/publications.bib">BibTeX</a>.</p>
 <div class="bibsection">
-	<div class="bibsectiontitle"><h2>Forthcoming</h2></div></div>
+	<div class="bibsectiontitle"><h2>Forthcoming</h2></div>		<div class="bibentry"> 1) <em>Considering the Ethics of Large Machine Learning Models in the Chemical Sciences</em>.
+		Evan Walter Clark Spotte-Smith.
+		<i>In Preparation</i>, 2025.				</div></div>
 <div class="bibsection">
 	<div class="bibsectiontitle"><h2>Preprints</h2></div></div>
 <div class="bibsection">
