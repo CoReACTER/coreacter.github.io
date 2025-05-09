@@ -152,7 +152,7 @@ function process_bib(file_name="_files/bib/publications.bib")
 
     if lowercase(pub.journal) in forthcoming_cues
       push!(forthcoming_strings, this_string)
-    elseif lowercase(pub.journal) in preprint_cues
+    elseif any(occursin(pp_cue, lowercase(pub.journal)) for pp_cue in preprint_cues)
       push!(preprint_strings, this_string)
     else
       push!(peerrev_strings, this_string)
