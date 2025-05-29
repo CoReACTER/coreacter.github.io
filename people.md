@@ -17,7 +17,7 @@ Before you reach out or apply to work with us, it's a good idea for you to check
 
 ## Graduate Students
 
-The CoReACTER plans to hire **two doctoral students** in the Fall 2025 semester. One student will be working on **developing computational methods** to explore electrochemical reactivity using chemical reaction networks and multiscale modeling. The other student will be working on employing **high-throughput experiments** to design reactions for polymer recycling.
+The CoReACTER plans to hire **one doctoral student** at UCD with a start date of January 2026. Stay tuned for more details!
 
 ## Postdocs
 
@@ -25,7 +25,11 @@ We do not currently have funding for postdoctoral researchers, but interested ca
 
 ## Undergraduates
 
-The CoReACTER always welcomes undergraduate researchers! CMU students can perform research for credit. It may also be possible to obtain funding for undergraduate research (*e.g.*, through [HURAY](https://www.cmu.edu/uro/academic-research/huray/index.html)). **No prior research experience is required** to work in the CoReACTER, but a background in chemistry, chemical engineering, materials science, or computer science may be helpful.
+The CoReACTER always welcomes undergraduate researchers! **No prior research experience is required** to work in the CoReACTER, but a background in chemistry, chemical engineering, materials science, or computer science may be helpful.
+
+**UCD**: There are some formal systems in place for UCD students to get research experience. You can receive [summer research placements](https://www.ucd.ie/mathstat/newsandevents/events/undergraduatesummerresearchproject/), though opportunities are limited. You can also work in the CoReACTER as part of your fourth-year research project. Of course, you can work with us even without this formal support, but we may not be able to compensate you (and we really don't support uncompensated labor)!
+
+**CMU**: CMU students can also perform research for credit. It may also be possible to obtain funding for undergraduate research (*e.g.*, through [HURAY](https://www.cmu.edu/uro/academic-research/huray/index.html), [SURF](https://www.cmu.edu/uro/summer%20research%20fellowships/SURF/), or [ChESS](https://www.cheme.engineering.cmu.edu/education/undergraduate-program/undergraduate-research.html)). Note that, since EWCSS is an Adjunct Professor who is not physically located in Pittsburgh, collaboration with the CoReACTER may be more logistically challenging than working in other research groups.
 
 ## Instructions
 

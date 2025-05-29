@@ -495,8 +495,8 @@ function hfun_active_projects()
   final_parts = [
     """<table class="projectstab">
 <colgroup>
-<col width="40%" />
-<col width="60%" />
+<col width="30%" />
+<col width="70%" />
 </colgroup>
 <thead></thead>
 <tbody>
