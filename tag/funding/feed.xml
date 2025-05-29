@@ -49,11 +49,21 @@
 <h2 id="current_funding_sources">Current Funding Sources</h2>
 <table class="projectstab">
 <colgroup>
-<col width="40%" />
-<col width="60%" />
+<col width="30%" />
+<col width="70%" />
 </colgroup>
 <thead></thead>
 <tbody>	<tr>
+		<td>
+			<div class="project_logo"><img src="https://coreacter.org/_files/images/ucd_logo.png" class="project_logo" alt="The seal of University College Dublin. On a blue and green shield, from top to bottom, are three castles - each topped by flames; the words 'UCD Dublin'; and a gold harp"></div>
+		</td>
+		<td>
+			<p><strong>Ad Astra Fellow Startup Funding</strong>, <em>University College Dublin</em> (2025–2030)<br>
+			<strong>Project</strong>: TO BE DETERMINED<br>
+			<strong>Description</strong>: Check back soon!</p>
+		</td>
+	</tr>
+	<tr>
 		<td>
 			<div class="project_logo"><img src="https://coreacter.org/_files/images/trisarc.jpg" class="project_logo" alt="A promotional image for the TRI SARC. The name "Synthesis Advanced Research Challenge" is spelled in white in front of a black background. Below it is the Toyota Research Institute logo, consisting of the organization name and three triangles in red, gray, and white."></div>
 		</td>
@@ -61,17 +71,6 @@
 			<p><strong>Synthesis Advanced Research Challenge</strong>, <em>Toyota Research Institute</em> (2024–2026)<br>
 			<strong>Project</strong>: Direct Introduction of Competition and Kinetics to Materials Mechanism and Reaction Network Prediction<br>
 			<strong>Description</strong>: Solid-state synthesis continues to be driven by trial-and-error experimentation, with no coherent design rules or underlying theory. Though there has been considerable interest in predicting the outcomes of solid-state reactions and automating the selection of precursors and synthesis conditions, most approaches developed to date rely entirely on bulk thermodynamics, ignoring the kinetics of nucleation and growth. Our proposed work provides a new approach for predictive materials synthesis, combining machine learning, molecular dynamics simulations, and chemical reaction networks to calculate solid-state reaction kinetics, rationally explain synthesis outcomes, and select precursors that are likely to lead to efficient formation of desired product phases.
-</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div class="project_logo"><img src="https://coreacter.org/_files/images/cmu_logo.png" class="project_logo" alt="The name "Carnegie Mellon University" in white on a red square background"></div>
-		</td>
-		<td>
-			<p><strong>Faculty Startup Funding</strong>, <em>Carnegie Mellon University Department of Chemical Engineering</em> (2025–2028)<br>
-			<strong>Project</strong>: TO BE DETERMINED<br>
-			<strong>Description</strong>: We initially intend to use this funding for two projects: one related to multiscale modeling in electrochemistry, and one using high-throughput experiments to study polymer recycling.
 </p>
 		</td>
 	</tr>

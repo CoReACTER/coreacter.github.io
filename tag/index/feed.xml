@@ -28,14 +28,14 @@
   <link> https://coreacter.org/index.html </link>
   <guid> https://coreacter.org/index.html </guid>
   <description>
-    <![CDATA[  The CoReACTER home page. We&#39;re a research organization operating in the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> of Carnegie Mellon University &#40;CMU&#41;.  ]]>
+    <![CDATA[  The CoReACTER home page. We&#39;re a research organization based in the <a href="https://www.ucd.ie/chem/">School of Chemistry</a> at University College Dublin &#40;UCD&#41; and connected to the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> of Carnegie Mellon University &#40;CMU&#41;.  ]]>
   </description>  
   
   <content:encoded>
     <![CDATA[  
 <h1 id="welcome_to_the_coreacter">Welcome to the CoReACTER</h1>
-<p>The <strong>Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;</strong> is a research organization that operates within the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> at Carnegie Mellon University &#40;CMU&#41;. We focus on leveraging developments in <strong>computational chemistry, chemical data science, and high-throughput experimentation</strong> to advance sustainable technologies in areas such as <strong>energy storage, chemical manufacturing, and waste management</strong>. You can learn more about our research efforts <a href="https://coreacter.org/research/">here</a> or look at our <a href="https://coreacter.org/publications/">publications</a>. </p>
-<p>The CoReACTER is working hard to practice science in an <strong>ethical, thoughtful, and anti-oppressive</strong> fashion. This is an ongoing process, but you can read about our current thoughts and practices <a href="https://coreacter.org/philosophy/principles">here</a>. Our <a href="https://coreacter.org/resources/">resources</a> are mainly designed for <a href="https://coreacter.org/people/">ReACTERs</a> and other folks currently working and conducting research at CMU, but you may also find these helpful&#33;</p>
+<p>The <strong>Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;</strong> is a research organization that is based in the <a href="https://www.ucd.ie/chem/">School of Chemistry</a> at University College Dublin &#40;UCD&#41; and has ties with the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> at Carnegie Mellon University &#40;CMU&#41;. We focus on leveraging developments in <strong>computational chemistry, chemical data science, and high-throughput experimentation</strong> to advance sustainable technologies in areas such as <strong>energy storage, chemical manufacturing, and waste management</strong>. You can learn more about our research efforts <a href="https://coreacter.org/research/">here</a> or look at our <a href="https://coreacter.org/publications/">publications</a>. </p>
+<p>The CoReACTER is working hard to practice science in an <strong>ethical, thoughtful, and anti-oppressive</strong> fashion. This is an ongoing process, but you can read about our current thoughts and practices <a href="https://coreacter.org/philosophy/principles">here</a>. Our <a href="https://coreacter.org/resources/">resources</a> are mainly designed for <a href="https://coreacter.org/people/">ReACTERs</a> and other folks currently working and conducting research at CMU &#40;UCD-specific resources are coming&#33;&#41;, but you may also find these helpful&#33;</p>
 <h1 id="land_acknowledgment">Land Acknowledgment</h1>
 <p>We acknowledge that CMU occupies the unceded lands of the Seneca &#40;Haudenosaunee&#41;, Adena, Hopewell, Monongahela, Delaware, Shawnee, Mingo, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.</p>
 <h1 id="news">News</h1>
@@ -46,6 +46,15 @@
 </colgroup>
 <thead></thead>
 <tbody>	<tr>
+		<td>
+			<em>May 29, 2025</em>
+		</td>
+		<td>
+			<p>EWCSS will be moving to Dublin, Ireland to begin an appointment as an Ad Astra Fellow at University College Dublin. They will retain an adjunct position at CMU, and the CoReACTER will continue to collaborate with CMU students and faculty. For more details, see <a href="https://coreacter.org/posts/20250530_leaving_before_the_beginning">our recent blog post</a>.
+</p>
+		</td>
+	</tr>
+	<tr>
 		<td>
 			<em>Sep 4, 2024</em>
 		</td>
@@ -135,12 +144,12 @@
 <li><p>Fascism and totalitarianism</p>
 </li>
 </ul>
-<p>Academia is a deeply flawed system that is embedded in other flawed and harmful systems. Becuase of this, we cannot completely avoid engaging in Capitalism &#40;modern research universities operate as capitalistic enterprises; we also need to finance our research&#41;, colonialism &#40;CMU&#39;s campus is on stolen land, within a colonized country and colonizing nation-state&#41;, and nationalism &#40;most research that takes place in the United States is publicly funded, and publicly funded research generally supports American national interests&#41;; perhaps this is also true of some of the other evils that we have outlined. Nonetheless, we openly challenge and subvert oppressive paradigms and structures where and how we can.</p>
+<p>Academia is a deeply flawed system that is embedded in other flawed and harmful systems. Becuase of this, we cannot completely avoid engaging in Capitalism &#40;modern research universities operate as capitalistic enterprises; we also need to finance our research&#41;, colonialism &#40;CMU&#39;s campus is on stolen land, within a colonized country and colonizing nation-state&#41;, and nationalism &#40;most research is publicly funded, and publicly funded research generally supports national interests&#41;; perhaps this is also true of some of the other evils that we have outlined. Nonetheless, we openly challenge and subvert oppressive paradigms and structures where and how we can.</p>
 <p>Our core principles, which guide us as we practice science, are:</p>
 <ul>
 <li><p><strong>Honesty</strong>: We are honest with ourselves, with our fellow ReACTERs, with the scientific community, and with the world. Honesty means truth-telling – saying what we know or believe to be right, whether it is convenient or not. It also means transparency. We strive to communicate openly throughout the scientific process, to share early and often rather than hoarding or hiding information.</p>
 </li>
-<li><p><strong>Humility</strong>: Often, &quot;humble&quot; is used to mean that one has a low opinion of one&#39;s self. Rather, when we say that we aim to be humble, we mean &#40;following LeGuin&#41; that we aim to avoid both excessive pride and self-deprecation. Through careful reflection and honest dialogue, we try to maintain an accurate, moderate understanding of ourselves, our knowledge, our behavior, and our place in our communities. Critical to effective humility is knowing our own limits, knowing what we know and what we don&#39;t know&#33;</p>
+<li><p><strong>Humility</strong>: Often, &quot;humble&quot; is used to mean that one has a low opinion of one&#39;s self. Rather, when we say that we aim to be humble, we mean that we aim to avoid both excessive pride and self-deprecation. Through careful reflection and honest dialogue, we try to maintain an accurate, moderate understanding of ourselves, our knowledge, our behavior, and our place in our communities. Critical to effective humility is knowing our own limits, knowing what we know and what we don&#39;t know&#33;</p>
 </li>
 <li><p><strong>Collectivism</strong>: No scientist is an island. We are all part of many communities – groups of friends, colleagues, biological and found families, neighborhoods, folks who go to the same hair salon. Our approach to our work centers these communities, rather than our own interests. We are motivated to use scientific inquiry and our expertise to make our communities and the broader world better than we found them. Our work seeks to uplift others, particularly those in need. We will never harm or put down others for our personal benefit.</p>
 </li>
@@ -275,6 +284,18 @@
 <thead></thead>
 <tbody>	<tr>
 		<td>
+			<div class="blog_preview_image"><img src="https://coreacter.org/_files/images/20250530_leaving_before_the_beginning/leaving_cmu_ucd_toc.png" class="blog_preview_image" alt="The presidential seal of Carnegie Mellon University (a stylized gold thistle in front of a tartan background, with the words 'Carnegie Mellon University' and 'Pittsburgh Pennsylvania 1900' in a surrounding circle) and, to the right, the seal of University College Dublin (a blue and green shield with three castles - each topped by flames; the words 'UCD Dublin'; and a gold harp)."></div>
+		</td>
+		<td>
+			<h2><a href="https://coreacter.org/posts/20250530_leaving_before_the_beginning">Leaving Before the Beginning</a></h2><br>
+			<p><em>Evan Walter Clark Spotte-Smith (EWCSS) (they/them)</em><br>
+			Posted on: May 30, 2025<br>
+		In response to the rise of fascism in the United States, EWCSS is leaving for University College Dublin in Ireland. This post explains their motivations for leaving Pittsburgh and moving to Dublin, as well as what this move will mean for the CoReA...
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<div class="blog_preview_image"><img src="https://coreacter.org/_files/images/20250428_on_the_properties_of_gender_spaces/gender_toc.png" class="blog_preview_image" alt="A 3D plot with axes labeled 'masculinity', 'femininity', and 'androgyny' and a rough, bumpy, but somewhat spherical shape plotted. A point is circled; an arrow and text reading 'You are here' indicate the circle. To the left of the plot are the transgender, nonbinary, and intersex pride flags, along with the words 'Enter the Gender Space'."></div>
 		</td>
 		<td>
@@ -342,6 +363,8 @@
 <li><p><a href="https://coreacter.org/_files/The_CoReACTER_Manual.pdf">The CoReACTER Manual</a>: For all your CoReACTER philosophy/policy/practices/advice needs.</p>
 </li>
 </ul>
+<h2 id="resources_for_ucd_students">Resources for UCD Students</h2>
+<p>Work in progress; check back here soon&#33;</p>
 <h2 id="resources_for_cmu_students">Resources for CMU Students</h2>
 <ul>
 <li><p><a href="https://www.cmu.edu/disability-resources/">Office of Disability Resources</a>: For information about disability accommodations. </p>

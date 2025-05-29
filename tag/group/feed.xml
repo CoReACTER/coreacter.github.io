@@ -28,14 +28,14 @@
   <link> https://coreacter.org/index.html </link>
   <guid> https://coreacter.org/index.html </guid>
   <description>
-    <![CDATA[  The CoReACTER home page. We&#39;re a research organization operating in the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> of Carnegie Mellon University &#40;CMU&#41;.  ]]>
+    <![CDATA[  The CoReACTER home page. We&#39;re a research organization based in the <a href="https://www.ucd.ie/chem/">School of Chemistry</a> at University College Dublin &#40;UCD&#41; and connected to the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> of Carnegie Mellon University &#40;CMU&#41;.  ]]>
   </description>  
   
   <content:encoded>
     <![CDATA[  
 <h1 id="welcome_to_the_coreacter">Welcome to the CoReACTER</h1>
-<p>The <strong>Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;</strong> is a research organization that operates within the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> at Carnegie Mellon University &#40;CMU&#41;. We focus on leveraging developments in <strong>computational chemistry, chemical data science, and high-throughput experimentation</strong> to advance sustainable technologies in areas such as <strong>energy storage, chemical manufacturing, and waste management</strong>. You can learn more about our research efforts <a href="https://coreacter.org/research/">here</a> or look at our <a href="https://coreacter.org/publications/">publications</a>. </p>
-<p>The CoReACTER is working hard to practice science in an <strong>ethical, thoughtful, and anti-oppressive</strong> fashion. This is an ongoing process, but you can read about our current thoughts and practices <a href="https://coreacter.org/philosophy/principles">here</a>. Our <a href="https://coreacter.org/resources/">resources</a> are mainly designed for <a href="https://coreacter.org/people/">ReACTERs</a> and other folks currently working and conducting research at CMU, but you may also find these helpful&#33;</p>
+<p>The <strong>Community of Researchers Assessing Chemical Transformations and Exploring Reactivity &#40;CoReACTER&#41;</strong> is a research organization that is based in the <a href="https://www.ucd.ie/chem/">School of Chemistry</a> at University College Dublin &#40;UCD&#41; and has ties with the <a href="https://www.cheme.engineering.cmu.edu/index.html">Department of Chemical Engineering</a> at Carnegie Mellon University &#40;CMU&#41;. We focus on leveraging developments in <strong>computational chemistry, chemical data science, and high-throughput experimentation</strong> to advance sustainable technologies in areas such as <strong>energy storage, chemical manufacturing, and waste management</strong>. You can learn more about our research efforts <a href="https://coreacter.org/research/">here</a> or look at our <a href="https://coreacter.org/publications/">publications</a>. </p>
+<p>The CoReACTER is working hard to practice science in an <strong>ethical, thoughtful, and anti-oppressive</strong> fashion. This is an ongoing process, but you can read about our current thoughts and practices <a href="https://coreacter.org/philosophy/principles">here</a>. Our <a href="https://coreacter.org/resources/">resources</a> are mainly designed for <a href="https://coreacter.org/people/">ReACTERs</a> and other folks currently working and conducting research at CMU &#40;UCD-specific resources are coming&#33;&#41;, but you may also find these helpful&#33;</p>
 <h1 id="land_acknowledgment">Land Acknowledgment</h1>
 <p>We acknowledge that CMU occupies the unceded lands of the Seneca &#40;Haudenosaunee&#41;, Adena, Hopewell, Monongahela, Delaware, Shawnee, Mingo, and Lenape peoples, in what is now known as Pittsburgh, Pennsylvania in the United States of America. We recognize that we benefit from this unjust occupation, the colonization of this region, and the concomitant displacement and elimination of Native peoples. We strive to enter into respectful relationships with the peoples of these lands and with the lands themselves as we search for avenues for healing, justice, and reconciliation.</p>
 <h1 id="news">News</h1>
@@ -46,6 +46,15 @@
 </colgroup>
 <thead></thead>
 <tbody>	<tr>
+		<td>
+			<em>May 29, 2025</em>
+		</td>
+		<td>
+			<p>EWCSS will be moving to Dublin, Ireland to begin an appointment as an Ad Astra Fellow at University College Dublin. They will retain an adjunct position at CMU, and the CoReACTER will continue to collaborate with CMU students and faculty. For more details, see <a href="https://coreacter.org/posts/20250530_leaving_before_the_beginning">our recent blog post</a>.
+</p>
+		</td>
+	</tr>
+	<tr>
 		<td>
 			<em>Sep 4, 2024</em>
 		</td>
@@ -104,6 +113,8 @@
 <li><p><a href="https://coreacter.org/_files/The_CoReACTER_Manual.pdf">The CoReACTER Manual</a>: For all your CoReACTER philosophy/policy/practices/advice needs.</p>
 </li>
 </ul>
+<h2 id="resources_for_ucd_students">Resources for UCD Students</h2>
+<p>Work in progress; check back here soon&#33;</p>
 <h2 id="resources_for_cmu_students">Resources for CMU Students</h2>
 <ul>
 <li><p><a href="https://www.cmu.edu/disability-resources/">Office of Disability Resources</a>: For information about disability accommodations. </p>

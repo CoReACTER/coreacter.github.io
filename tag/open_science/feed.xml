@@ -44,7 +44,7 @@
 </nav>
   
 <h1 id="open_science">Open Science</h1>
-<p>The CoReACTER is dedicated to open science, but what does that actually mean? &quot;Open science&quot; is a broad and vague term which means different things to different folks &#40;see <sup id="fnref:1">[1]</sup>&#41;. For us, when we speak of &quot;open science&quot;, we mean that the practice of science should be transparent; that there should be minimal barriers to access the outputs of scholarly scientific work; and that science and research should be practiced within communities that extend beyond the boundaries of a research group, a university, or academia as a whole.</p>
+<p>The CoReACTER is dedicated to open science, but what does that actually mean? &quot;Open science&quot; is a broad and vague term which means different things to different folks.<sup id="fnref:1">[1]</sup> For us, when we speak of &quot;open science&quot;, we mean that the practice of science should be transparent; that there should be minimal barriers to access the outputs of scholarly scientific work; and that science and research should be practiced within communities that extend beyond the boundaries of a research group, a university, or academia as a whole.</p>
 <p>Here, we briefly describe some of our positions on open science and related practices. We emphasize that this page is meant only as an introduction to this discussion&#33;</p>
 <h1 id="open_source_software">Open Source Software</h1>
 <p>Much of our research involves developing scientific software. In addition to building and contributing to large-scale software projects, we frequently write code for data generation, analysis, and visualization. As such, open software is a significant part of our open science mission&#33;</p>
@@ -55,7 +55,7 @@
 <p>When we generate data that we believe may be valuable for future research, we publish that data openly under permissive <a href="https://creativecommons.org/">Creative Commons</a> licenses. But making data publicly available is only the first step. We understand that, to maximize the benefit that data can have on the scientific community, it should be <strong>FAIR</strong><sup id="fnref:2">[2]</sup> – <strong>f</strong>indable, <strong>a</strong>ccessible, <strong>i</strong>nteroperable, and <strong>r</strong>eusable. To this end, we develop and contribute to public data infrastructure, such as the <a href="https://materialsproject.org">Materials Project</a>, and we work with our collaborators around the world to make the data that we generate as useful and easy-to-use as possible.</p>
 <h1 id="open_access">Open Access</h1>
 <p>Many scientific publications are closed-access: institutions &#40;<em>e.g.</em>, libraries and universities&#41; or individual readers must pay for the privilege of reading. This slows the spread of information, particularly to those who lack resources and privilege. The CoReACTER strongly believes that science should serve the public good. As a consequence of this belief, we hold that published scientific outputs such as journal articles, book chapters, and whitepapers should be publicly available at no cost.</p>
-<p>Before submitting to any journal, we commit to publishing our work as a preprint on servers such as <a href="arxiv.org">arXiv</a> and <a href="chemrxiv.org">ChemRxiv</a>. We strongly prefer open-access journals and will always submit to such venues when the CoReACTER is the primary or sole organization involved in a manuscript; we will also strongly advocate for open-access publications in all other cases. We further commit to making &#42;.PDF files of all CoReACTER publications available through this website.</p>
+<p>Before submitting to any journal, we commit to publishing our work as a preprint on servers such as <a href="arxiv.org">arXiv</a> and <a href="chemrxiv.org">ChemRxiv</a>. We strongly prefer open-access journals and will always submit to such venues when the CoReACTER is the primary or sole organization involved in a manuscript; we will also strongly advocate for open-access publications in all other cases. We further commit to making &#42;.PDF files of all CoReACTER publications available through this website.<sup id="fnref:3">[3]</sup></p>
 <p>Noting the interest in open-access publications, many journals have begun charging authors to publish their work &#40;<em>via</em> so-called article processing charges or APCs&#41;, rather than charging readers. Under these schemes, including &quot;Gold Open Access&quot;, research becomes widely available, but with the consequence that only well-resourced researchers can afford to publish in many popular venues. Currently, the CoReACTER is willing to pay APCs to ensure that our publications are freely available. However, our priciples oppose this exploitative and unjust practice, and so we seek to minimize these payments. We specifically refuse to pay to publish in <em>Nature</em> and its family of journals, as they charge exorbitant fees &#40;greater than &#36;10,000 per article&#41; that, in our view, constitute rent-seeking behavior.</p>
 <h1 id="footnotes">Footnotes</h1>
 <p><table class="fndef" id="fndef:1">
@@ -64,10 +64,16 @@
         <td class="fndef-content"><a href="https://doi.org/10.1007/978-3-319-00026-8_2">DOI: 10.1007/978-3-319-00026-8_2</a></td>
     </tr>
 </table>
-<table class="fndef" id="fndef:2">
+ <table class="fndef" id="fndef:2">
     <tr>
         <td class="fndef-backref">[2]</td>
         <td class="fndef-content"><a href="https://doi.org/10.1038/sdata.2016.18">DOI: 10.1038/sdata.2016.18</a></td>
+    </tr>
+</table>
+ <table class="fndef" id="fndef:3">
+    <tr>
+        <td class="fndef-backref">[3]</td>
+        <td class="fndef-content">PDFs aren&#39;t the most accessible, and we are open to alternatives that allow us to share our research with <em>everyone</em>. If you have ideas to improve accessibility, please reach out&#33;</td>
     </tr>
 </table>
 </p>
