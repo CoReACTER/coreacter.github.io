@@ -34,6 +34,28 @@
   <content:encoded>
     <![CDATA[  
 <h1 id="software">Software</h1>
+<p>The CoReACTER develops software as part of our scholarly work&#33; All code is open source &#40;currently hosted on <a href="https://github.com/CoReACTER">GitHub</a>&#41;, in line with our commitment to <a href="https://coreacter.org/philosophy/openscience.md">open science</a>. Contributions from external developers are always welcome; please feel free to report issues and submit pull requests&#33;</p>
+<p>Here, we list only packages that were initially or are primarily developed by the CoReACTER. However, we note that ReACTERs contribute to many other community codes&#33;</p>
+<table class="softwaretab">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead></thead>
+<tbody>	<tr>
+		<td>
+			<div class="project_logo"><img src="https://coreacter.org/_files/images/simpdirhypergraphs.png" class="project_logo" alt="The SimpleDirectedHypergraphs.jl logo. The package name is written in a sans-serif font. Above the text is a directed hypergraph, with arrows (directed hyperedges) connecting circles (vertices). Two of the circles replace the dots in the package name's "i"s."></div>
+		</td>
+		<td>
+			<p><strong>SimpleDirectedHypergraphs.jl</strong><br>
+<strong>Lead Developer</strong>: Evan Walter Clark Spotte-Smith (EWCSS) (they/them)<br>
+<strong>Lead Maintainer</strong>: Evan Walter Clark Spotte-Smith (EWCSS) (they/them)
+<br>
+			<strong>Description</strong>: SimpleDirectedHypergraphs.jl is a Julia package for directed hypergraph data structures. It builds off of <a href="https://github.com/pszufe/SimpleHypergraphs.jl">SimpleHypergraphs.jl</a>, which in turn implements the <a href="https://juliagraphs.org/Graphs.jl/stable/core_functions/interface/">Graphs.jl interface</a>.</p>
+		</td>
+	</tr>
+</tbody>
+</table>
  ]]>
   </content:encoded>
     
