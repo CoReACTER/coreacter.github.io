@@ -592,3 +592,144 @@ function hfun_previous_projects()
 
   return join(final_parts, "\n")
 end
+
+function hfun_softwaretable()
+  
+  software_data = YAML.load_file("_data/software.yml"; dicttype=OrderedDict{String,Any})
+  people_data = YAML.load_file("_data/people.yml"; dicttype=OrderedDict{String,Any})
+
+  # Table initialization
+  final_parts = [
+    """<table class="softwaretab">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  ]
+
+  for values in software_data.vals
+
+    push!(
+      final_parts,
+      string(
+        "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"project_logo\"><img src=\"/_files/images/",
+        values["image"],
+        "\" class=\"project_logo\" alt=\"",
+        values["alt"],
+        "\"></div>\n\t\t</td>\n\t\t<td>\n\t\t\t<p><strong>",
+        values["display_name"],
+        "</strong><br>\n<strong>Lead Developer</strong>: ",
+        people_data[values["lead_dev"]]["display_name"],
+        " (",
+        people_data[values["lead_dev"]]["pronouns"],
+        ")<br>\n<strong>Lead Maintainer</strong>: ",
+        people_data[values["lead_maint"]]["display_name"],
+        " (",
+        people_data[values["lead_maint"]]["pronouns"],
+        ")\n",
+        "<br>\n\t\t\t<strong>Description</strong>: ",
+        values["description"],
+        "</p>\n\t\t</td>\n\t</tr>"
+      )
+    )
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")  
+
+end
+
+function hfun_computing_support()
+  support_data = YAML.load_file("_data/computing_support.yml"; dicttype=OrderedDict{String,Any})
+
+  # Table initialization
+  final_parts = [
+    """<table class="projectstab">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  ]
+
+  for values in support_data.vals
+    if !values["active"]
+      continue
+    end
+
+    push!(
+      final_parts,
+      string(
+        "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"project_logo\"><img src=\"/_files/images/",
+        values["image"],
+        "\" class=\"project_logo\" alt=\"",
+        values["alt"],
+        "\"></div>\n\t\t</td>\n\t\t<td>\n\t\t\t<p><strong>",
+        values["source_name"],
+        "</strong>, <em>",
+        values["provider_name"],
+        "</em></p>\n\t\t</td>\n\t</tr>"
+      )
+    )
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")
+end
+
+function hfun_software_support()
+  support_data = YAML.load_file("_data/software_support.yml"; dicttype=OrderedDict{String,Any})
+
+  # Table initialization
+  final_parts = [
+    """<table class="projectstab">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead></thead>
+<tbody>
+"""
+  ]
+
+  for values in support_data.vals
+    if !values["active"]
+      continue
+    end
+
+    push!(
+      final_parts,
+      string(
+        "\t<tr>\n\t\t<td>\n\t\t\t<div class=\"project_logo\"><img src=\"/_files/images/",
+        values["image"],
+        "\" class=\"project_logo\" alt=\"",
+        values["alt"],
+        "\"></div>\n\t\t</td>\n\t\t<td>\n\t\t\t<p><strong>",
+        values["display_name"],
+        "</strong><br>\n\t\t\t<strong>Description</strong>: ",
+        values["description"],
+        "</p>\n\t\t</td>\n\t</tr>"
+      )
+    )
+  end
+
+  push!(
+    final_parts,
+    "</tbody>\n</table>"
+  )
+
+  return join(final_parts, "\n")
+end

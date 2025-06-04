@@ -26,3 +26,13 @@ We note that "other resources" includes computational resources. This means that
 ## Previous Funding Sources
 
 {{previous_projects}}
+
+# Other Support
+
+## Computing Resources
+
+{{computing_support}}
+
+## Software
+
+{{software_support}}
