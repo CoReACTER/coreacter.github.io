@@ -1,0 +1,7 @@
+zulip:
+  display_name: Zulip
+  url: https://zulip.com/
+  description: Zulip is an organized team chat app designed for efficient communication. The CoReACTER is sponsored as an educational non-profit organization.
+  image: zulip.png
+  alt: The Zulip logo. A stylized white "z" sits in the middle of a blue-purple circle.
+  active: true

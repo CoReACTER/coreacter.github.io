@@ -1,0 +1,20 @@
+trace:
+  source_name: Tartan Advanced Research Supercomputing Environment
+  provider_name: Carnegie Mellon University
+  image: cmu_logo.png
+  alt: The logo of Carnegie Mellon University, consisting of the words "Carnegie Mellon University" in white on a red square background.
+  active: true
+
+nsfaccess:
+  source_name: Advanced Cyberinfrastructure Coordination Ecosystem Services & Support (ACCESS)
+  provider_name: US National Science Foundation (NSF)
+  image: nsf_access_logo.png
+  alt: The logo of the NSF (a globe with the letters "NSF" imposed on a 16-pointed wheel) next to the ACCESS logo (a stylized blue, orange, and white arrow pointing up and to the right, next to the word "ACCESS")
+  active: true
+
+nairrpilot:
+  source_name: National Artificial Intelligence Research Resource (NAIRR) Pilot
+  provider_name: NSF and partners
+  image: nairr_logo.png
+  alt: A blue rectangle with the words "NAIRR Pilot" and, smaller and to the right, "National Artificial Intelligence Research Resource Pilot"
+  active: true
