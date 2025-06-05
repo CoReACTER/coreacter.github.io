@@ -47,7 +47,7 @@
 			<div class="project_logo"><img src="https://coreacter.org/_files/images/simpdirhypergraphs.png" class="project_logo" alt="The SimpleDirectedHypergraphs.jl logo. The package name is written in a sans-serif font. Above the text is a directed hypergraph, with arrows (directed hyperedges) connecting circles (vertices). Two of the circles replace the dots in the package name's "i"s."></div>
 		</td>
 		<td>
-			<p><strong>SimpleDirectedHypergraphs.jl</strong><br>
+			<p><strong><a href="https://github.com/coreacter/SimpleDirectedHypergraphs.jl">SimpleDirectedHypergraphs.jl</a></strong><br>
 <strong>Lead Developer</strong>: Evan Walter Clark Spotte-Smith (EWCSS) (they/them)<br>
 <strong>Lead Maintainer</strong>: Evan Walter Clark Spotte-Smith (EWCSS) (they/them)
 <br>
