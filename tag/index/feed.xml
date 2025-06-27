@@ -278,15 +278,15 @@
 <h1 id="bibliography">Bibliography</h1>
 <p>Download all publications as <a href="https://coreacter.org/_files/bib/publications.bib">BibTeX</a>.</p>
 <div class="bibsection">
-	<div class="bibsectiontitle"><h2>Forthcoming</h2></div>		<div class="bibentry"> 2) <a href=https://coreacter.org/_files/papers/spottesmith_considering_ethics_2025.pdf><em>Considering the Ethics of Large Machine Learning Models in the Chemical Sciences</em></a>.
-		Evan Walter Clark Spotte-Smith.
-		<i>In Review</i>, 2025.				</div></div>
+	<div class="bibsectiontitle"><h2>Forthcoming</h2></div></div>
 <div class="bibsection">
-	<div class="bibsectiontitle"><h2>Preprints</h2></div>		<div class="bibentry"> 1) <a href=https://coreacter.org/_files/papers/levine_shuaibi_omol_2025.pdf><em>The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</em></a>.
+	<div class="bibsectiontitle"><h2>Preprints</h2></div>		<div class="bibentry"> 2) <a href=https://coreacter.org/_files/papers/levine_shuaibi_omol_2025.pdf><em>The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</em></a>.
 		Daniel S. Levine*, Muhammed Shuaibi*, Evan Walter Clark Spotte-Smith, Michael G. Taylor, Muhammad R. Hasyim, Kyle Michel, Ilyes Batatia, Gábor Csányi, Misko Dzamba, Peter Eastman, Nathan C. Frey, Xiang Fu, Vahe Gharakhanyan, Aditi S. Krishnapriyan, Joshua A. Rackers, Sanjeev Raja, Ammar Rizvi, Andrew S. Rosen, Zachary Ulissi, Santiago Vargas, C. Lawrence Zitnick, Samuel M. Blau, Brandon M. Wood.
 		<i>arXiv</i>, 2025.				</div></div>
 <div class="bibsection">
-	<div class="bibsectiontitle"><h2>Peer-Reviewed</h2></div></div>
+	<div class="bibsectiontitle"><h2>Peer-Reviewed</h2></div>		<div class="bibentry"> 1) <a href=https://coreacter.org/_files/papers/spottesmith_considering_ethics_2025.pdf><em>Considering the Ethics of Large Machine Learning Models in the Chemical Sciences</em></a>.
+		Evan Walter Clark Spotte-Smith.
+		<i>Machine Learning: Science and Technology (in Press)</i>, 2025.				</div></div>
  ]]>
   </content:encoded>
     
