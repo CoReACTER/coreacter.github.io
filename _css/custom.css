@@ -4,6 +4,8 @@
 
 table.peopletab {
     border: 0;
+    table-layout: fixed;
+    width: 100%
 }
 
 #philosophy-menu-icon {

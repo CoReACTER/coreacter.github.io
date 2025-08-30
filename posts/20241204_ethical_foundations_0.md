@@ -189,50 +189,50 @@ Some questions that I've been thinking about, in no particular order:
 
 # Footnotes
 
-[^1] [DOI: 10.2105/AJPH.2007.111930](https://doi.org/10.2105/AJPH.2007.111930)
+[^1]: [DOI: 10.2105/AJPH.2007.111930](https://doi.org/10.2105/AJPH.2007.111930)
 
-[^2] [DOI: 10.1016/j.etap.2008.03.003](https://doi.org/10.1016/j.etap.2008.03.003)
+[^2]: [DOI: 10.1016/j.etap.2008.03.003](https://doi.org/10.1016/j.etap.2008.03.003)
 
-[^3] [DOI: 10.1093/ije/dyl038](https://doi.org/10.1093/ije/dyl038)
+[^3]: [DOI: 10.1093/ije/dyl038](https://doi.org/10.1093/ije/dyl038)
 
-[^4] [DOI: 10.1002/bdrc.21096](https://doi.org/10.1002/bdrc.21096)
+[^4]: [DOI: 10.1002/bdrc.21096](https://doi.org/10.1002/bdrc.21096)
 
-[^5] [DOI: 10.1186/s12940-017-0340-3](https://doi.org/10.1186/s12940-017-0340-3)
+[^5]: [DOI: 10.1186/s12940-017-0340-3](https://doi.org/10.1186/s12940-017-0340-3)
 
-[^6] [DOI: 10.33263/BRIAC132.126](https://doi.org/10.33263/BRIAC132.126)
+[^6]: [DOI: 10.33263/BRIAC132.126](https://doi.org/10.33263/BRIAC132.126)
 
-[^7] [DOI: 10.1016/j.scitotenv.2019.134455](https://doi.org/10.1016/j.scitotenv.2019.134455)
+[^7]: [DOI: 10.1016/j.scitotenv.2019.134455](https://doi.org/10.1016/j.scitotenv.2019.134455)
 
-[^8] [DOI: 10.1002/9781119768432.ch12](https://doi.org/10.1002/9781119768432.ch12)
+[^8]: [DOI: 10.1002/9781119768432.ch12](https://doi.org/10.1002/9781119768432.ch12)
 
-[^9] [DOI: 10.1016/j.chemosphere.2023.138207](https://doi.org/10.1016/j.chemosphere.2023.138207)
+[^9]: [DOI: 10.1016/j.chemosphere.2023.138207](https://doi.org/10.1016/j.chemosphere.2023.138207)
 
-[^10] [DOI: 10.1038/s41370-018-0094-1](https://doi.org/10.1038/s41370-018-0094-1)
+[^10]: [DOI: 10.1038/s41370-018-0094-1](https://doi.org/10.1038/s41370-018-0094-1)
 
-[^11] [DOI: 10.1017/9781009157926.004](https://doi.org/10.1017/9781009157926.004)
+[^11]: [DOI: 10.1017/9781009157926.004](https://doi.org/10.1017/9781009157926.004)
 
-[^12] Hippocrates is best known for the "Hippocratic Oath", a commitment still sworn in some form by many doctors today, but he wrote extensively about the practice and philosophy of medicine.
+[^12]: Hippocrates is best known for the "Hippocratic Oath", a commitment still sworn in some form by many doctors today, but he wrote extensively about the practice and philosophy of medicine.
 
-[^13] Though Jahr was the first to use the term "bioethics", his ideas did not become popular. It was Van Rensselaer Potter, who re-invented the concept during the Cold War, who led to the development and widespread adoptions of bioethical ideas. See, *e.g.*, [DOI: 10.1080/11287462.2015.1007616](https://doi.org/10.1080/11287462.2015.1007616).
+[^13]: Though Jahr was the first to use the term "bioethics", his ideas did not become popular. It was Van Rensselaer Potter, who re-invented the concept during the Cold War, who led to the development and widespread adoptions of bioethical ideas. See, *e.g.*, [DOI: 10.1080/11287462.2015.1007616](https://doi.org/10.1080/11287462.2015.1007616).
 
-[^14] [DOI: 10.1353/ken.2008.0006](https://doi.org/10.1353/ken.2008.0006)
+[^14]: [DOI: 10.1353/ken.2008.0006](https://doi.org/10.1353/ken.2008.0006)
 
-[^15] [DOI: 10.1056/NEJM199711133372006](https://doi.org/10.1056/NEJM199711133372006)
+[^15]: [DOI: 10.1056/NEJM199711133372006](https://doi.org/10.1056/NEJM199711133372006)
 
-[^16] [https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html](https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html)
+[^16]: [https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html](https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html)
 
-[^17] [https://www.aiche.org/about/governance/policies/code-ethics](https://www.aiche.org/about/governance/policies/code-ethics)
+[^17]: [https://www.aiche.org/about/governance/policies/code-ethics](https://www.aiche.org/about/governance/policies/code-ethics)
 
-[^18] [https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf(https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf)
+[^18]: [https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf](https://www.rsc.org/globalassets/03-membership-community/join-us/membership-regulations/rsc-code-of-conduct-final.pdf)
 
-[^19] [https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html](https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html)
+[^19]: [https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html](https://en.gdch.de/gdch/about-us/statutes-and-code-of-conduct.html)
 
-[^20] The only journals that I'm aware of that are squarely focused on any philosophy of chemistry are *Hyle: International Journal for Philosophy of Chemistry*, which ceased publishing in 2021, and *Foundations of Chemistry*.
+[^20]: The only journals that I'm aware of that are squarely focused on any philosophy of chemistry are *Hyle: International Journal for Philosophy of Chemistry*, which ceased publishing in 2021, and *Foundations of Chemistry*.
 
-[^21] *Chemistry: The Impure Science* by Bernadette Bensaude-Vincent and Jonathan Simon (2008)
+[^21]: *Chemistry: The Impure Science* by Bernadette Bensaude-Vincent and Jonathan Simon (2008)
 
-[^22] *The Ethical Chemist* by Jeffrey Kovac (2018)
+[^22]: *The Ethical Chemist* by Jeffrey Kovac (2018)
 
-[^23] *Good Chemistry: Methodological, Ethical, and Social Dimensions* by Jan Mehlich (2021)
+[^23]: *Good Chemistry: Methodological, Ethical, and Social Dimensions* by Jan Mehlich (2021)
 
-[^24] *Ethics of Chemistry: From Poison Gas to Climate Engineering*, edited by Joachim Schummer and Tom Børsen (2021)
+[^24]: *Ethics of Chemistry: From Poison Gas to Climate Engineering*, edited by Joachim Schummer and Tom Børsen (2021)

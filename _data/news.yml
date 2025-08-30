@@ -1,3 +1,23 @@
+firstpaper:
+  date: 2025-07-05
+  text:  |
+    Our first scholarly article, "<a href='https://doi.org/10.1088/2632-2153/adec3c'>Considering the Ethics of Large Machine Learning Models in the Chemical Sciences</a>", has been published in <i>Machine Learning: Science and Technology</i>.
+
+kittypuna:
+  date: 2025-06-24
+  text: |
+    Kitty Pierre-Louis and Punna Amornvivat have joined the CoReACTER for the summer!
+
+vanshikajoins:
+  date: 2025-06-02
+  text: |
+    Vanshika Raj Singh is joining the CoReACTER this summer from BIT Mesra in India!
+
+movingtodublin:
+  date: 2025-05-29
+  text: |
+    EWCSS will be moving to Dublin, Ireland to begin an appointment as an Ad Astra Fellow at University College Dublin. They will retain an adjunct position at CMU, and the CoReACTER will continue to collaborate with CMU students and faculty. For more details, see <a href="/posts/20250530_leaving_before_the_beginning">our recent blog post</a>.
+
 ewcssnature:
   date: 2024-09-04
   text: |

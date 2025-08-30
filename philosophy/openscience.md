@@ -12,7 +12,7 @@ tags = ["philosophy", "open science"]
 
 # Open Science
 
-The CoReACTER is dedicated to open science, but what does that actually mean? "Open science" is a broad and vague term which means different things to different folks (see [^1]). For us, when we speak of "open science", we mean that the practice of science should be transparent; that there should be minimal barriers to access the outputs of scholarly scientific work; and that science and research should be practiced within communities that extend beyond the boundaries of a research group, a university, or academia as a whole.
+The CoReACTER is dedicated to open science, but what does that actually mean? "Open science" is a broad and vague term which means different things to different folks.[^1] For us, when we speak of "open science", we mean that the practice of science should be transparent; that there should be minimal barriers to access the outputs of scholarly scientific work; and that science and research should be practiced within communities that extend beyond the boundaries of a research group, a university, or academia as a whole.
 
 Here, we briefly describe some of our positions on open science and related practices. We emphasize that this page is meant only as an introduction to this discussion!
 
@@ -34,7 +34,7 @@ When we generate data that we believe may be valuable for future research, we pu
 
 Many scientific publications are closed-access: institutions (*e.g.*, libraries and universities) or individual readers must pay for the privilege of reading. This slows the spread of information, particularly to those who lack resources and privilege. The CoReACTER strongly believes that science should serve the public good. As a consequence of this belief, we hold that published scientific outputs such as journal articles, book chapters, and whitepapers should be publicly available at no cost.
 
-Before submitting to any journal, we commit to publishing our work as a preprint on servers such as [arXiv](arxiv.org) and [ChemRxiv](chemrxiv.org). We strongly prefer open-access journals and will always submit to such venues when the CoReACTER is the primary or sole organization involved in a manuscript; we will also strongly advocate for open-access publications in all other cases. We further commit to making \*.PDF files of all CoReACTER publications available through this website.
+Before submitting to any journal, we commit to publishing our work as a preprint on servers such as [arXiv](arxiv.org) and [ChemRxiv](chemrxiv.org). We strongly prefer open-access journals and will always submit to such venues when the CoReACTER is the primary or sole organization involved in a manuscript; we will also strongly advocate for open-access publications in all other cases. We further commit to making \*.PDF files of all CoReACTER publications available through this website.[^3]
 
 Noting the interest in open-access publications, many journals have begun charging authors to publish their work (*via* so-called article processing charges or APCs), rather than charging readers. Under these schemes, including "Gold Open Access", research becomes widely available, but with the consequence that only well-resourced researchers can afford to publish in many popular venues. Currently, the CoReACTER is willing to pay APCs to ensure that our publications are freely available. However, our priciples oppose this exploitative and unjust practice, and so we seek to minimize these payments. We specifically refuse to pay to publish in *Nature* and its family of journals, as they charge exorbitant fees (greater than \$10,000 per article) that, in our view, constitute rent-seeking behavior.
 
@@ -45,4 +45,7 @@ Noting the interest in open-access publications, many journals have begun chargi
 # Footnotes
 
 [^1]: [DOI: 10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
+
 [^2]: [DOI: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+
+[^3]: PDFs aren't the most accessible, and we are open to alternatives that allow us to share our research with *everyone*. If you have ideas to improve accessibility, please reach out!

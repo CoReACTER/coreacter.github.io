@@ -16,6 +16,10 @@ Here, we list some resources that might be helpful for you in your educational a
 
 * [The CoReACTER Manual](/_files/The_CoReACTER_Manual.pdf): For all your CoReACTER philosophy/policy/practices/advice needs.
 
+## Resources for UCD Students
+
+Work in progress; check back here soon!
+
 ## Resources for CMU Students
 
 * [Office of Disability Resources](https://www.cmu.edu/disability-resources/): For information about disability accommodations. 

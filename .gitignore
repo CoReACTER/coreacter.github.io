@@ -2,3 +2,6 @@ __site/
 .DS_Store
 node_modules/
 package-lock.json
+todo.txt
+not_included.txt
+drafts/
