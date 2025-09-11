@@ -17,11 +17,15 @@ Before you reach out or apply to work with us, it's a good idea for you to check
 
 ## Graduate Students
 
-The CoReACTER plans to hire **one doctoral student** at UCD with a start date of January 2026. Stay tuned for more details!
+The CoReACTER (through EWCSS' role as a UCD Assistant Professor) is looking to sponsor one application for the [Government of Ireland Postgraduate Scholarship Program](https://www.researchireland.ie/funding/government-ireland-postgraduate/). We are open to applicants in any research area in or related to chemistry. In particular, we welcome applicants with research interests related to chemical reaction networks (or network science more broadly), multiscale modeling, electrochemistry, sustainable chemistry, and/or philosophy of chemistry. Note that European Union (and adjacent) nationals/residents are preferred, but scholarships can be provided to applicants of any country of origin/residence.
+
+See **Instructions** below for a brief outline of how to express your interest.
 
 ## Postdocs
 
-We do not currently have funding for postdoctoral researchers, but interested candidates who currently hold external funding or are willing to pursue postdoctoral fellowships are always welcome to reach out. Some opportunities for postdoc fellowships are provided in our [resources page](/resources/).
+The CoReACTER (through EWCSS' role as a UCD Assistant Professor) is looking to sponsor one application for the [Government of Ireland Postdoctoral Fellowship Program](https://www.researchireland.ie/funding/government-ireland-postdoctoral/). We are open to applicants in any research area in or related to chemistry. In particular, we welcome applicants with research interests related to chemical reaction networks (or network science more broadly), multiscale modeling, electrochemistry, sustainable chemistry, and/or philosophy of chemistry.
+
+See **Instructions** below for a brief outline of how to express your interest.
 
 ## Undergraduates
 
@@ -35,5 +39,5 @@ The CoReACTER always welcomes undergraduate researchers! **No prior research exp
 
 If you are interested in working in the CoReACTER, please send an e-mail to [EWCSS](mailto:ewcspottesmith@cmu.edu). In your message, please provide a CV and answer the following questions:
 1. What project(s) you are interested in working on?
-2. Why you are interested in this work, and in working in the CoReACTER?
+2. Why you are interested in this work, and why are you interested in performing this work withnin the CoReACTER?
 3. What is your least favorite word (in any language), and why?
