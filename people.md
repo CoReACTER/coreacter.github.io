@@ -19,13 +19,13 @@ Before you reach out or apply to work with us, it's a good idea for you to check
 
 The CoReACTER (through EWCSS' role as a UCD Assistant Professor) is looking to sponsor one application for the [Government of Ireland Postgraduate Scholarship Program](https://www.researchireland.ie/funding/government-ireland-postgraduate/). We are open to applicants in any research area in or related to chemistry. In particular, we welcome applicants with research interests related to chemical reaction networks (or network science more broadly), multiscale modeling, electrochemistry, sustainable chemistry, and/or philosophy of chemistry. Note that European Union (and adjacent) nationals/residents are preferred, but scholarships can be provided to applicants of any country of origin/residence.
 
-See **Instructions** below for a brief outline of how to express your interest.
+See **Instructions** below for a brief outline of how to express your interest. Please reach out by **September 19, 2025**. We will interview candidates in the following week and plan to make our selection by **September 26** to ensure that the selected applicant has adequate time to prepare a strong application.
 
 ## Postdocs
 
 The CoReACTER (through EWCSS' role as a UCD Assistant Professor) is looking to sponsor one application for the [Government of Ireland Postdoctoral Fellowship Program](https://www.researchireland.ie/funding/government-ireland-postdoctoral/). We are open to applicants in any research area in or related to chemistry. In particular, we welcome applicants with research interests related to chemical reaction networks (or network science more broadly), multiscale modeling, electrochemistry, sustainable chemistry, and/or philosophy of chemistry.
 
-See **Instructions** below for a brief outline of how to express your interest.
+See **Instructions** below for a brief outline of how to express your interest. Please reach out by **September 19, 2025**. We will interview candidates in the following week and plan to make our selection by **September 26** to ensure that the selected applicant has adequate time to prepare a strong application.
 
 ## Undergraduates
 
