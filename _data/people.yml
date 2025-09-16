@@ -47,7 +47,7 @@ vanshika:
   display_name: Vanshika Raj Singh
   pronouns: she/her
   email: vanshikarajsinghv@gmail.com
-  role: reacter
+  role: alumni
   position: Bachelor's Student in Chemical Engineering, Birla Institute of Technology, Mesra
   image: vanshika.jpg
   alt: A South Asian woman with wavy shoulder-length hair. She is wearing a white t-shirt and glasses. She faces right and looks at the camera with a cocked head.
@@ -56,7 +56,7 @@ kittypl:
   display_name: Katherine (Kitty) Pierre-Louis
   pronouns: she/her
   email: kpierrel@andrew.cmu.edu 
-  role: reacter
+  role: alumni
   position: Visiting Student
   image: kitty_pl.jpg
   alt: A Black woman with a round face is smiling at the camera in front of a blue-gray background. She wears her hair in braids, some of which are silver. She is wearing a white shirt under a sea green and silver layer.
@@ -69,3 +69,12 @@ punnaamorn:
   position: Bachelor's Student in Chemical Engineering, CMU
   image: punna_amorn.jpg
   alt: A Southeast Asian woman with brown eyes and long brown hair streaked with blonde gives a slight smile to the camera. Standing in front of a white background, she is wearing several gold earrings and a black sleeveless top.
+
+mnislam:
+  display_name: Mohammad Nahidul Islam
+  pronouns: he/him
+  email: nahidulislam.che@gmail.com
+  role: reacter
+  position: Incoming Master's Student in Chemical Engineering, University of Calgary
+  image: mnislam.png
+  alt: A South Asian man with thick black and gray hair standing up looks dead at the camera with tight lips. He is wearing a patially buttoned striped cream shirt, and his hand is on his hip (hip not visible). In the background are mostly green plants, with some white and red flowers.
