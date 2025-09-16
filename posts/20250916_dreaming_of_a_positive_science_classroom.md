@@ -1,21 +1,21 @@
 +++
 title = "Dreaming of a Positive Science Classroom"
 hascode = true
-date = Date(2025, 9, 1)
+date = Date(2025, 9, 16)
 rss = "As they begin teaching at University College Dublin, EWCSS considers what it means to have a positive educational experience and how one might create a positive environment when teaching in sceince, specifically."
 tags = ["pedagogy", "learning", "teaching", "radical", "fun", "relevance", "freedom"]
 blog_post_title = "Dreaming of a Positive Science Classroom"
-blog_post_date = Date(2025, 9, 1)
+blog_post_date = Date(2025, 9, 16)
 blog_post_author = ["ewcss"]
 blog_post_preview = "As they begin teaching at University College Dublin, EWCSS considers what it means to have a positive educational experience and how one might create a positive environment when teaching in sceince, specifically."
-blog_post_image = ""
-blog_post_image_alt = ""
+blog_post_image = "20250916_dreaming_of_a_positive_science_classroom/positive_classroom_toc.png"
+blog_post_image_alt = "A picture of a placid lake. Birds swim on the surface. In the background are several buildings (mostly concrete), trees, and several tall posts. The sky is bright blue with white clouds filling about half of the sky."
 +++
 
 # Dreaming of a Positive Science Classroom
 
 I have just begun my position as an assistant professor at University College Dublin.
-For now, I'm only teaching a small tutorial-style course, but in a few month's time, I'll be teaching statistical mechanics to chemistry undergraduates.
+For now, I'm only teaching a small tutorial-style course, but in a few month's time, I'll be teaching statistical mechanics to chemistry undergraduates and (hopefully) scientific writing and research ethics to graduate students.
 Even before I knew what I'd be teaching, though, I had been at work planning, thinking about the philosophy and practices that I'll bring to the classroom.
 What will assignments look like?
 How do I want students to interact with each other?
@@ -32,15 +32,15 @@ I cannot succinctly explain how much I learned in these courses, but I can expre
 ### The Best Class I Ever Took
 Even as an engineering student, at Columbia University, I had many opportunities to take courses outside of my area of specialization.
 One of those courses was "Mistake, Misconduct, Disaster: How Organizations Fail".
-This was an organizational sociology course taught by Diane Vaughan, who literally wrote the book on the explosion of the Space Shuttle Challenger[^2] and explained how the disaster was in large part caused by harmful changes in the institutional culture of NASA.[^3]
+This was an organizational sociology course taught by Diane Vaughan, who literally wrote the book on the explosion of the Space Shuttle Challenger[^2] and explained how the disaster was in large part caused by changes in the institutional culture of NASA.[^3]
 Though the course was rooted in sociology, we read broadly, from Hannah Arendt's *Eichmann in Jerusalem* to articles about nuclear power plants and the fall of the Berlin Wall, and we were encouraged to bring our experiences and understandings outside of sociology to bear.
 One day in class, we were discussing police misconduct,[^4] and Prof. Vaughan asked the class what changes could be made to limit such negative behavior.
-I had recently taken several economics courses, and incentives were at the front of my mind.
+I had recently taken several economics courses, and *incentives* were at the front of my mind.
 I offered the idea that we could expect no improvement in police misconduct unless their incentives shift, encouraging community well-being instead of high arrest rates and traffic fine revenue.
 Though I don't think Prof. Vaughan expected this answer, she appreciated it and gave it space, opening the class to a broader discussion about incentives in policing.
 
 The *openness* of "Mistake, Misconduct, Disaster" made it an intellectual playground where I could experiment and explore.
-Through the class design and the professor's open-minded approach, I recognized the connections within my knowledge, that what I learned in Prof. Vaughan's class could be applied to just about any organization that I was a part of and that my knowledge in areas like engineering and economics could provide useful insights in an area like sociology that I had previously considered far away from my domain.
+Through the class design and the professor's open-minded approach, I recognized the connections within my knowledge, that what I learned in Prof. Vaughan's class could be applied to just about any organization that I was a part of and that my knowledge in areas like engineering and economics could provide useful insights in an area like sociology that I had previously considered intellectually distant and disconnected.
 
 ### Crystallography
 My crystallography course, a core undergraduate/graduate hybrid course, was taught by a no-nonsense materials scientist.
@@ -53,9 +53,9 @@ I enjoyed making and analyzing crystallographic projections, visualizing symmetr
 But I could not enjoy my crystallography class.
 Under intense pressure, I was too stressed about finishing the long problem sets and surviving the exams to spend much time on aesthetics, on fun.
 
-I walked out of the final exam room laughing, fully believeing that I did not know enough and choosing to lean into absurdity rather than despair.
+I walked out of the final exam room laughing, fully believeing that I did not know enough and choosing to lean into humor rather than despair.
 I ended up passing and moving on to other grueling courses, but I can imagine how it must feel for the folks that failed, who suffered and stressed only to find that they weren't good enough.
-To do all that and have to do it all again, knowing what you'll be put through, would be soul-crushing.
+To do all that and have to do it all again, knowing what you'll be put through, would be (and must have been) soul-crushing.
 
 ### Dancing In Manhattan
 Columbia required that all students (except student athletes) take two physical education courses.
@@ -68,7 +68,7 @@ Most of the other students were long-time dancers, including dance majors, and I
 
 To my surprise, the class started with us barely "dancing" at all.
 For the first couple of weeks, we instead did exercises that taught us to give and take touch, to speak, listen, and respond through movement.
-I came to understand that, with no steps to follow, contact improv requires communication, intimacy, and trust.
+I came to understand that, with no steps to follow, contact improv requires intimacy, trust, and subtle but consistent communication.
 I remember one day, a few weeks into the course, seeing pairs of dancers experimenting with some lifts.
 I was one of the larger and physically stronger students, and so I thought that I should be able to lift my partner, too.
 We started dancing across the room, and when I moved in for her waist, she lowered her center, preventing my lift.
@@ -85,13 +85,13 @@ What if we danced among the apples and pears?
 At this point, with many moments of laughter, mis-steps, and beauty shared, the whole class had established intimacy.
 My group believed that our dancers would follow us, trust us, and launch themselves into our field trip dance adventure.
 And we were right.
-I still cherish the memory of contact improv-ing on the side of a busy Manhattan street.
+I still cherish the memory of dancing wildly on the side of a busy Manhattan street.
 We took a leap of faith, landed on our feet, and found joy in it.
 
 ### Towards the Sweet Spot
 Finally, I'll give the example of a good STEM course -- in fact, the most impactful engineering course I've taken.
 It was "Engineering for Sustainable Development", which I took as part of my Sustainable Engineering minor.
-It was led by a Professional Engineer who taught as an adjunct in his spare time.
+It was led by a licensed Professional Engineer who taught as an adjunct in his spare time.
 To accommodate the professor's schedule, the class was held 7:00-9:30 PM once a week, by which time I was often ready to sleep.
 It wasn't a required course for any major, meaning that everyone in the class had higher priorities.
 On paper, it looked like the class would be a disaster, filled with empty chairs and empty stares.
@@ -112,7 +112,7 @@ First of all, what do I mean by "positive"?
 This is an admittedly ambiguous term, and what one person views as positive might be negative to another person.
 In the context of formal education, a positive learning environment can refer to one where students are able to actively engage in their learning, where students are able to achieve work-life balance, where students feel welcome, comfortable, and safe in the environment, where students have opportunities to interact with one another and cooperate, where students are able to cultivate personal relationships with each other and with the instructor(s), and where there is a sense of a learning community.[^5]
 
-So, do students *need* a positive learning environment, by this definition
+So, do students *need* a positive learning environment, by this definition?
 Don't students learn best under pressure?
 I will not (and cannot) speak for each individual's experience with learning.
 Surely there are some individuals who cannot learn without demanding instructors, difficult, dry assignments, and all-important, make-or-break exams.
