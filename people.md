@@ -27,9 +27,7 @@ The opening is listed on the [UCD vacancies page](https://www.ucd.ie/chem/vacanc
 
 ## Postdocs
 
-The CoReACTER (through EWCSS' role as a UCD Assistant Professor) is looking to sponsor one application for the [Government of Ireland Postdoctoral Fellowship Program](https://www.researchireland.ie/funding/government-ireland-postdoctoral/). We are open to applicants in any research area in or related to chemistry. In particular, we welcome applicants with research interests related to chemical reaction networks (or network science more broadly), multiscale modeling, electrochemistry, sustainable chemistry, and/or philosophy of chemistry.
-
-See **Instructions** below for a brief outline of how to express your interest. Please reach out by **September 19, 2025**. We will interview candidates in the following week and plan to make our selection by **September 26** to ensure that the selected applicant has adequate time to prepare a strong application.
+We do not currently have funding for postdoctoral researchers, but interested candidates who currently hold external funding or are willing to pursue postdoctoral fellowships are always welcome to reach out. Some opportunities for postdoc fellowships are provided in our [resources page](/resources/).
 
 ## Undergraduates
 
