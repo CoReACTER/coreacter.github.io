@@ -42,4 +42,4 @@ The CoReACTER always welcomes undergraduate researchers! **No prior research exp
 If you are interested in working in the CoReACTER, please send an e-mail to [EWCSS](mailto:ewcspottesmith@cmu.edu). In your message, please provide a CV and answer the following questions:
 1. What project(s) you are interested in working on?
 2. Why you are interested in this work, and why are you interested in performing this work within the CoReACTER?
-3. What is your least favorite word (in any language), and why?
+3. What is your least favorite word (in any language), and why? Please be honest (and human) here. There's no way that everyone's least favorite word is really "impossible" (or variations thereof)!
