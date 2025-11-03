@@ -17,9 +17,7 @@ Before you reach out or apply to work with us, it's a good idea for you to check
 
 ## Graduate Students
 
-We are looking for one PhD student to work on a funded project based on Ad Astra Fellowship startup funding. This position would begin **January 1, 2026**. The aim of this project is to develop and apply computational methods for statistical learning on chemical reaction network (CRNs) structures. Of particular interests are (directed) hypergraph neural networks, which can be used to predict vertex (molecule), hyperedge (reaction), or hypergraph (network) features. While this project will be heavily focused on algorithm design and software development, especially in its early stages, we also intend to employ the methods developed for such applications as electrolyte decomposition in metal-ion batteries or biomass pyrolysis. One scholarship of stipend €25,000 per annum is available for 4 years for the successful applicant. Fees will be also covered. There will be a requirement to teach in undergraduate laboratories and tutorials as part of the scholarship.
-
-The opening is listed on the [UCD vacancies page](https://www.ucd.ie/chem/vacancies/), and a full description (with job expectations and desired qualifications) is posted [here](https://www.ucd.ie/chem/t4media/Funded%20PhD%20with%20Assistant%20Professor%20Evan%20Spotte.pdf). See **Instructions** below for a brief outline of how to express your interest. Applications are due **October 31, 2025**. We will reach out with further details, including information related to (virtual) interviews, after the closing date.
+We plan to open a search for another PhD student, likely with a start date of **September 2026**. Check back soon!
 
 ## Postdocs
 
