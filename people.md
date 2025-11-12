@@ -50,9 +50,9 @@ Candidates who do not meet all of these criteria should not feel discouraged. **
 
 ### How to Apply:
 Interested candidates should submit a **brief (1 page or less) cover letter, CV, academic transcripts, and certificates of your academic qualifications** to [evan.spotte-smith@ucd.ie](mailto:evan.spotte-smith@ucd.ie) or to [CoReACTER@proton.me](mailto:CoReACTER.proton.me). In your cover letter, please be sure to address the following:
-	- Why are you interested in working on this project?
-	- Why, specifically, are you interested in working with (and within) the CoReACTER?
-	- What is your dream vacation destination?
+- Why are you interested in working on this project?
+- Why, specifically, are you interested in working with (and within) the CoReACTER?
+- What is your dream vacation destination?
 
 For more information about the position, please contact EWCSS at [evan.spotte-smith@ucd.ie](mailto:evan.spotte-smith@ucd.ie).
 
