@@ -14,7 +14,7 @@ ewcss:
   role: reacter
   position: Ad Astra Fellow and Assistant Professor of Chemistry, UCD; Adjunct Professor of Chemical Engineering, CMU
   image: ewcss.png
-  alt: A white person standing and smiling against a bright, mostly white background. They are wearing glasses and a white dress shirt with small dots. Half of their face is lit.
+  alt: A white person with shoulder-length, slightly wavy brown hair is standing and smiling against a bright, mostly white background. They are wearing glasses and a white dress shirt with small dots. Half of their face is lit.
 
 sblau:
   display_name: Samuel M. Blau
@@ -87,3 +87,12 @@ samhoffheinz:
   position: Bachelor's Student in Environmental Chemistry, UCD
   image: sam_hoffheinz.jpg
   alt: A grayscale image of a white man wearing a t-shirt and glasses. His eyes are creased as he gives a tight-lipped smile. His hair is short on the sides and a bit longer on top; he is sporting a short beard.
+
+zhenyabarannik:
+  display_name: Zhenya Barannik
+  pronouns: he/him
+  email: radchemsu@gmail.com
+  role: reacter
+  position: (Incoming) PhD student in Chemistry, UCD
+  image: zhenya_barannik.jpg
+  alt: A white person with steel-blue eyes looks straight at the camera with a neutral expression. His hair is straight and parted in the middle, with wisps going in different directions on both sides of his head. He has a septum piercing with a circular barbell ring and is wearing a black t-shirt. The background is uniform white.
