@@ -2,6 +2,7 @@ using BibInternal
 using Bibliography
 using YAML
 using OrderedCollections
+using Random
 
 # For parsing and formatting *.bib files
 function publication_title_case(string::String)
@@ -238,7 +239,7 @@ function hfun_peopletable(params::Vector{String})
 """
   )
 
-  for values in people_data.vals
+  for values in shuffle!(people_data.vals)
     if values["role"] == role
       push!(
         final_parts,
