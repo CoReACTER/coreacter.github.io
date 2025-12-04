@@ -17,7 +17,7 @@ Before you reach out or apply to work with us, it's a good idea for you to check
 
 ## Graduate Students
 
-One doctoral (PhD) position (4 years) is available to work in the CoReACTER within the School of Chemistry at University College Dublin. The doctoral student will be supervised by EWCSS, an Assistant Professor in the School of Chemistry. This position is intended to begin **September 1, 2026**.
+One doctoral (PhD) position (4 years) is available to work in the CoReACTER within the School of Chemistry at University College Dublin. The doctoral student will be supervised by EWCSS, an Assistant Professor in the School of Chemistry. This position is intended to begin **September 1, 2026**. Complete applications submitted on or before **January 16, 2026** will receive full consideration.
 
 The aim of this project is to develop a fundamental understanding of **cross-talk reaction mechanisms** in electrochemical systems, with a primary focus on **Li-ion and Na-ion batteries**. Cross-talk occurs when reductive products formed at the battery's negative electrode transport to the positive electrode and/or oxidative products formed at the battery's positive electrode transport to the negative electrode via some combination of diffusion, migration, and convection. Once at the opposite electrode, these products engage in further reactivity, frequently hampering electrochemical performance. Although cross-talk is recognized as an important process in many electrochemical systems, including metal-ion batteries, little is known about cross-talk mechanisms.
 
